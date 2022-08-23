@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testpartsbase/static/css/main.7acaea2f.css",
+    "main.js": "/testpartsbase/static/js/main.bc46ddd9.js",
+    "index.html": "/testpartsbase/index.html",
+    "main.7acaea2f.css.map": "/testpartsbase/static/css/main.7acaea2f.css.map",
+    "main.bc46ddd9.js.map": "/testpartsbase/static/js/main.bc46ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc46ddd9.js"
+  ]
+}
