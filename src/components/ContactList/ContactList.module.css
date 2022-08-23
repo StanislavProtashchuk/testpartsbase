@@ -1,0 +1,43 @@
+.button {
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 7px;
+    background-color: rgb(67, 230, 230);
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+.button:hover,
+button:focus {
+    background-color: rgb(5, 141, 253);
+}
+
+.list{
+    margin-bottom: 5px;
+    width: 320px;
+    font-size: 19px;
+    border: 3px solid rgb(67,
+        230,
+        230);
+    border-radius: 5px;
+}
+
+.item{
+    width: 320px;
+    display: flex;
+    flex-direction: row;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.value{
+    margin-left: 10px;
+    padding: 2px;
+    border: 3px solid rgb(67, 230, 230);
+    border-radius: 5px;
+}
