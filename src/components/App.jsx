@@ -7,6 +7,27 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "x4Hzt1AF59nHDM7t2jTR7",
+        "name": "2017 - 2022 TESLA MODEL 3 HVAC A/C SUCTION LIQUID HOSE LINE PIPE OEM 109215600F",
+        "number": "109215600F / 109215600 F / 1092156 00 F",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "gqwoW-_hZEoCmzNVa4V9b",
+        "name": "2017 - 2022 TESLA MODEL 3 CHARGING PORT INLET CABLE WIRE HARNESS OEM 109301000E",
+        "number": "109301000E / 109301000 E / 1093010 00 E",
+        "oem": "144949510E / 144949510 E / 1449495 10 E\t",
+        "notes": ""
+    },
+    {
+        "id": "WZcjylE54Y8jxkNarWHHf",
+        "name": "2017 - 2022 TESLA MODEL 3 STEERING COLUMN COMBINATION SWITCH OEM 109766200L",
+        "number": "109766200L / 109766200 L / 1097662 00 L\t",
+        "oem": "10328784, 109766200O / 109766200 O / 1097662 00 O\t",
+        "notes": ""
+    },
     {
         "id": "etIgLeXbIbZcXtm31zraj",
         "name": "2017 - 2022 TESLA MODEL 3 BATTERY NEGATIVE CABLE WIRE HARNESS OEM 106876800D",
