@@ -7,6 +7,83 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "sJQ7QyB8CionDh7Sh9Pev",
+        "name": "2005 - 2010 JEEP GRAND CHEROKEE LIFTGATE LEFT SHOCK LIFT SUPPORT OEM 68025357AA",
+        "number": "68025357AA / 68025357 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ulKxmGUvZWnrwzOZm5-6M",
+        "name": "2005 - 2010 JEEP GRAND CHEROKEE POWER STEERING RETURN HOSE PIPE OEM 52089865AC",
+        "number": "52089865AC / 52089865 AC",
+        "oem": "52089865AD / 52089865 AD\t",
+        "notes": ""
+    },
+    {
+        "id": "MlChwdocNfG-Auk7QeBh7",
+        "name": "2005 - 2010 JEEP GRAND CHEROKEE BRAKE STOP LIGHT SWITCH MODULE OEM 56054001AB",
+        "number": "56054001AB / 56054001 AB",
+        "oem": "56054001AD / 56054001 AD\t",
+        "notes": ""
+    },
+    {
+        "id": "uU607bNGQZbSix_SXff4w",
+        "name": "2005 - 2007 JEEP GRAND CHEROKEE DASH TRACTION CONTROL SWITCH UNIT OEM 56050153AF",
+        "number": "56050153AF / 56050153 AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "bLQCUckvX9KOGWI7cUWCG",
+        "name": "2007 JEEP GRAND CHEROKEE LEFT OR RIGHT SIDE BAG IMPACT SENSOR OEM 4896173AA",
+        "number": "4896173AA / 4896173 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "C0gZ0P383h8brRKv9QjkP",
+        "name": "2001 - 2010 JEEP GRAND CHEROKEE LIFTGATE WINDOW UNLOCK SWITCH OEM 56042450AB",
+        "number": "56042450AB / 56042450 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "sK8A7RHBEQKok33aFTDL3",
+        "name": "2007 JEEP GRAND CHEROKEE RIGHT OR LEFT SIDE BAG IMPACT SENSOR OEM 4896173AA",
+        "number": "4896173AA / 4896173 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "ol_kljEhqEm2zkWqx_Q7F",
+        "name": "2001 - 2010 JEEP GRAND CHEROKEE 3.7L ENGINE COOLANT WATER PUMP OEM PY9126",
+        "number": "PY9126 / PY 9126",
+        "oem": "53022189AH / 53022189 AH",
+        "notes": "1636208"
+    },
+    {
+        "id": "QaEJYstkN1PT2Dsue-0qi",
+        "name": "2007 JEEP GRAND CHEROKEE BCM FUSE BOX BODY CONTROL MODULE OEM 4692104AH",
+        "number": "4692104AH / 4692104 AH",
+        "oem": "4692138AG / 4692138 AG",
+        "notes": ""
+    },
+    {
+        "id": "LVpUgrT2laYat_KllS1gF",
+        "name": "2005 - 2010 JEEP GRAND CHEROKEE LEFT B PILLAR UPPER TRIM COVER OEM 5KU69BDXAA",
+        "number": "5KU69BDXAA / 5KU69BDX AA\t",
+        "oem": "5KU69BDXAB / 5KU69BDX AB\t",
+        "notes": ""
+    },
+    {
+        "id": "WT_Edxhmrc3aiHI7AB1vm",
+        "name": "2006 - 2010 JEEP GRAND CHEROKEE RIGHT B PILLAR UPPER TRIM COVER OEM 5KU68BDXAA",
+        "number": "5KU68BDXAA / 5KU68BDX AA\t",
+        "oem": "5KU68BDXAB / 5KU68BDX AB\t",
+        "notes": ""
+    },
         {
         "id": "7kze2001PYW7OwizflyB1",
         "name": "2005- 2007 JEEP GRAND CHEROKEE FRONT BUMPER COVER PANE LOEM 5JC26TRMAF GREEN=PGJ",
