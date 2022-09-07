@@ -7,6 +7,20 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "3y7Hp-llrI1V5JL8UCmsS",
+        "name": "2015 - 2017 CHRYSLER 200 A/C AIR CONDITIONING CONDENSER RADIATOR OEM 68195662AA",
+        "number": "68195662AA / 68195662 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "m94xhAegkQzvZi1A97scl",
+        "name": "2015-2020 MERCEDES GLA250 FRONT RIGHT SEAT AIRBAG AIR BAG MODULE OEM A1178601602",
+        "number": "A1178601602 / 1178601602 / 117 860 16 02\t",
+        "oem": "A117860160264 / 117860160264 / 117 860 16 02 64\t",
+        "notes": ""
+    },
             {
         "id": "sJQ7QyB8CionDh7Sh9Pev",
         "name": "2005 - 2010 JEEP GRAND CHEROKEE LIFTGATE LEFT SHOCK LIFT SUPPORT OEM 68025357AA",
