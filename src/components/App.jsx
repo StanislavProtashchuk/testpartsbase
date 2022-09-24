@@ -7,6 +7,48 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "FBMF3O0nJZT_-UXclP0r0",
+        "name": "2015 - 2022 DODGE CHARGER OWNERS OPERATORS MANUAL GUIDE W/ CASE OEM 68457735AB",
+        "number": "68457735AB / 68457735 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "bghBpy-ExGHKr0xbTNjcF",
+        "name": "2017- 2022 DODGE CHARGER CENTER CONSOLE AUX USB HUB SWITCH MODULE OEM 68294075AC",
+        "number": "68294075AC / 68294075 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "tyLbXz06455fsDkGWEC9M",
+        "name": "2011-2022 DODGE CHARGER REAR RIGHT OR LEFT ABS WHEEL SPEED SENSOR OEM 04779643AD",
+        "number": "04779643AD / 04779643 AD\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "U02616rK4DOT_zY5W2ll3",
+        "name": "2011 - 2022 DODGE CHARGER FRONT LEFT SIDE FENDER INSULATION FOAM OEM 68043211A",
+        "number": "68043211AD / 68043211 AD\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "MdR2CeTjjqMvmomwriTGr",
+        "name": "2011-2022 DODGE CHARGER REAR LEFT OR RIGHT ABS WHEEL SPEED SENSOR OEM 04779642AC",
+        "number": "04779642AC / 04779642 AC\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "SFTPspDZBVS-t4OJpyjWK",
+        "name": "2013- 2019 FORD ESCAPE FRONT LEFT SIDE DOOR LOWER HINGE OEM JX7BA22811AB GRAY=J7",
+        "number": "JX7BA22811AB / JX7BA22811 AB / JX7B A22811 AB",
+        "oem": "CJ5Z7822801C / CJ5Z7822801 C / CJ5Z 7822801 C",
+        "notes": ""
+    },
         {
         "id": "9fCb0GFHUaHHMgAFUod-H",
         "name": "2015 - 2022 DODGE CHARGER REAR BUMPER RIGHT EXHAUST TIP BRACKET OEM 682226560AA",
@@ -77,6 +119,7 @@ export function App() {
         "oem": "",
         "notes": ""
     },
+
         {
             "id": "rigxB0k0won-PXvkVrktc",
             "name": "2015 - 2022 DODGE CHARGER REAR BUMPER IMPACT ENERGY ABSORBER OEM 68214792AC",
@@ -29049,9 +29092,9 @@ export function App() {
         {
             "id": "MhyZbTLLHsHUtVYbEFvjq",
             "name": "2011 - 2022 DODGE CHARGER REAR LEFT QUARTER AIR PRESSURE GRILLE OEM 05058636AD",
-            "number": "FITS ANY SIDES, RIGHT AND LEFT",
-            "oem": "05058636AD / 05058636 AD",
-            "notes": ""
+            "number": "05058636AD / 05058636 AD",
+            "oem": "",
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT"
         },
         {
             "id": "ey3KR9kElcUgseLvGyini",
