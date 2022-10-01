@@ -7,6 +7,69 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "ZC6gpuw1JpEKTsynEZVDP",
+        "name": "2011 - 2022 DODGE CHARGER INTERIOR GRAB BAR HANDLE SET OEM 1RV81TRMAB BLACK=HAX9",
+        "number": "1RV81TRMAB / 1RV81TRM AB\t",
+        "oem": "1RV81TRMAB / 1RV81TRM AB, 1RV73DX9AD / 1RV73DX9 AD, 1TN63DX9AC /",
+        "notes": ""
+    },
+    {
+        "id": "hIpAt2lY_yHZ7lA5UA9hB",
+        "name": "2018 - 2020 DODGE CHARGER FRONT RIGHT SIDE DISC BRAKE CALIPER OEM 68302656AC",
+        "number": "68302656AC / 68302656 AC",
+        "oem": "68368082AA / 68368082 AA",
+        "notes": ""
+    },
+    {
+        "id": "sGIbA3xKCQ9uqn9Xgv070",
+        "name": "2018 - 2020 DODGE CHARGER FRONT LEFT SIDE BRAKE CALIPER ASSEMBLY OEM 68302657AC",
+        "number": "68302657AC / 68302657 AC",
+        "oem": "68368083AA / 68368083 AA",
+        "notes": ""
+    },
+    {
+        "id": "xUlEl2NszTngsa_XYsuKA",
+        "name": "2011-2022 DODGE CHARGER FRONT LEFT EXTERIOR DOOR HANDLE OEM 68060189AG GRAY=PAU",
+        "number": "68060189AG / 68060189 AG\t",
+        "oem": "1MZ85LAUAM / 1MZ85LAU AM",
+        "notes": ""
+    },
+    {
+        "id": "-vp4fU_OpOtnkJUz-ghwU",
+        "name": "2015 - 2022 DODGE CHARGER BATTERY POSITIVE CABLE WIRE HARNESS OEM 68207018AE",
+        "number": "68207018AE / 68207018 AE",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Jj1W8smnw-A5-Xx_Pn4xC",
+        "name": "2011 - 2022 DODGE CHARGER 3.6L TRANSMISSION CROSSMEMBER MOUNT OEM 94726089AD",
+        "number": "94726089AD / 94726089 AD\t",
+        "oem": "4726089AD / 4726089 AD",
+        "notes": ""
+    },
+    {
+        "id": "3U31Io7HAWwdOYaK20HhG",
+        "name": "2013 - 2022 DODGE CHARGER FRONT RIGHT SIDE DOOR HANDLE OEM 68060188AG GRAY=PAU",
+        "number": "68060188AG / 68060188 AG\t",
+        "oem": "1MZ84FFBAJ / 1MZ84FFB AJ",
+        "notes": ""
+    },
+    {
+        "id": "2Q6iD_Rh_xMq72y509LT3",
+        "name": "2012 - 2022 DODGE CHARGER REAR RIGHT EXTERIOR DOOR HANDLE OEM 760778AE GRAY=PAU",
+        "number": "760778AE / 760778 AE\t",
+        "oem": "1MZ80DX8AH / 1MZ80DX8 AH",
+        "notes": ""
+    },
+    {
+        "id": "M_U4v4eqDzRyuoMJwWCkg",
+        "name": "2015 - 2019 DODGE CHARGER REAR RIGHT SEAT BELT SEATBELT RETRACTOR OEM 5UZ22DX9AC",
+        "number": "5UZ22DX9AC / 5UZ22DX9 AC",
+        "oem": "",
+        "notes": ""
+    },
         {
         "id": "4KEAxZvy-wAZ6bBRzlcgH",
         "name": "2015 - 2022 DODGE CHARGER RIGHT ROCKER MOLDING PANEL OEM 1QA50TRMAF GRAY=PAU",
@@ -31676,7 +31739,7 @@ export function App() {
             "id": "JgoNCCI1qWypa0Lc3GK1O",
             "name": "2011 - 2022 DODGE CHARGER DASH LEFT LOWER KNEE BOLSTER TRIM COVER OEM 1JN63DX9AE",
             "number": "1JN63DX9AE / 1JN63DX9 AE\t",
-            "oem": "",
+            "oem": "1JN63DX9AF / 1JN63DX9 AF",
             "notes": ""
         },
         {
