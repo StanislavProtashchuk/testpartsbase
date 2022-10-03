@@ -13926,7 +13926,7 @@ export function App() {
         },
         {
             "id": "K-SrrGDjnijCmrNkzbz2S",
-            "name": "2016-2021 JEEP GRAND CHEROKEE REAR LEFT STEERING SPINDLE KNUCKLE OEM 04877113AC",
+            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR LEFT STEERING KNUCKLE & HUB OEM 04877113AC",
             "number": "04877113AC / 04877113 AC / 0 4877113 AC",
             "oem": "68253397AB / 68253397 AB\t",
             "notes": ""
@@ -17328,7 +17328,7 @@ export function App() {
         },
         {
             "id": "fl6QXkk6cKjfh6PSkkJtL",
-            "name": "2018- 2020 DODGE DURANGO ENGINE FUSE RELAY POWER DISTRIBUTION BOX OEM 68425216AB",
+            "name": "2018 - 2020 DODGE DURANGO SXT RWD 3.6L ENGINE FUSE RELAY BOX OEM 68425216AB",
             "number": "68425216AB / 68425216 AB",
             "oem": "",
             "notes": ""
@@ -18294,7 +18294,7 @@ export function App() {
         },
         {
             "id": "HOhf3zrFztPuAWfj4B86l",
-            "name": "2018 - 2022 DODGE DURANGO 3.6L AUTOMATIC TRANSMISSION 3K MILEAGE OEM 68271048AB",
+            "name": "2018 - 2022 DODGE DURANGO RWD 3.6L AUTO TRANSMISSION 3K MILEAGE OEM 68271048AB",
             "number": "68271048AB / 68271048 AB\t",
             "oem": "68271048AC / 68271048 AC",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
@@ -18329,14 +18329,14 @@ export function App() {
         },
         {
             "id": "mmsXcsOR0Q8mQM8onH2xy",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT SIDE SHOCK STRUT ASSEMBLY OEM 68280980AC",
+            "name": "2016-2022 DODGE DURANGO RWD 3.6L FRONT RIGHT SHOCK STRUT ABSORBER OEM 68280980AC",
             "number": "68280980AC / 68280980 AC",
             "oem": "68333780AA / 68333780 AA, 68299140AE / 68299140 AE\t",
             "notes": ""
         },
         {
             "id": "M_2MMw6mCMTmL3AE68PXx",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT SIDE SHOCK STRUT ASSEMBLY OEM 68280981AC",
+            "name": "2016 - 2022 DODGE DURANGO RWD 3.6 FRONT LEFT SHOCK STRUT ABSORBER OEM 68280981AC",
             "number": "68280981AC / 68280981 AC",
             "oem": "68333778AA / 68333778 AA, 68299141AE / 68299141 AE\t",
             "notes": ""
@@ -18357,7 +18357,7 @@ export function App() {
         },
         {
             "id": "uHpof03-w73SFDuXvTf_R",
-            "name": "2016 - 2022 DODGE DURANGO REAR STABILIZER SWAY BAR W/ LINK OEM 68253186AA",
+            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR STABILIZER SWAY BAR W/ LINK OEM 68253186AA",
             "number": "68253186AA / 68253186 AA",
             "oem": "",
             "notes": ""
@@ -18399,7 +18399,7 @@ export function App() {
         },
         {
             "id": "6mZ0XVHIwXJrbEHF_PIEJ",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT SIDE STEERING KNUCKLE & HUB OEM 04877659AD",
+            "name": "2016-2022 DODGE DURANGO RWD 3.6L FRONT LEFT STEERING KNUCKLE & HUB OEM 04877659A",
             "number": "04877659AD / 04877659 AD\t",
             "oem": "",
             "notes": ""
@@ -18413,7 +18413,7 @@ export function App() {
         },
         {
             "id": "_vasxlIhe1Fzr5cFL8Ybx",
-            "name": "2019 - 2020 DODGE DURANGO 3.6L TRANSMISSION GEAR SHIFTER SELECTOR OEM 6FE063X9AE",
+            "name": "2019- 2020 DODGE DURANGO 3.6L TRANSMISSION GEAR SHIFTER BOOT KNOB OEM 6FE063X9AE",
             "number": "6FE063X9AE / 6FE063X9 AE\t",
             "oem": "6FE063X9AF / 6FE063X9 AF\t",
             "notes": ""
@@ -18490,7 +18490,7 @@ export function App() {
         },
         {
             "id": "8jtAAL_FER08fKmbNvjC6",
-            "name": "2016 - 2022 DODGE DURANGO REAR RIGHT SIDE STEERING KNUCKLE & HUB OEM 04877112AC",
+            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR RIGHT STEERING KNUCKLE & HUB OEM 04877112A",
             "number": "04877112AC / 04877112 AC",
             "oem": "68253396AB / 68253396 AB\t",
             "notes": ""
@@ -18553,14 +18553,14 @@ export function App() {
         },
         {
             "id": "qaKQC9EYmixRsrvSYkC_1",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT SIDE CONTROL ARM SET OF 4 OEM 52124814AD",
+            "name": "2011- 2022 DODGE DURANGO RWD 3.6L REAR RIGHT CONTROL ARM SET OF 4 OEM 52124814AD",
             "number": "52124814AD / 52124814 AD\t",
             "oem": "52124810AG / 52124810 AG, 52124830AD / 52124830 AD, 52124840AB / 52124840 AB, 52124820AC / 52124820 AC",
             "notes": ""
         },
         {
             "id": "vEoC8lxqn4YtgkPbFn9VY",
-            "name": "2014 - 2022 DODGE DURANGO REAR LEFT SIDE CONTROL ARM SET OF 4 OEM 52124815AD",
+            "name": "2014 - 2022 DODGE DURANGO RWD 3.6L REAR LEFT CONTROL ARM SET OF 4 OEM 52124815AD",
             "number": "52124815AD / 52124815 AD\t",
             "oem": "52124811AG / 52124811 AG, 52124830AD / 52124830 AD, 52124840AB / 52124840 AB, 52124821AC / 52124821 AC",
             "notes": ""
