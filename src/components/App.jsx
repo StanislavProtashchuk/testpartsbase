@@ -8,6 +8,111 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "94Z6C_lD6vW3aLexzfsuc",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT REAR LEFT DOOR HANDLE OEM 5N0837017E WHITE=0Q0Q",
+        "number": "5N0837017E / 5N0837017 / 5N0 837 017 E\t",
+        "oem": "5N0837885H / 5N0837885 / 5N0 837 885 H, 5N0839885H / 5N0839885 / 5N0 839 885 H",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "ZD1vZTBAwuprBw6ftBv6X",
+        "name": "2016 - 2018 VOLKSWAGEN PASSAT GPS NAVIGATION CONTROL MODULE UNIT OEM 561035285A",
+        "number": "561035285A / 561035285 / 561 035 285 A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "2rRcpRmiJYmJLBNbRPuq6",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT FRONT RIGHT SHOCK STRUT ABSORBER OEM 561413031K",
+        "number": "561413031K / 561413031 / 561 413 031 K\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "ceiGTWO8n6rf-GEeqcpxm",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT FRONT LEFT SHOCK STRUT ABSORBER OEM 561413031K",
+        "number": "561413031K / 561413031 / 561 413 031 K",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "Xc7DZEnoXnWWw5plXX4tM",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT REAR RIGHT DOOR WINDOW REGULATOR OEM 561839462F",
+        "number": "561839462F / 561839462 / 561 839 462 F\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "2gw8hc4VrvIsjnwv9wTOq",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT REAR LEFT DOOR WINDOW REGULATOR OEM 561839461F",
+        "number": "561839461F / 561839461 / 561 839 461 F\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "-pHQdsuCtQZCAQyrBSdCk",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT FRONT WINDSHIELD WIPER LINKAGE OEM 561955023C",
+        "number": "561955023C / 561955023 / 561 955 023 C\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "qyXTH-C-_r7DowYEiDQiF",
+        "name": "2012- 2020 VOLKSWAGEN PASSAT REAR LEFT LOWER TRAILING CONTROL ARM OEM 1K0505223L",
+        "number": "1K0505223L / 1K0505223 / 1K0 505 223 L\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "iyUzL8aw-rjxvwMvNwtCL",
+        "name": "2012-2020 VOLKSWAGEN PASSAT REAR RIGHT LOWER TRAILING CONTROL ARM OEM 1K0505224L",
+        "number": "1K0505224L / 1K0505224 / 1K0 505 224 L\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4EzC6vjxVT_HRisoM1lIX",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT SUN ROOF SUNROOF MOONROOF MOTOR OEM 561959591A",
+        "number": "561959591A / 561959591 / 561 959 591 A\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "5R1YWQxgVe2uVmBYhux73",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT FRONT LEFT SIDE LOWER CONTROL ARM OEM 561407151C",
+        "number": "561407151C / 561407151 / 561 407 151 C\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "lZbiq13m6KdZy38lgZ95_",
+        "name": "2012 - 2019 VOLKSWAGEN PASSAT DASH LEFT HEADLIGHT SWITCH CONTROL OEM 3C8941431AB",
+        "number": "3C8941431AB / 3C8941431 / 3C8 941 431 AB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ymVSXFHMoHqqgdTVGy2vk",
+        "name": "2012 - 2022 VOLKSWAGEN PASSAT STEERING COLUMN TURN SIGNAL SWITCH OEM 1K5953521CR",
+        "number": "1K5953521CR / 1K5953521 / 1K5 953 521 CR\t",
+        "oem": "1K5953502H / 1K5953502 / 1K5 953 502 H, 5K0953502AD / 5K0953502 / 5K0 953 502 AD",
+        "notes": ""
+    },
+    {
+        "id": "w4yi5JZBQqJq2AJimPPup",
+        "name": "2012 - 2022 VOLKSWAGEN PASSAT FRONT WINDSHIELD RIGHT WIPER ARM OEM 561955406B",
+        "number": "561955406B / 561955406 / 561 955 406 B\t",
+        "oem": "561955410B / 561955410 / 561 955 410 B",
+        "notes": ""
+    },
+    {
+        "id": "RVCAimjtesvDCIKF1vToN",
+        "name": "2012 - 2022 VOLKSWAGEN PASSAT FRONT WINDSHIELD LEFT WIPER ARM OEM 561955405B",
+        "number": "561955405B / 561955405 / 561 955 405 B\t",
+        "oem": "561955409B / 561955409 / 561 955 409 B",
+        "notes": ""
+    },
+        {
         "id": "hhLl2mFWflMtXOtjr78DK",
         "name": "2016 - 2018 VOLKSWAGEN PASSAT CENTER CONSOLE BASE FRAME BRACKET OEM 561863239RG",
         "number": "561863239RG / 561863239 / 561 863 239 RG",
@@ -17853,8 +17958,8 @@ export function App() {
         },
         {
             "id": "P2MAcJIAjz6A_V8xSeu3E",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL1DX9AA",
-            "number": "5XL1DX9AA / 5XL1DX9 AA",
+            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL19DX9AA",
+            "number": "5XL19DX9AA / 5XL19DX9 AA",
             "oem": "5XT61DX9AA / 5XT61DX9 AA",
             "notes": ""
         },
