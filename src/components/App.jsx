@@ -7,286 +7,328 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
-        {
-        "id": "7igEyxjRl67Is3Mk2W300",
-        "name": "2013 - 2022 DODGE CHARGER REAR LEFT EXTERIOR DOOR HANDLE OEM 760779AE GRAY=PAU",
-        "number": "760779AE / 760779 AE\t",
-        "oem": "1MZ81LAUAH / 1MZ81LAU AH",
+            {
+        "id": "5rBmsgyzdAvXHyPIYxEh-",
+        "name": "2012 - 2022 VOLKSWAGEN PASSAT DASH SCREEN DISPLAY RADIO RECEIVER OEM 5C0035684D",
+        "number": "5C0035684D / 5C0035684 / 5C0 035 684 D\t",
+        "oem": "5C0035684E / 5C0035684 / 5C0 035 684 E\t",
         "notes": ""
     },
     {
-        "id": "SHFgW0Yci_svPZyHtQsVr",
-        "name": "2017 - 2020 TESLA MODEL 3 RIGHT MAIN BODY WIRE WIRING HARNESS OEM 107097900F",
-        "number": "107097900F / 107097900 F / 1070979 00 F\t",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "7Rgx3Zk9cSHXN8bRvQgDX",
-        "name": "2007 - 2017 JEEP PATRIOT 2.0L ELECTRIC FUEL GAS PUMP SENDING UNIT OEM 05147015AB",
-        "number": "05147015AB / 05147015 AB",
-        "oem": "05183201AF / 05183201 AF\t",
-        "notes": ""
-    },
-    {
-        "id": "VtpGQhhrz-LnwoZy5AU5A",
-        "name": "2016 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SIDE SPINDLE KNUCKLE OEM 04877659AC",
-        "number": "04877659AC / 04877659 AC",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "oE74tXUofqP6yX1SjGBXc",
-        "name": "2018 - 2022 JEEP COMPASS 2.4L EVAPORATOR FUEL VAPOR CANISTER OEM 68339700AC",
-        "number": "68339700AC / 68339700 AC\t",
-        "oem": "68339700AE / 68339700 AE",
-        "notes": ""
-    },
-    {
-        "id": "bjB6kq450wSWlSu9mSKNX",
-        "name": "2017 - 2022 JEEP COMPASS 2.4L 4X4 REAR RIGHT SIDE AXLE SHAFT OEM 68287864AB",
-        "number": "68287864AB / 68287864 AB",
-        "oem": "",
-        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
-    },
-    {
-        "id": "eFwyR6sX101woFEfuHKpK",
-        "name": "2014- 2021 JEEP GRAND CHEROKEE 4X4 3.6L REAR DRIVE SHAFT ASSEMBLY OEM 68206210AC",
-        "number": "68206210AC / 68206210 AC",
-        "oem": "68206210AD / 68206210 AD\t",
-        "notes": ""
-    },
-    {
-        "id": "S4vPm7ZUX5vJMzLi8ZcdL",
-        "name": "2015 - 2021 JEEP RENEGADE 2.4L ENGINE CYLINDER BLOCK 27K OEM 05048385AA",
-        "number": "05048385AA / 05048385 AA\t",
-        "oem": "5048506AA / 5048506 AA",
+        "id": "-KzJYbGCJc9j-b6J1ahpx",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT SUNROOF FRAME W/ SLIDING GLASS OEM 8D0877255D",
+        "number": "8D0877255D / 8D0877255 / 8D0 877 255 D\t",
+        "oem": "561877255A / 561877255 / 561 877 255 A\t",
         "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
     },
     {
-        "id": "nsar3YX9O52KjOH3XRnS0",
-        "name": "2011-2021 JEEP GRAND CHEROKEE EMERGENCY PARK PARKING BRAKE PEDAL OEM 04773627AJ",
-        "number": "04773627AJ / 04773627 AJ\t",
-        "oem": "4779627AJ / 4779627 AJ\t",
-        "notes": ""
-    },
-            {
-        "id": "ZC6gpuw1JpEKTsynEZVDP",
-        "name": "2011 - 2022 DODGE CHARGER INTERIOR GRAB BAR HANDLE SET OEM 1RV81TRMAB BLACK=HAX9",
-        "number": "1RV81TRMAB / 1RV81TRM AB\t",
-        "oem": "1RV81TRMAB / 1RV81TRM AB, 1RV73DX9AD / 1RV73DX9 AD, 1TN63DX9AC /",
-        "notes": ""
-    },
-    {
-        "id": "hIpAt2lY_yHZ7lA5UA9hB",
-        "name": "2018 - 2020 DODGE CHARGER FRONT RIGHT SIDE DISC BRAKE CALIPER OEM 68302656AC",
-        "number": "68302656AC / 68302656 AC",
-        "oem": "68368082AA / 68368082 AA",
-        "notes": ""
-    },
-    {
-        "id": "sGIbA3xKCQ9uqn9Xgv070",
-        "name": "2018 - 2020 DODGE CHARGER FRONT LEFT SIDE BRAKE CALIPER ASSEMBLY OEM 68302657AC",
-        "number": "68302657AC / 68302657 AC",
-        "oem": "68368083AA / 68368083 AA",
-        "notes": ""
-    },
-    {
-        "id": "xUlEl2NszTngsa_XYsuKA",
-        "name": "2011-2022 DODGE CHARGER FRONT LEFT EXTERIOR DOOR HANDLE OEM 68060189AG GRAY=PAU",
-        "number": "68060189AG / 68060189 AG\t",
-        "oem": "1MZ85LAUAM / 1MZ85LAU AM",
-        "notes": ""
-    },
-    {
-        "id": "-vp4fU_OpOtnkJUz-ghwU",
-        "name": "2015 - 2022 DODGE CHARGER BATTERY POSITIVE CABLE WIRE HARNESS OEM 68207018AE",
-        "number": "68207018AE / 68207018 AE",
+        "id": "4WEgChZFLg_fay1HZx2wZ",
+        "name": "2017- 2019 VOLKSWAGEN PASSAT REAR LEFT OUTER TAILLIGHT LIGHT LAMP OEM 561945207C",
+        "number": "561945207C / 561945207 / 561 945 207 C",
         "oem": "",
         "notes": ""
     },
     {
-        "id": "Jj1W8smnw-A5-Xx_Pn4xC",
-        "name": "2011 - 2022 DODGE CHARGER 3.6L TRANSMISSION CROSSMEMBER MOUNT OEM 94726089AD",
-        "number": "94726089AD / 94726089 AD\t",
-        "oem": "4726089AD / 4726089 AD",
+        "id": "5eV-nnjL7MkFVEZnVpT-S",
+        "name": "2016 - 2019 VOLKSWAGEN PASSAT REAR RIGHT QUARTER WINDOW GLASS OEM 561845298C",
+        "number": "561845298C / 561845298 / 561 845 298 C\t",
+        "oem": "561845298K / 561845298 / 561 845 298 K\t",
         "notes": ""
     },
     {
-        "id": "3U31Io7HAWwdOYaK20HhG",
-        "name": "2013 - 2022 DODGE CHARGER FRONT RIGHT SIDE DOOR HANDLE OEM 68060188AG GRAY=PAU",
-        "number": "68060188AG / 68060188 AG\t",
-        "oem": "1MZ84FFBAJ / 1MZ84FFB AJ",
+        "id": "c67-oi85G9faMzS0EUTvs",
+        "name": "2016 - 2019 VOLKSWAGEN PASSAT REAR LEFT QUARTER WINDOW GLASS OEM 561845297G",
+        "number": "561845297G / 561845297 / 561 845 297 G\t",
+        "oem": "561845297K / 561845297 / 561 845 297 K\t",
         "notes": ""
     },
     {
-        "id": "2Q6iD_Rh_xMq72y509LT3",
-        "name": "2012 - 2022 DODGE CHARGER REAR RIGHT EXTERIOR DOOR HANDLE OEM 760778AE GRAY=PAU",
-        "number": "760778AE / 760778 AE\t",
-        "oem": "1MZ80DX8AH / 1MZ80DX8 AH",
-        "notes": ""
-    },
-    {
-        "id": "M_U4v4eqDzRyuoMJwWCkg",
-        "name": "2015 - 2019 DODGE CHARGER REAR RIGHT SEAT BELT SEATBELT RETRACTOR OEM 5UZ22DX9AC",
-        "number": "5UZ22DX9AC / 5UZ22DX9 AC",
-        "oem": "",
+        "id": "XvaNa-dSWnJFrtya9iWFk",
+        "name": "2012 - 2020 VOLKSWAGEN PASSAT FWD STEERING GEAR RACK & PINION OEM 561423051M",
+        "number": "561423051M / 561423051 / 561 423 051 M",
+        "oem": "1K1423055M / 1K1423055 / 1K1 423 055 M",
         "notes": ""
     },
         {
-        "id": "4KEAxZvy-wAZ6bBRzlcgH",
-        "name": "2015 - 2022 DODGE CHARGER RIGHT ROCKER MOLDING PANEL OEM 1QA50TRMAF GRAY=PAU",
-        "number": "1QA50TRMAF / 1QA50TRM AF",
-        "oem": "68433578AC / 68433578 AC",
-        "notes": ""
-    },
-    {
-        "id": "IaWtDsrmr-zzXxYUgYbrl",
-        "name": "2015 - 2022 DODGE CHARGER LEFT ROCKER MOLDING PANEL OEM 1QA51TRMAF GRAY=PAU",
-        "number": "1QA51TRMAF / 1QA51TRM AF",
-        "oem": "68433579AC / 68433579 AC",
-        "notes": ""
-    },
-    {
-        "id": "qlr1SxL6EqHlVOFrzoBKU",
-        "name": "2017 - 2022 DODGE CHARGER DASH A/C HEATER SWITCH CONTROL MODULE OEM 68293624AD",
-        "number": "68293624AD / 68293624 AD\t",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "hw1RkZLEaPkm-PEAkXCPa",
-        "name": "2013 - 2022 DODGE CHARGER FRONT LEFT SIDE SEAT TRACK FRAME OEM 0408731AA",
-        "number": "0408731AA / 0408731 AA",
-        "oem": "68193460AC / 68193460 AC",
-        "notes": ""
-    },
-    {
-        "id": "MMnuVjcHLFgEUZTA1xxkC",
-        "name": "2019 DODGE CHARGER FRONT BUMPER RIGHT OR LEFT SIDE FOG LIGHT LAMP OEM 88228884AD",
-        "number": "88228884AD / 88228884 AD",
-        "oem": "68228884AF / 68228884 AF",
-        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
-    },
-    {
-        "id": "asXv0L3FzqAeMk7j2q-PW",
-        "name": "2019 DODGE CHARGER FRONT BUMPER LEFT OR RIGHT SIDE FOG LIGHT LAMP OEM 69328884AD",
-        "number": "69328884AD / 69328884 AD",
-        "oem": "68228884AF / 68228884 AF",
-        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
-    },
-    {
-        "id": "pd5kz4ZGOZ_ObllhOuFyY",
-        "name": "2011 - 2022 DODGE CHARGER CENTER CONSOLE RIGHT SIDE TRIM COVER OEM 1JR60DX9AF",
-        "number": "1JR60DX9AF / 1JR60DX9 AF",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "WvgxnGFpR42vLO5-0yYxh",
-        "name": "2011 - 2022 DODGE CHARGER CENTER CONSOLE LEFT SIDE TRIM COVER OEM 1JR61DX9AF",
-        "number": "1JR61DX9AF / 1JR61DX9 AF",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "tbs9CONT1fAAidzKGtWFF",
-        "name": "2015 - 2022 DODGE CHARGER FRONT ROOF CENTER OVERHEAD CONSOLE OEM 5LN18DX9AC",
-        "number": "5LN18DX9AC / 5LN18DX9 AC",
-        "oem": "5LN18DX9AD / 5LN18DX9 AD",
-        "notes": ""
-    },
-    {
-        "id": "lD7xYHG8fzSLbFNqVdHRU",
-        "name": "2019 DODGE CHARGER SPEEDOMETER INSTRUMENT CLUSTER 72K MILEAGE OEM 68395995AC",
-        "number": "68395995AC / 68395995 AC",
-        "oem": "68412301AC / 68412301 AC",
-        "notes": ""
-    },
-    {
-        "id": "7OWFgBKSEBzJbCzoiflCS",
-        "name": "2011 - 2022 DODGE CHARGER RIGHT SIDE B PILLAR TRIM COVER PANEL OEM 1KL28TRMAA",
-        "number": "1KL28TRMAA / 1KL28TRM AA",
-        "oem": "1KL28DX9AI / 1KL28DX9 AI",
-        "notes": ""
-    },
-    {
-        "id": "FHAIC2_np4CsNyahR80dq",
-        "name": "2011 - 2022 DODGE CHARGER LEFT SIDE B PILLAR TRIM COVER PANEL OEM 1KL29TRMAA",
-        "number": "1KL29TRMAA / 1KL29TRM AA",
-        "oem": "1KL29DX9AI / 1KL29DX9 AI",
-        "notes": ""
-    },
-    {
-        "id": "1rmiUt2VVd7vDRb1tLQcI",
-        "name": "2016 - 2022 DODGE CHARGER STEERING WHEEL LEATHER W/ SWITCH BUTTON OEM 5VG191VXAE",
-        "number": "5VG191VXAE / 5VG191VX AE",
-        "oem": "6AD81DX9AA / 6AD81DX9 AA\t",
-        "notes": ""
-    },
-    {
-        "id": "8hwV5SfOuKqDSIwLvka8H",
-        "name": "2011 - 2019 DODGE CHARGER FUEL FILLER TANK DOOR HOUSING OEM 68037875AE GRAY=PAU",
-        "number": "68037875AE / 68037875 AE",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "jplTMgDG3VrY5Epi17o4s",
-        "name": "2012 - 2022 DODGE CHARGER HOOD COWL TOP SCREEN VENT GRILLE PANEL OEM 57010314AI",
-        "number": "57010314AI / 57010314 AI",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "p_tjGpL25vm4uz56CLqTW",
-        "name": "2011 - 2022 DODGE CHARGER FRONT RIGHT SIDE SHOCK STRUT ABSORBER OEM 68090072AD",
-        "number": "68090072AD / 68090072 AD\t",
-        "oem": "68544308AA / 68544308 AA",
-        "notes": ""
-    },
-    {
-        "id": "b9eZtDSIY9R6RZTATNv-a",
-        "name": "2011 - 2022 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT ABSORBER OEM 68090073AD",
-        "number": "68090073AD / 68090073 AD\t",
-        "oem": "68544309AA / 68544309 AA",
-        "notes": ""
-    },
-    {
-        "id": "nXI_5MPBdxjg5jo4-k7tv",
-        "name": "2011 -2021 DODGE CHARGER RIGHT ELECTRIC FUEL GAS PUMP MODULE UNIT OEM 68316784AB",
-        "number": "68316784AB / 68316784 AB\t",
-        "oem": "05136023AF / 05136023 AF\t",
-        "notes": ""
-    },
-    {
-        "id": "_pMUobLJT9eB4ooWd28HS",
-        "name": "2011 - 2022 DODGE CHARGER REAR STABILIZER SWAY BAR W/ LINK OEM 68184227AA",
-        "number": "68184227AA / 68184227 AA",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "MwzTfd2Tr_Ow-FvyRcrRh",
-        "name": "2014 - 2022 DODGE CHARGER FRONT STABILIZER SWAY BAR W/ LINK OEM 68184223AB",
-        "number": "68184223AB / 68184223 AB",
-        "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "T2z2VSCluCGQptC47S5Wu",
-        "name": "2018 - 2020 DODGE CHARGER EVAPORATOR FUEL VAPOR CANISTER FILTER OEM 68421012AA",
-        "number": "68421012AA / 68421012 AA",
-        "oem": "68421012AB / 68421012 AB\t",
-        "notes": ""
-    },
-    {
-        "id": "yIHZUByiCHQeQB2QBO6gF",
-        "name": "2015 - 2022 DODGE CHARGER BAG DIAGNOSTIC CONTROL MODULE SRS OEM 68371748AA",
-        "number": "68371748AA / 68371748 AA\t",
-        "oem": "",
-        "notes": ""
-    },
+            "id": "7igEyxjRl67Is3Mk2W300",
+            "name": "2013 - 2022 DODGE CHARGER REAR LEFT EXTERIOR DOOR HANDLE OEM 760779AE GRAY=PAU",
+            "number": "760779AE / 760779 AE\t",
+            "oem": "1MZ81LAUAH / 1MZ81LAU AH",
+            "notes": ""
+        },
+        {
+            "id": "SHFgW0Yci_svPZyHtQsVr",
+            "name": "2017 - 2020 TESLA MODEL 3 RIGHT MAIN BODY WIRE WIRING HARNESS OEM 107097900F",
+            "number": "107097900F / 107097900 F / 1070979 00 F\t",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "7Rgx3Zk9cSHXN8bRvQgDX",
+            "name": "2007 - 2017 JEEP PATRIOT 2.0L ELECTRIC FUEL GAS PUMP SENDING UNIT OEM 05147015AB",
+            "number": "05147015AB / 05147015 AB",
+            "oem": "05183201AF / 05183201 AF\t",
+            "notes": ""
+        },
+        {
+            "id": "VtpGQhhrz-LnwoZy5AU5A",
+            "name": "2016 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SIDE SPINDLE KNUCKLE OEM 04877659AC",
+            "number": "04877659AC / 04877659 AC",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "oE74tXUofqP6yX1SjGBXc",
+            "name": "2018 - 2022 JEEP COMPASS 2.4L EVAPORATOR FUEL VAPOR CANISTER OEM 68339700AC",
+            "number": "68339700AC / 68339700 AC\t",
+            "oem": "68339700AE / 68339700 AE",
+            "notes": ""
+        },
+        {
+            "id": "bjB6kq450wSWlSu9mSKNX",
+            "name": "2017 - 2022 JEEP COMPASS 2.4L 4X4 REAR RIGHT SIDE AXLE SHAFT OEM 68287864AB",
+            "number": "68287864AB / 68287864 AB",
+            "oem": "",
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+        },
+        {
+            "id": "eFwyR6sX101woFEfuHKpK",
+            "name": "2014- 2021 JEEP GRAND CHEROKEE 4X4 3.6L REAR DRIVE SHAFT ASSEMBLY OEM 68206210AC",
+            "number": "68206210AC / 68206210 AC",
+            "oem": "68206210AD / 68206210 AD\t",
+            "notes": ""
+        },
+        {
+            "id": "S4vPm7ZUX5vJMzLi8ZcdL",
+            "name": "2015 - 2021 JEEP RENEGADE 2.4L ENGINE CYLINDER BLOCK 27K OEM 05048385AA",
+            "number": "05048385AA / 05048385 AA\t",
+            "oem": "5048506AA / 5048506 AA",
+            "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+        },
+        {
+            "id": "nsar3YX9O52KjOH3XRnS0",
+            "name": "2011-2021 JEEP GRAND CHEROKEE EMERGENCY PARK PARKING BRAKE PEDAL OEM 04773627AJ",
+            "number": "04773627AJ / 04773627 AJ\t",
+            "oem": "4779627AJ / 4779627 AJ\t",
+            "notes": ""
+        },
+        {
+            "id": "ZC6gpuw1JpEKTsynEZVDP",
+            "name": "2011 - 2022 DODGE CHARGER INTERIOR GRAB BAR HANDLE SET OEM 1RV81TRMAB BLACK=HAX9",
+            "number": "1RV81TRMAB / 1RV81TRM AB\t",
+            "oem": "1RV81TRMAB / 1RV81TRM AB, 1RV73DX9AD / 1RV73DX9 AD, 1TN63DX9AC /",
+            "notes": ""
+        },
+        {
+            "id": "hIpAt2lY_yHZ7lA5UA9hB",
+            "name": "2018 - 2020 DODGE CHARGER FRONT RIGHT SIDE DISC BRAKE CALIPER OEM 68302656AC",
+            "number": "68302656AC / 68302656 AC",
+            "oem": "68368082AA / 68368082 AA",
+            "notes": ""
+        },
+        {
+            "id": "sGIbA3xKCQ9uqn9Xgv070",
+            "name": "2018 - 2020 DODGE CHARGER FRONT LEFT SIDE BRAKE CALIPER ASSEMBLY OEM 68302657AC",
+            "number": "68302657AC / 68302657 AC",
+            "oem": "68368083AA / 68368083 AA",
+            "notes": ""
+        },
+        {
+            "id": "xUlEl2NszTngsa_XYsuKA",
+            "name": "2011-2022 DODGE CHARGER FRONT LEFT EXTERIOR DOOR HANDLE OEM 68060189AG GRAY=PAU",
+            "number": "68060189AG / 68060189 AG\t",
+            "oem": "1MZ85LAUAM / 1MZ85LAU AM",
+            "notes": ""
+        },
+        {
+            "id": "-vp4fU_OpOtnkJUz-ghwU",
+            "name": "2015 - 2022 DODGE CHARGER BATTERY POSITIVE CABLE WIRE HARNESS OEM 68207018AE",
+            "number": "68207018AE / 68207018 AE",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "Jj1W8smnw-A5-Xx_Pn4xC",
+            "name": "2011 - 2022 DODGE CHARGER 3.6L TRANSMISSION CROSSMEMBER MOUNT OEM 94726089AD",
+            "number": "94726089AD / 94726089 AD\t",
+            "oem": "4726089AD / 4726089 AD",
+            "notes": ""
+        },
+        {
+            "id": "3U31Io7HAWwdOYaK20HhG",
+            "name": "2013 - 2022 DODGE CHARGER FRONT RIGHT SIDE DOOR HANDLE OEM 68060188AG GRAY=PAU",
+            "number": "68060188AG / 68060188 AG\t",
+            "oem": "1MZ84FFBAJ / 1MZ84FFB AJ",
+            "notes": ""
+        },
+        {
+            "id": "2Q6iD_Rh_xMq72y509LT3",
+            "name": "2012 - 2022 DODGE CHARGER REAR RIGHT EXTERIOR DOOR HANDLE OEM 760778AE GRAY=PAU",
+            "number": "760778AE / 760778 AE\t",
+            "oem": "1MZ80DX8AH / 1MZ80DX8 AH",
+            "notes": ""
+        },
+        {
+            "id": "M_U4v4eqDzRyuoMJwWCkg",
+            "name": "2015 - 2019 DODGE CHARGER REAR RIGHT SEAT BELT SEATBELT RETRACTOR OEM 5UZ22DX9AC",
+            "number": "5UZ22DX9AC / 5UZ22DX9 AC",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "4KEAxZvy-wAZ6bBRzlcgH",
+            "name": "2015 - 2022 DODGE CHARGER RIGHT ROCKER MOLDING PANEL OEM 1QA50TRMAF GRAY=PAU",
+            "number": "1QA50TRMAF / 1QA50TRM AF",
+            "oem": "68433578AC / 68433578 AC",
+            "notes": ""
+        },
+        {
+            "id": "IaWtDsrmr-zzXxYUgYbrl",
+            "name": "2015 - 2022 DODGE CHARGER LEFT ROCKER MOLDING PANEL OEM 1QA51TRMAF GRAY=PAU",
+            "number": "1QA51TRMAF / 1QA51TRM AF",
+            "oem": "68433579AC / 68433579 AC",
+            "notes": ""
+        },
+        {
+            "id": "qlr1SxL6EqHlVOFrzoBKU",
+            "name": "2017 - 2022 DODGE CHARGER DASH A/C HEATER SWITCH CONTROL MODULE OEM 68293624AD",
+            "number": "68293624AD / 68293624 AD\t",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "hw1RkZLEaPkm-PEAkXCPa",
+            "name": "2013 - 2022 DODGE CHARGER FRONT LEFT SIDE SEAT TRACK FRAME OEM 0408731AA",
+            "number": "0408731AA / 0408731 AA",
+            "oem": "68193460AC / 68193460 AC",
+            "notes": ""
+        },
+        {
+            "id": "MMnuVjcHLFgEUZTA1xxkC",
+            "name": "2019 DODGE CHARGER FRONT BUMPER RIGHT OR LEFT SIDE FOG LIGHT LAMP OEM 88228884AD",
+            "number": "88228884AD / 88228884 AD",
+            "oem": "68228884AF / 68228884 AF",
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+        },
+        {
+            "id": "asXv0L3FzqAeMk7j2q-PW",
+            "name": "2019 DODGE CHARGER FRONT BUMPER LEFT OR RIGHT SIDE FOG LIGHT LAMP OEM 69328884AD",
+            "number": "69328884AD / 69328884 AD",
+            "oem": "68228884AF / 68228884 AF",
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+        },
+        {
+            "id": "pd5kz4ZGOZ_ObllhOuFyY",
+            "name": "2011 - 2022 DODGE CHARGER CENTER CONSOLE RIGHT SIDE TRIM COVER OEM 1JR60DX9AF",
+            "number": "1JR60DX9AF / 1JR60DX9 AF",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "WvgxnGFpR42vLO5-0yYxh",
+            "name": "2011 - 2022 DODGE CHARGER CENTER CONSOLE LEFT SIDE TRIM COVER OEM 1JR61DX9AF",
+            "number": "1JR61DX9AF / 1JR61DX9 AF",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "tbs9CONT1fAAidzKGtWFF",
+            "name": "2015 - 2022 DODGE CHARGER FRONT ROOF CENTER OVERHEAD CONSOLE OEM 5LN18DX9AC",
+            "number": "5LN18DX9AC / 5LN18DX9 AC",
+            "oem": "5LN18DX9AD / 5LN18DX9 AD",
+            "notes": ""
+        },
+        {
+            "id": "lD7xYHG8fzSLbFNqVdHRU",
+            "name": "2019 DODGE CHARGER SPEEDOMETER INSTRUMENT CLUSTER 72K MILEAGE OEM 68395995AC",
+            "number": "68395995AC / 68395995 AC",
+            "oem": "68412301AC / 68412301 AC",
+            "notes": ""
+        },
+        {
+            "id": "7OWFgBKSEBzJbCzoiflCS",
+            "name": "2011 - 2022 DODGE CHARGER RIGHT SIDE B PILLAR TRIM COVER PANEL OEM 1KL28TRMAA",
+            "number": "1KL28TRMAA / 1KL28TRM AA",
+            "oem": "1KL28DX9AI / 1KL28DX9 AI",
+            "notes": ""
+        },
+        {
+            "id": "FHAIC2_np4CsNyahR80dq",
+            "name": "2011 - 2022 DODGE CHARGER LEFT SIDE B PILLAR TRIM COVER PANEL OEM 1KL29TRMAA",
+            "number": "1KL29TRMAA / 1KL29TRM AA",
+            "oem": "1KL29DX9AI / 1KL29DX9 AI",
+            "notes": ""
+        },
+        {
+            "id": "1rmiUt2VVd7vDRb1tLQcI",
+            "name": "2016 - 2022 DODGE CHARGER STEERING WHEEL LEATHER W/ SWITCH BUTTON OEM 5VG191VXAE",
+            "number": "5VG191VXAE / 5VG191VX AE",
+            "oem": "6AD81DX9AA / 6AD81DX9 AA\t",
+            "notes": ""
+        },
+        {
+            "id": "8hwV5SfOuKqDSIwLvka8H",
+            "name": "2011 - 2019 DODGE CHARGER FUEL FILLER TANK DOOR HOUSING OEM 68037875AE GRAY=PAU",
+            "number": "68037875AE / 68037875 AE",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "jplTMgDG3VrY5Epi17o4s",
+            "name": "2012 - 2022 DODGE CHARGER HOOD COWL TOP SCREEN VENT GRILLE PANEL OEM 57010314AI",
+            "number": "57010314AI / 57010314 AI",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "p_tjGpL25vm4uz56CLqTW",
+            "name": "2011 - 2022 DODGE CHARGER FRONT RIGHT SIDE SHOCK STRUT ABSORBER OEM 68090072AD",
+            "number": "68090072AD / 68090072 AD\t",
+            "oem": "68544308AA / 68544308 AA",
+            "notes": ""
+        },
+        {
+            "id": "b9eZtDSIY9R6RZTATNv-a",
+            "name": "2011 - 2022 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT ABSORBER OEM 68090073AD",
+            "number": "68090073AD / 68090073 AD\t",
+            "oem": "68544309AA / 68544309 AA",
+            "notes": ""
+        },
+        {
+            "id": "nXI_5MPBdxjg5jo4-k7tv",
+            "name": "2011 -2021 DODGE CHARGER RIGHT ELECTRIC FUEL GAS PUMP MODULE UNIT OEM 68316784AB",
+            "number": "68316784AB / 68316784 AB\t",
+            "oem": "05136023AF / 05136023 AF\t",
+            "notes": ""
+        },
+        {
+            "id": "_pMUobLJT9eB4ooWd28HS",
+            "name": "2011 - 2022 DODGE CHARGER REAR STABILIZER SWAY BAR W/ LINK OEM 68184227AA",
+            "number": "68184227AA / 68184227 AA",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "MwzTfd2Tr_Ow-FvyRcrRh",
+            "name": "2014 - 2022 DODGE CHARGER FRONT STABILIZER SWAY BAR W/ LINK OEM 68184223AB",
+            "number": "68184223AB / 68184223 AB",
+            "oem": "",
+            "notes": ""
+        },
+        {
+            "id": "T2z2VSCluCGQptC47S5Wu",
+            "name": "2018 - 2020 DODGE CHARGER EVAPORATOR FUEL VAPOR CANISTER FILTER OEM 68421012AA",
+            "number": "68421012AA / 68421012 AA",
+            "oem": "68421012AB / 68421012 AB\t",
+            "notes": ""
+        },
+        {
+            "id": "yIHZUByiCHQeQB2QBO6gF",
+            "name": "2015 - 2022 DODGE CHARGER BAG DIAGNOSTIC CONTROL MODULE SRS OEM 68371748AA",
+            "number": "68371748AA / 68371748 AA\t",
+            "oem": "",
+            "notes": ""
+        },
         {
             "id": "G6c7mKfSltWrmYHNBey-M",
             "name": "2013 - 2020 LEXUS GS350 FRONT LEFT INTERIOR FLOOR MAT LINER COVER OEM 673004204",
@@ -2756,14 +2798,14 @@ export function App() {
             "id": "rAIvD4ejcbKLMbvR6J5qd",
             "name": "2018 - 2020 DODGE CHARGER FRONT RIGHT SIDE BRAKE CALIPER ASSEMBLY OEM 68302654AC",
             "number": "68302654AC / 68302654 AC",
-            "oem": "68368082AA / 68368082 AA",
+            "oem": "68548602AA / 68548602 AA",
             "notes": ""
         },
         {
             "id": "y_T4Xa1396H7y-xNmyuSz",
             "name": "2018 - 2020 DODGE CHARGER FRONT LEFT SIDE BRAKE CALIPER ASSEMBLY OEM 68302655AC",
             "number": "68302655AC / 68302655 AC",
-            "oem": "68368083AA / 68368083 AA",
+            "oem": "68548603AA / 68548603 AA",
             "notes": ""
         },
         {
@@ -3127,14 +3169,14 @@ export function App() {
             "id": "DxEfASHvb5baNzPuMLdaG",
             "name": "2015 - 2022 DODGE CHARGER RIGHT ROCKER MOLDING PANEL OEM 1LP86TRMAF WHITE=PW7",
             "number": "1LP86TRMAF / 1LP86TRM AF",
-            "oem": "68433578AC / 68433578 AC",
+            "oem": "1LP86TZZAG / 1LP86TZZ AG",
             "notes": ""
         },
         {
             "id": "LJwQc70VzTpsPf9-u8SvR",
             "name": "2015 - 2022 DODGE CHARGER LEFT ROCKER MOLDING PANEL OEM 1LP87TRMAF WHITE=PW7",
             "number": "1LP87TRMAF / 1LP87TRM AF",
-            "oem": "68433579AC / 68433579 AC",
+            "oem": "1LP87TZZAG / 1LP87TZZ AG",
             "notes": ""
         },
         {
@@ -31128,7 +31170,7 @@ export function App() {
         },
         {
             "id": "P32yXr7i5GG69idsiPLsu",
-            "name": "2011 - 2022 DODGE CHARGER FRONT WINDSHIELD WIPER LINLAGE W/ MOTOR OEM 57010291AG",
+            "name": "2011 - 2022 DODGE CHARGER FRONT WINDSHIELD WIPER LINKAGE W/ MOTOR OEM 57010291AG",
             "number": "57010291AG / 57010291 AG\t",
             "oem": "68082553AA / 68082553 AA",
             "notes": ""
