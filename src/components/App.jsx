@@ -7,6 +7,69 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "YcqhncMyueKcvwZfJnTRF",
+        "name": "2019-2022 FORD EDGE REAR BUMPER PARKING AID ASSIST WIRE HARNESS OEM K2GT15K867EF",
+        "number": "K2GT15K867EF / K2GT15K867 EF / K2GT 15K867 EF\t",
+        "oem": "K2GZ15K868B / K2GZ15K868 B / K2GZ 15K868 B",
+        "notes": ""
+    },
+    {
+        "id": "fa9tApkpW3ZmWvROtSht-",
+        "name": "2019-2022 FORD EDGE REAR BUMPER PARKING AID ASSIST WIRE HARNESS OEM K2GT15K867FD",
+        "number": "K2GT15K867FD / K2GT15K867 FD / K2GT 15K867 FD\t",
+        "oem": "K2GZ15K868B / K2GZ15K868 B / K2GZ 15K868 B",
+        "notes": ""
+    },
+    {
+        "id": "V41S6pQZYf66Pfp90XAen",
+        "name": "2019 - 2022 FORD EDGE 2.0L FUEL PUMP WIRE WIRING HARNESS OEM K2GT14A069BE",
+        "number": "K2GT14A069BE / K2GT14A069 BE, K2GT 14A069 BE\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "RzuQani9CXjGKUDb2q2K3",
+        "name": "2019 - 2022 FORD EDGE 2.0L FUEL PUMP WIRE WIRING HARNESS OEM K2GT14A069AG",
+        "number": "K2GT14A069AG / K2GT14A069 AG / K2GT 14A069 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ZgUYeMlnwrfwJ71a59t4i",
+        "name": "2019 - 2022 FORD EDGE 2.0L TRANSMISSION SHIFTER WIRE HARNESS OEM K2GT14B560AE",
+        "number": "K2GT14B560AE / K2GT14B560 AE / K2GT 14B560 AE\t",
+        "oem": "KT4Z7D246N / KT4Z7D246 N / KT4Z 7D246 N",
+        "notes": ""
+    },
+    {
+        "id": "EyclZM4lvWYYRmJUXQL9g",
+        "name": "2015- 2022 FORD EDGE 2.0L RADIATOR FAN MOTOR WIRE WIRING HARNESS OEM K2GT8C290AD",
+        "number": "K2GT8C290AD / K2GT8C290 AD / K2GT 8C290 AD\t",
+        "oem": "K2GZ8C290A / K2GZ8C290 A / K2GZ 8C290 A",
+        "notes": ""
+    },
+    {
+        "id": "CqQT5RzkH3R8RJL59PMmg",
+        "name": "2015- 2022 FORD EDGE 2.0L RADIATOR FAN MOTOR WIRE WIRING HARNESS OEM K2GT8C290AC",
+        "number": "K2GT8C290AC / K2GT8C290 AC / K2GT 8C290 AC\t",
+        "oem": "K2GZ8C290A / K2GZ8C290 A / K2GZ 8C290 A",
+        "notes": ""
+    },
+    {
+        "id": "DsABnjGf3YHwiCyT-U6xp",
+        "name": "2020 - 2022 FORD EDGE 2.0L FWD ENGINE BAY WIRE WIRING HARNESS OEM K2GT12A581NB",
+        "number": "K2GT12A581NB / K2GT12A581 NB / K2GT 12A581 NB\t",
+        "oem": "KU5Z12A581L / KU5Z12A581 L / KU5Z 12A581 L",
+        "notes": ""
+    },
+    {
+        "id": "ERRLP337_RyhrRhOUbFC0",
+        "name": "2019 - 2022 FORD EDGE 2.0L ENGINE WIRE WIRING HARNESS OEM K2GT14K011AE",
+        "number": "K2GT14K011AE / K2GT14K011 AE / K2GT 14K011 AE",
+        "oem": "",
+        "notes": ""
+    },
             {
         "id": "nPCM1qEL_CAeUlH6jw7zv",
         "name": "2015-2022 FORD EDGE DASH RIGHT PASSENGER AIR BAG AIRBAG MODULE OEM GT4BR044A74AK",
