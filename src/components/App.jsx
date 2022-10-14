@@ -8,6 +8,90 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "8F4MGPMxBN5PCy5YO4BvC",
+        "name": "2019 - 2022 FORD EDGE 2.0L ENGINE MOTOR CONTROL MODULE UNIT ECU OEM K2GA12A650CF",
+        "number": "K2GA12A650CF / K2GA12A650 CF / K2GA 12A650 CF\t",
+        "oem": "K2GZ12A650BANP / K2GZ12A650 BANP / K2GZ 12A650 BANP\t",
+        "notes": ""
+    },
+    {
+        "id": "HoKrJ4oeviI3KDxare6HE",
+        "name": "2016-2022 FORD EDGE REAR LEFT DOOR WINDOW SWITCH CONTROL MODULE OEM FT4B14R568BH",
+        "number": "FT4B14R568BH / FT4B14R568 BH / FT4B 14R568 BH\t",
+        "oem": "FT4Z14528BD / FT4Z14528 BD / FT4Z 14528 BD, GT4Z14529BA / GT4Z14529 BA / GT4Z 14529 BA\t",
+        "notes": ""
+    },
+    {
+        "id": "4ZnbMXSR50ugkzVf1HSBr",
+        "name": "2019 - 2022 FORD EDGE REAR RIGHT DOOR WINDOW SWITCH CONTROL OEM FT4B14A567BB",
+        "number": "FT4B14A567BB / FT4B14A567 BB / FT4B 14A567 BB\t",
+        "oem": "GT4Z14529BA / GT4Z14529 BA / GT4Z 14529 BA, FT4Z14527BD / FT4Z14527 BD / FT4Z 14527 BD\t",
+        "notes": ""
+    },
+    {
+        "id": "AFe1-Bt0RxDtb4KplXOyy",
+        "name": "2016 - 2022 FORD EDGE FRONT LEFT DOOR WINDOW SWITCH CONTROL OEM GT4T14540BAW",
+        "number": "GT4T14540BAW / GT4T14540 BAW / GT4T 14540 BAW\t",
+        "oem": "FT4Z14528BC / FT4Z14528 BC / FT4Z 14528 BC, GT4Z14529AA / GT4Z14529 AA / GT4Z 14529 AA\t",
+        "notes": ""
+    },
+    {
+        "id": "Y5WdOiYfpvuo6VVv9S99C",
+        "name": "2016 - 2022 FORD EDGE FRONT RIGHT DOOR WINDOW SWITCH CONTROL OEM FT4B14A563BG",
+        "number": "FT4B14A563BG / FT4B14A563 BG / FT4B 14A563 BG\t",
+        "oem": "GT4Z14529AB / GT4Z14529 AB / GT4Z 14529 AB, FT4Z14527BC / FT4Z14527 BC / FT4Z 14527 BC\t",
+        "notes": ""
+    },
+    {
+        "id": "kZAeeFqABftiqoyiFTZD5",
+        "name": "2015 - 2022 FORD EDGE FRONT LEFT DOOR LOCK SEAT MEMORY SWITCH OEM BB5T14776ACW",
+        "number": "BB5T14776ACW / BB5T14776 ACW / BB5T 14776 ACW",
+        "oem": "BB5Z14776AA / BB5Z14776 AA / BB5Z 14776 AA, BB5Z14028DA / BB5Z14028 DA / BB5Z 14028 DA",
+        "notes": ""
+    },
+    {
+        "id": "17zDPtUbLz54ZL-NXhzqN",
+        "name": "2019 - 2022 FORD EDGE TITANIUM DASH DASHBOARD INSTRUMENT PANEL OEM FT4BR044A74AK",
+        "number": "FT4BR044A74AK / FT4BR044A74 AK / FT4B R044A74 AK",
+        "oem": "KT4Z5804320AB / KT4Z5804320 AB / KT4Z 5804320 AB",
+        "notes": "AIRBAG NOT INCLUDED. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "Ek7AkkIi1zu5OcEJd_27D",
+        "name": "2019- 2022 FORD EDGE FRONT RIGHT DOOR REAR VIEW MIRROR OEM KT4B17682EA SILVER=JS",
+        "number": "KT4B17682EA / KT4B17682 EA / KT4B 17682 EA\t",
+        "oem": "KT4Z17682EB / KT4Z17682 EB / KT4Z 17682 EB",
+        "notes": ""
+    },
+    {
+        "id": "i7andnalHecZKsBp70Kd9",
+        "name": "2019 - 2022 FORD EDGE FRONT LEFT DOOR REAR VIEW MIRROR OEM KT4B17683EA SILVER=JS",
+        "number": "KT4B17683EA / KT4B17683 EA / KT4B 17683 EA\t",
+        "oem": "KT4Z17683CA / KT4Z17683 CA / KT4Z 17683 CA\t",
+        "notes": ""
+    },
+    {
+        "id": "fP8p0wvtzm5G39HtQAL3v",
+        "name": "2015 - 2022 FORD EDGE AC/DC POWER INVERTER CONVERTER MODULE OEM E1GT19G317AF",
+        "number": "E1GT19G317AF / E1GT19G317 AF / E1GT 19G317 AF",
+        "oem": "E1GZ19G317D / E1GZ19G317 D / E1GZ 19G317 D",
+        "notes": ""
+    },
+    {
+        "id": "O81pMfs8gxvxvd5MMNBB9",
+        "name": "2019 - 2022 FORD EDGE 2.0L ENGINE MOTOR OIL LEVEL DIPSTICK OEM K2GE6750AC",
+        "number": "K2GE6750AC / K2GE6750 AC / K2GE 6750 AC",
+        "oem": "K2GZ6750A / K2GZ6750 A / K2GZ 6750 A",
+        "notes": ""
+    },
+    {
+        "id": "SfkY8Qt9NSi8V1L8jtmxE",
+        "name": "2015- 2022 FORD EDGE DASH LEFT LOWER TRIM COVER PANEL OEM EM2BR044F08AH BEIGE=PC",
+        "number": "EM2BR044F08AH / EM2BR044F08 AH / EM2B R044F08 AH",
+        "oem": "EM2Z5804459AA / EM2Z5804459 AA / EM2Z 5804459 AA",
+        "notes": ""
+    },
+        {
         "id": "biR2-WPEGKLTcAV84DnAY",
         "name": "2019 - 2022 FORD EDGE FWD 2.0L ENGINE RIGHT FRAME MOUNT BRACKET OEM H2G36F012",
         "number": "H2G36F012 / H2G3 6F012\t",
@@ -34012,7 +34096,7 @@ export function App() {
         },
         {
             "id": "6ivu752yC4OGize49UVvD",
-            "name": "2015 - 2022 DODGE CHARGER 6.4L REAR DIFFERENTIAL CARRIER 24K OEM 68269917AG",
+            "name": "2015-2022 DODGE CHARGER RWD 6.4L REAR DIFFERENTIAL 3.09 RATIO 24K OEM 68269917AG",
             "number": "68269917AG / 68269917 AG",
             "oem": "68427796AA / 68427796 AA",
             "notes": ""
@@ -35315,7 +35399,7 @@ export function App() {
         },
         {
             "id": "-hZB4Rmv-oSOW-A1NIf4X",
-            "name": "2018- 2022 DODGE CHARGER RWD 6.4L AUTOMATIC TRANSMISSION ASSEMBLY OEM 68367523AA",
+            "name": "2018 - 2020 DODGE CHARGER RWD 6.4L TRANSMISSION ASSEMBLY 24K OEM 68367523AA",
             "number": "68367523AA / 68367523 AA",
             "oem": "RL367523AA / RL367523 AA",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
