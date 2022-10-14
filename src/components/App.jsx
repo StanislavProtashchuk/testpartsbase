@@ -7,6 +7,62 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "biR2-WPEGKLTcAV84DnAY",
+        "name": "2019 - 2022 FORD EDGE FWD 2.0L ENGINE RIGHT FRAME MOUNT BRACKET OEM H2G36F012",
+        "number": "H2G36F012 / H2G3 6F012\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "PKHJ6uL3MavT81PwJvQAm",
+        "name": "2019 - 2022 FORD EDGE 2.0L ENGINE MOTOR RIGHT SIDE MOUNT BRACKET OEM K2G36F012AC",
+        "number": "K2G36F012AC / K2G36F012 AC / K2G3 6F012 AC\t",
+        "oem": "K2GZ6038C / K2GZ6038 C / K2GZ 6038 C, K2GZ6038F / K2GZ6038 F / K2GZ 6038 F",
+        "notes": ""
+    },
+    {
+        "id": "fBnm4sJ05j1Yh5DTyKrir",
+        "name": "2019 - 2022 FORD EDGE 2.0L ENGINE MOTOR RIGHT SIDE MOUNT BRACKET OEM K2G36F012DA",
+        "number": "K2G36F012DA / K2G36F012 DA / K2G3 6F012 DA",
+        "oem": "K2GZ6038C / K2GZ6038 C / K2GZ 6038 C, K2GZ6038F / K2GZ6038 F / K2GZ 6038 F\t",
+        "notes": ""
+    },
+    {
+        "id": "xbrFTg_xqspHG4HDG4zww",
+        "name": "2019 - 2022 FORD EDGE FWD 2.0L ENGINE MOOTOR ASSEMBLY 19K MILEAGE OEM K2GE6007CA",
+        "number": "K2GE6007CA / K2GE6007 CA / K2GE 6007 CA\t",
+        "oem": "LJ7Z6010A / LJ7Z6010 A / LJ7Z 6010 A",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "EzUdEG5Vx7O50bPeifRin",
+        "name": "2019- 2022 FORD EDGE CONSOLE EMERGENCY BRAKE PARK PARKING SWITCH OEM GR2T2B623BA",
+        "number": "GR2T2B623BA / GR2T2B623 BA / GR2T 2B623 BA",
+        "oem": "GR2Z2B623BA / GR2Z2B623 BA /GR2Z 2B623 BA",
+        "notes": ""
+    },
+    {
+        "id": "5KsECfmFZvqMCcMdk3at3",
+        "name": "2019 - 2022 FORD EDGE 2.0L EGR EXHAUST SYSTEM COOLER TUBE VALVE OEM K2GE9D475AA",
+        "number": "K2GE9D475AA / K2GE9D475 AA / K2GE 9D475 AA\t",
+        "oem": "K2GZ9D475A / K2GZ9D475 A / K2GZ 9D475 A, K2GZ9D475B / K2GZ9D475 B / K2GZ 9D475 B",
+        "notes": ""
+    },
+    {
+        "id": "atCJzzj8tLPhI9xcyx7Qo",
+        "name": "2018 - 2022 FORD EDGE TITANIUM FUSE BOX POWER RELAY CONVERTER OEM K2GT14D068BB",
+        "number": "K2GT14D068BB / K2GT14D068 BB / K2GT 14D068 BB\t",
+        "oem": "F2GZ14A068N / F2GZ14A068 N / F2GZ 14A068 N",
+        "notes": ""
+    },
+    {
+        "id": "dCaljAv2Mc4PVb70_EV69",
+        "name": "2016 - 2022 FORD EDGE FUSE RELAY JUNCTION BOX HOLDER BRACKET OEM HG9T14A301AB",
+        "number": "HG9T14A301AB / HG9T14A301 AB / HG9T 14A301 AB\t",
+        "oem": "DG9Z14A301Q / DG9Z14A301 Q / DG9Z 14A301 Q",
+        "notes": ""
+    },
             {
         "id": "OeQ6QfuC_kd1WNydPLL3w",
         "name": "2019 - 2022 FORD EDGE FRONT HOOD BONNET LATCH LOCK ACTUATOR OEM KT4A16700AA",
