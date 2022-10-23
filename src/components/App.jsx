@@ -7,6 +7,41 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "GrqoDLjuGVh55eaRqcGZ3",
+        "name": "2013- 2018 LEXUS ES350 17\" WHEEL FRONT RIGHT SHOCK STRUT ABSORBER OEM 4851033700",
+        "number": "4851033700 / 48510 33700\t",
+        "oem": "4851080676 / 48510 80676\t",
+        "notes": ""
+    },
+    {
+        "id": "F30bcrLBKlonrHRLebDkR",
+        "name": "2018-2021 LEXUS NX300 REAR LEFT LOWER SEAT TRACK TRIM COVER PANEL OEM 5846778010",
+        "number": "5846778010 / 58467 78010",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "TogSnIc2DPCh2VJnYJ0Kj",
+        "name": "2016 - 2017 LEXUS IS200T REAR SUSPENSION LEFT UPPER CONTROL ARM OEM 4879030140",
+        "number": "4879030140 / 48790 30140\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0PJ32xIOhX8O9lvV6XKUq",
+        "name": "2014- 2015 LEXUS RX350 COMMUNICATION TELEMATIC CONTROL MODULE OEM 867400E030",
+        "number": "867400E030 / 86740 0E030\t",
+        "oem": "892210E310 / 89221 0E310\t",
+        "notes": ""
+    },
+    {
+        "id": "lmeCsC6ZnWexbDs9j--8h",
+        "name": "2012 - 2018 FORD FOCUS 2.0L ENGINE CONTROL MODULE UNIT ECU ECM OEM EM5A12A650ACA",
+        "number": "EM5A12A650ACA / EM5A12A650 ACA / EM5A 12A650 ACA",
+        "oem": "EM5Z12A650ACA / EM5Z12A650 ACA / EM5Z 12A650 ACA, BV6Z12A650BCNP / BV6Z12A650 BCNP / BV6Z 12A650 BCNP\t",
+        "notes": ""
+    },
             {
         "id": "Aggexn3wB3Gy20bHmOz6n",
         "name": "2021 - 2023 TOYOTA CAMRY FRONT CENTER CONSOLE USB CHARGER PORT OEM 8553208040",
