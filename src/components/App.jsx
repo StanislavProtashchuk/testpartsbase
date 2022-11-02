@@ -8,8 +8,414 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "XUdyqhRZkd0W98xwGc-mu",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT RIGHT DOOR WIRE WIRING HARNESS OEM 06700358180",
+        "number": "06700358180 / 6700358180 / 670035818",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "6gsCVYKt_PmWp_Djaa4kI",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT LEFT DOOR WIRE WIRING HARNESS OEM 06700358060",
+        "number": "06700358060 / 6700358060 / 670035806",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "DsrQdkvNcTUY4JVjjunoQ",
+        "name": "2019 14 15 16 17 18 20 21 MASERATI GHIBLI REAR LEFT DOOR SPEAKER OEM 518936010",
+        "number": "518936010",
+        "oem": "675000292",
+        "notes": "2014 / 2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021"
+    },
+    {
+        "id": "iuSphfr7Vr1pJlwlC9um8",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT SEAT BELT SEATBELT BUCKLE OEM 670016904",
+        "number": "670016904",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "LIc0oknnMfD7_Ii6uZr_u",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT DOOR WINDOW SWITCH MODULE OEM 670025405",
+        "number": "670025405",
+        "oem": "670097036",
+        "notes": ""
+    },
+    {
+        "id": "moDUd8Eq25mQ2l6s11rVA",
+        "name": "2014-2021 MASERATI GHIBLI CONSOLE RIGHT TRIM COVER PANEL OEM 670066570 BLACK=INE",
+        "number": "670066570",
+        "oem": "670012462",
+        "notes": ""
+    },
+    {
+        "id": "FxnkwIdPNkgGYEWAatY3j",
+        "name": "2014-2021 MASERATI GHIBLI FRONT RIGHT SIDE SEAT ADJUSTMENT SWITCH OEM 56049432AE",
+        "number": "56049432AE / 56049432 AE",
+        "oem": "673000296",
+        "notes": ""
+    },
+    {
+        "id": "fiuxdbdBLY4VUbhblFiT7",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 670008872",
+        "number": "670008872",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "gM3EdMCI8jWCdP6M6aU_i",
+        "name": "2017 - 2021 MASERATI GHIBLI REAR SUBFRAME RIGHT WIRE HARNESS OEM 06701062840",
+        "number": "06701062840 / 6701062840 / 670106284",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "DA7_dZLedWFwdmwCNYfQb",
+        "name": "2019 14 15 16 17 18 20 21 MASERATI GHIBLI REAR RIGHT DOOR SPEAKER OEM 518936010",
+        "number": "518936010",
+        "oem": "675000292",
+        "notes": "2014 / 2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021"
+    },
+    {
+        "id": "JubzPKuWnxH2vVFnKV6U0",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR LEFT DOOR INTERIOR TRIM MOLDING OEM 670010894",
+        "number": "670010894",
+        "oem": "670024998",
+        "notes": ""
+    },
+    {
+        "id": "HWBiqUrrhHv-DsSO_2ReM",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR RIGHT DOOR INTERIOR TRIM MOLDING OEM 670010893",
+        "number": "670010893",
+        "oem": "670024987",
+        "notes": ""
+    },
+    {
+        "id": "tK4IxQQVe4Z3E5KLg0Hhm",
+        "name": "2014 - 2021 MASERATI GHIBLI COWL PANEL LEFT EXTENSION TRIM COVER OEM 670010253",
+        "number": "670010253",
+        "oem": "670013463",
+        "notes": ""
+    },
+    {
+        "id": "74fENdE35U-sLTXn_1YXD",
+        "name": "2014 - 2021 MASERATI GHIBLI COWL PANEL RIGHT EXTENSION TRIM COVER OEM 670010254",
+        "number": "670010254",
+        "oem": "670013462",
+        "notes": ""
+    },
+    {
+        "id": "kLKCPiZXSuv4lqLjAcqZq",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT DASH LEFT AIR VENT GRILLE TRIM OEM 6700190620",
+        "number": "6700190620 / 670019062\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "onEa19g1hzFopiWDjIkyQ",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT DASH RIGHT AIR VENT GRILLE TRIM OEM 6700190610",
+        "number": "6700190610 / 670019061\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Oy38izFA6xn04WDQPDkwG",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT FENDER SPLASH SHIELD GUARD OEM 670001706",
+        "number": "670001706",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "PlOz30NBeiFocmxXnCLm5",
+        "name": "2019 - 2022 FORD EDGE REAR LEFT BLIND SPOT RADAR SENSOR MODULE OEM KT4T14D453AA",
+        "number": "KT4T14D453AA / KT4T14D453 AA / KT4T 14D453 AA",
+        "oem": "JR3Z14C689D / JR3Z14C689 D / JR3Z 14C689 D",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "P05YTwWHBL5XuxhbITSZf",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT DOOR B PILLAR UPPER MOLDING OEM 670148472",
+        "number": "670148472",
+        "oem": "670148748",
+        "notes": ""
+    },
+    {
+        "id": "AhFh5U-g8mRTykizqPKau",
+        "name": "2014- 2021 MASERATI GHIBLI FRONT RIGHT DOOR B PILLAR UPPER MOLDING OEM 670148471",
+        "number": "670148471",
+        "oem": "670148747",
+        "notes": ""
+    },
+    {
+        "id": "Cft_5kedLsT9_gSkJIUd-",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR ANTENNA WIRE HARNESS RESISTOR OEM 06700079240",
+        "number": "06700079240 / 6700079240 / 670007924\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Uq9eB4v8nPBv2wg79LIZG",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR TRUNK LID LATCH LOCK ACTUATOR OEM 25279217AE",
+        "number": "25279217AE / 25279217 AE\t",
+        "oem": "670154980",
+        "notes": ""
+    },
+    {
+        "id": "V7P3Z_6cp0t2ByXILnV1a",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR TRUNK FLOOR BATTERY TRIM COVER OEM 6700404280",
+        "number": "6700404280 / 670040428",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "1EofCzmT1hT2jHGJ5OEMi",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR TRUNK LEFT WHEEL ARCH TRIM COVER OEM 6700404330",
+        "number": "6700404330 / 670040433",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "9wvyW9DdFZUpzvPa1yCOZ",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT SEAT TRACK TRIM COVER SET OEM 0334752AA",
+        "number": "0334752AA / 0334752 AA",
+        "oem": "673000257",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "Bhx39ObR1DZnW12OmBoCj",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT SEAT TRACK TRIM COVER SET OEM 0334751AA",
+        "number": "0334751AA / 0334751 AA",
+        "oem": "673000257",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "6xkW3WANQpOuEj6tSH9Gc",
+        "name": "2014- 2021 MASERATI GHIBLI REAR TRUNK RIGHT WHEEL ARCH TRIM COVER OEM 6700404340",
+        "number": "6700404340 / 670040434",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "XKI-2X1MXAcxSVNLHwnyx",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT DASH CENTER LOWER MOLDING TRIM OEM 670066603",
+        "number": "670066603",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "3MjVJJqgB6JVTj1G0gOaE",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT FENDER SPLASH SHIELD GUARD OEM 670001705",
+        "number": "670001705",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "rMp1yRYpkbDbU8av88lHM",
+        "name": "2014- 2021 MASERATI GHIBLI 3.0L GAS EXHAUST CONTROL SOLENOID VALVE OEM 670002843",
+        "number": "670002843",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "hNeY9H9-Hn_7SEWT3Evw5",
+        "name": "2017 - 2021 MASERATI GHIBLI GAS FRONT LEFT AIR CLEANER UPPER COVER OEM 670001585",
+        "number": "670001585",
+        "oem": "670038727",
+        "notes": ""
+    },
+    {
+        "id": "waHKowiqORYuV2MXMm_47",
+        "name": "2017 - 2021 MASERATI GHIBLI GAS FRONT LEFT AIR CLEANER INTAKE TUBE OEM 670038729",
+        "number": "670038729",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "zztseuVKzzsk_yUyOqxA_",
+        "name": "2017- 2021 MASERATI GHIBLI GAS FRONT RIGHT AIR CLEANER UPPER COVER OEM 670001584",
+        "number": "670001584",
+        "oem": "670038725",
+        "notes": ""
+    },
+    {
+        "id": "5RWjY4ZRhCNIzR0SobRHj",
+        "name": "2017- 2021 MASERATI GHIBLI GAS EMISSION SYSTEM PURGE VALVE & HOSE OEM 0261222010",
+        "number": "0261222010 / 261222010 / 26122201\t",
+        "oem": "670036930",
+        "notes": ""
+    },
+    {
+        "id": "uN9NSuHNYbE6up5j2tSBH",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT CENTER CONSOLE TRIM BEZEL COVER OEM 670119995",
+        "number": "670119995",
+        "oem": "670066449",
+        "notes": ""
+    },
+    {
+        "id": "3xtjqNjcr6YP4WXmueGve",
+        "name": "2014-2021 MASERATI GHIBLI BATTERY BOX TRAY HOLDER BRACKET SUPPORT OEM 05112061AK",
+        "number": "05112061AK / 05112061 AK\t",
+        "oem": "675000297",
+        "notes": ""
+    },
+    {
+        "id": "QaWFmSIacnd6ED7FSbB3i",
+        "name": "2017 - 2021 MASERATI GHIBLI 3.0L GAS A/C AIR CONDITIONER LINE PIPE OEM 670033591",
+        "number": "670033591",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Rm7G23c07bLlLmS6J1LDP",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT LEFT DOOR CONTROL MODULE UNIT OEM 68376193AB",
+        "number": "68376193AB / 68376193 AB\t",
+        "oem": "670103741",
+        "notes": ""
+    },
+    {
+        "id": "OKdYW1NJbfmhk5_T5qqqd",
+        "name": "2014-2021 MASERATI GHIBLI 3.0L GAS ENGINE RIGHT FRAME MOUNT LINK OEM 06700036300",
+        "number": "06700036300 / 06700036300 / 670003630\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "qBEWL--WxHU1pdKKsfczu",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT DOOR LATCH LOCK ACTUATOR OEM 4031602301",
+        "number": "4031602301",
+        "oem": "670100892",
+        "notes": ""
+    },
+    {
+        "id": "5cBM4ls49-_N4Xt_wMplA",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT RIGHT DOOR LATCH LOCK ACTUATOR OEM 4012602305",
+        "number": "4012602305",
+        "oem": "670100889",
+        "notes": ""
+    },
+    {
+        "id": "9S_bXUp5bfAmvWFpUSNPJ",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR LEFT SIDE AXLE SHAFT HALFSHAFT OEM 06701042070",
+        "number": "06701042070 / 6701042070 / 670104207",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "r7sUfVLmXe59kVia-g6HJ",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR RIGHT SIDE AXLE SHAFT HALFSHAFT OEM 06701042080",
+        "number": "06701042080 / 6701042080 / 670104208",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "5gb9AOQz7MnJulgX7L78r",
+        "name": "2014 - 2021 MASERATI GHIBLI DASH UPPER DEFROST GRILLE TRIM COVER OEM 670010239",
+        "number": "670010239",
+        "oem": "670071084",
+        "notes": ""
+    },
+    {
+        "id": "tfN_s0oOmMfYBOtwSWQ01",
+        "name": "2017 - 2021 MASERATI GHIBLI DASH CENTER AIR VENT GRILLE BEZEL TRIM OEM 670066392",
+        "number": "670066392",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Wj_WAH5wqe__9V2DNGwnX",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT HEADLIGHT BALLAST MODULE OEM 130732947400",
+        "number": "130732947400 / 1 307 329 474 00\t",
+        "oem": "673002959",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "vcJt1E5XuRyYaUjjjBz8l",
+        "name": "2014-2021 MASERATI GHIBLI SPEEDOMETER CLUSTER TRIM COVER OEM 670010828 BLACK=INE",
+        "number": "670010828",
+        "oem": "670041766",
+        "notes": ""
+    },
+    {
+        "id": "HQehAMDTz1ZA-KYNxwz_O",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR LEFT TRUNK LID HINGE TRIM COVER OEM 670014502",
+        "number": "670014502",
+        "oem": "670226060",
+        "notes": ""
+    },
+    {
+        "id": "YwdRSk5Q4m-YxUr1SlplL",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR RIGHT TRUNK LID HINGE TRIM COVER OEM 670014503",
+        "number": "670014503",
+        "oem": "670226061",
+        "notes": ""
+    },
+    {
+        "id": "aRWDKpXiQT83gb5MaW0GQ",
+        "name": "2014 - 2021 MASERATI GHIBLI DASH RIGHT GLOVE BOX STORAGE OEM 670010941 BLACK=INE",
+        "number": "670010941",
+        "oem": "670071378",
+        "notes": ""
+    },
+    {
+        "id": "nB5bkZhiZpsURIPzjAaPd",
+        "name": "2017 - 2021 MASERATI GHIBLI KEYLESS ENTRY TELEMATIC CONTROL MODULE OEM 670105418",
+        "number": "670105418",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "FX3QTsELlbIoqwADI2uVG",
+        "name": "2017 - 2021 MASERATI GHIBLI FRONT CENTER CONSOLE MULTIMEDIA SWITCH OEM 670141621",
+        "number": "670141621",
+        "oem": "670110723",
+        "notes": ""
+    },
+    {
+        "id": "Ns_k-LVuCsJ0HKBI-kTk0",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT WINDSHIELD LEFT SIDE WIPER ARM OEM 670007562",
+        "number": "670007562",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "QGbUN-x4ojKiWorIKfYzb",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT WINDSHIELD RIGHT SIDE WIPER ARM OEM 670001642",
+        "number": "670001642",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "qApl1bnpntHVCl-fSjKY1",
+        "name": "2014- 2021 MASERATI GHIBLI REAR LEFT OR RIGHT AIR SHOCK ABSORBER OEM 06701029140",
+        "number": "06701029140 / 6701029140 / 670102914",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "kiE3nHNia92Lir2kL_Beu",
+        "name": "2014- 2021 MASERATI GHIBLI REAR RIGHT OR LEFT AIR SHOCK ABSORBER OEM 06701029140",
+        "number": "06701029140 / 6701029140 / 670102914",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "NSkzyLyy_VSnfs2fS2H4H",
+        "name": "2014-2021 MASERATI GHIBLI REAR BUMPER UPPER CENTER BRACKET SUPPORT OEM 670004471",
+        "number": "670004471",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "gnHb4SnDVedxmTPGf1uoe",
+        "name": "2014- 2021 MASERATI GHIBLI DASH LEFT HEADLIGHT SWITCH CONTROL UNIT OEM 670019822",
+        "number": "670019822",
+        "oem": "670087494",
+        "notes": ""
+    },
+        {
         "id": "mg8SsvFZcBjFgKlSOgmZk",
-        "name": "2014 - 2021 MASERATI GHIBLI 3.0L ENGINE FRONT LEFT AIR INTAKE TUBE OEM 670007991",
+        "name": "2014 - 2021 MASERATI GHIBLI 3.0L GAS FRONT LEFT AIR INTAKE TUBE OEM 670007991",
         "number": "670007991",
         "oem": "",
         "notes": ""
@@ -30,21 +436,21 @@ export function App() {
     },
     {
         "id": "p5vmtZJuJjKCaUOgzEAZ1",
-        "name": "2014- 2021 MASERATI GHIBLI 3.0L ENGINE FRONT RIGHT AIR INTAKE TUBE OEM 670007992",
+        "name": "2014 - 2021 MASERATI GHIBLI 3.0L GAS FRONT RIGHT AIR INTAKE TUBE OEM 670007992",
         "number": "670007992",
         "oem": "",
         "notes": ""
     },
     {
         "id": "ZXIDTUhDSVRMkVQa-308B",
-        "name": "2014- 2021 MASERATI GHIBLI 3.0L ENGINE FRONT RIGHT AIR INTAKE TUBE OEM 670038726",
+        "name": "2014 - 2021 MASERATI GHIBLI 3.0L GAS FRONT RIGHT AIR INTAKE TUBE OEM 670038726",
         "number": "670038726",
         "oem": "",
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
     },
     {
         "id": "Nrl5GAKz4WF4FnN5MuCwO",
-        "name": "2014 - 2021 MASERATI GHIBLI 3.0L ENGINE FRONT LEFT AIR INTAKE TUBE OEM 670038726",
+        "name": "2014 - 2021 MASERATI GHIBLI 3.0L GAS FRONT LEFT AIR INTAKE TUBE OEM 670038726",
         "number": "670038726",
         "oem": "",
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -79,7 +485,7 @@ export function App() {
     },
     {
         "id": "05aFPYKSRWGGtklxipU74",
-        "name": "2014 - 2021 MASERATI GHIBLI 3.0L BATTERY HOLDER MOUNT BRACKET OEM 670031014",
+        "name": "2014 - 2021 MASERATI GHIBLI 3.0L GAS BATTERY HOLDER MOUNT BRACKET OEM 670031014",
         "number": "670031014",
         "oem": "",
         "notes": ""
@@ -4048,7 +4454,7 @@ export function App() {
     },
     {
         "id": "g1wJp-sqp-0WxX2XvspOc",
-        "name": "2017 - 2019 JEEP CHEROKEE FLOOR CARPPET COVER LINER MAT SET OF 4 OEM 6SG96DX9AA",
+        "name": "2017 - 2019 JEEP CHEROKEE FLOOR CARPET COVER LINER MAT SET OF 4 OEM 6SG96DX9AA",
         "number": "6SG96DX9AA / 6SG96DX9 AA",
         "oem": "5ZE32DX9AA / 5ZE32DX9 AA\t",
         "notes": ""
@@ -7079,7 +7485,7 @@ export function App() {
         },
         {
             "id": "biaPUfj6ZUsorZz7hciLA",
-            "name": "2019 - 2022 FORD EDGE REAR RIGHT BLIND SPOT RADAR SENSOR MODUE OEM KT4T14D453AA",
+            "name": "2019 - 2022 FORD EDGE REAR RIGHT BLIND SPOT RADAR SENSOR MODULE OEM KT4T14D453AA",
             "number": "KT4T14D453AA / KT4T14D453 AA / KT4T 14D453 AA\t",
             "oem": "JR3Z14C689D / JR3Z14C689 D / JR3Z 14C689 D",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -9544,14 +9950,14 @@ export function App() {
         },
         {
             "id": "hIpAt2lY_yHZ7lA5UA9hB",
-            "name": "2018 - 2020 DODGE CHARGER FRONT RIGHT SIDE DISC BRAKE CALIPER OEM 68302656AC",
+            "name": "2018 - 2020 DODGE CHARGER RWD 3.6L FRONT RIGHT DISC BRAKE CALIPER OEM 68302656AC",
             "number": "68302656AC / 68302656 AC",
             "oem": "68368082AA / 68368082 AA",
             "notes": ""
         },
         {
             "id": "sGIbA3xKCQ9uqn9Xgv070",
-            "name": "2018 - 2020 DODGE CHARGER FRONT LEFT SIDE BRAKE CALIPER ASSEMBLY OEM 68302657AC",
+            "name": "2018 - 2020 DODGE CHARGER RWD 3.6L FRONT LEFT DISC BRAKE CALIPER OEM 68302657AC",
             "number": "68302657AC / 68302657 AC",
             "oem": "68368083AA / 68368083 AA",
             "notes": ""
@@ -9705,14 +10111,14 @@ export function App() {
         },
         {
             "id": "p_tjGpL25vm4uz56CLqTW",
-            "name": "2011 - 2022 DODGE CHARGER FRONT RIGHT SIDE SHOCK STRUT ABSORBER OEM 68090072AD",
+            "name": "2011-2022 DODGE CHARGER RWD 3.6L FRONT RIGHT SHOCK STRUT ABSORBER OEM 68090072AD",
             "number": "68090072AD / 68090072 AD\t",
             "oem": "68544308AA / 68544308 AA",
             "notes": ""
         },
         {
             "id": "b9eZtDSIY9R6RZTATNv-a",
-            "name": "2011 - 2022 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT ABSORBER OEM 68090073AD",
+            "name": "2011- 2022 DODGE CHARGER RWD 3.6L FRONT LEFT SHOCK STRUT ABSORBER OEM 68090073AD",
             "number": "68090073AD / 68090073 AD\t",
             "oem": "68544309AA / 68544309 AA",
             "notes": ""
@@ -9733,7 +10139,7 @@ export function App() {
         },
         {
             "id": "MwzTfd2Tr_Ow-FvyRcrRh",
-            "name": "2014 - 2022 DODGE CHARGER FRONT STABILIZER SWAY BAR W/ LINK OEM 68184223AB",
+            "name": "2014-2022 DODGE CHARGER RWD 3.6L FRONT STABILIZER SWAY BAR & LINK OEM 68184223AB",
             "number": "68184223AB / 68184223 AB",
             "oem": "",
             "notes": ""
@@ -9810,14 +10216,14 @@ export function App() {
         },
         {
             "id": "qgCc3VIqc1gjQRUrIi1nG",
-            "name": "2011 - 2022 DODGE CHARGER REAR RIGHT SIDE CONTROL ARM SET OF 5 OEM 68210633AA",
+            "name": "2014- 2022 DODGE CHARGER RWD 3.6L REAR RIGHT CONTROL ARM SET OF 5 OEM 68210633AA",
             "number": "68210633AA / 68210633 AA\t",
             "oem": "68210524AA / 68210524 AA, 68224118AA / 68224118 AA, 68306530AA / 68306530 AA, 68184781AA / 68184781 AA, 68051638AB / 68051638 AB, 68229216AB / 68229216 AB",
             "notes": ""
         },
         {
             "id": "3A9r5PVMccEenE88D8jQe",
-            "name": "2014 - 2022 DODGE CHARGER REAR LEFT SIDE CONTROL ARM SET OF 5 OEM 68210633AA",
+            "name": "2014 - 2022 DODGE CHARGER RWD 3.6L REAR LEFT CONTROL ARM SET OF 5 OEM 68210633AA",
             "number": "68210633AA / 68210633 AA",
             "oem": "68210524AA / 68210524 AA, 68224118AA / 68224118 AA, 68306530AA / 68306530 AA, 68184781AA / 68184781 AA, 68051638AB / 68051638 AB, 68229216AB / 68229216 AB",
             "notes": ""
@@ -9880,7 +10286,7 @@ export function App() {
         },
         {
             "id": "fTuJoX90XSR6c7v480zM1",
-            "name": "2016 - 2022 DODGE CHARGER 3.6L REAR CARRIER DIFFERENTIAL ASSEMBLY OEM 68159836AF",
+            "name": "2016 - 2022 DODGE CHARGER RWD 3.6L REAR CARRIER DIFFERENTIAL OEM 68159836AF",
             "number": "68159836AF / 68159836 AF\t",
             "oem": "68159836AG / 68159836 AG",
             "notes": ""
