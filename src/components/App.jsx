@@ -2837,7 +2837,7 @@ export function App() {
         },
         {
             "id": "OB7VWZe6NtE96X02WEZIm",
-            "name": "2018 - 2019 FORD EXPLORER FRONT BUMPER UPPER COVER PANEL OEM JB5317C831DB RED=RR,
+            "name": "2018 - 2019 FORD EXPLORER FRONT BUMPER UPPER COVER PANEL OEM JB5317C831DB RED=RR",
             "number": "JB5317C831DB / JB5317C831 DB / JB53 17C831 DB",
             "oem": "JB5Z17D957FAPTM / JB5Z17D957 FAPTM / JB5Z 17D957 FAPTM",
             "notes": ""
