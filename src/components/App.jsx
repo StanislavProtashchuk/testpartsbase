@@ -7,6 +7,69 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "Uyd93j1PCpwOmSgtI7kzI",
+        "name": "2020 -2023 GMC ACADIA REAR FOOT LID RELEASE CAMERA PROJECTOR MODULE OEM 13529151",
+        "number": "13529151",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "fAmR6Ca7fKtBaMTXIU1oK",
+        "name": "2020-2023 GMC ACADIA REAR LIFTGATE TAILGATE PARK PARKING AID CAMERA OEM 84676846",
+        "number": "84676846",
+        "oem": "84884484",
+        "notes": ""
+    },
+    {
+        "id": "g3EwbIXws6BgTEmTx5kME",
+        "name": "2017 - 2023 GMC ACADIA 3.6L STARTER MOTOR HEAT SHIELD PROTECTION OEM 12654121",
+        "number": "12654121",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CaxLIVx0zXARIjDgFHaFy",
+        "name": "2017-2023 GMC ACADIA REAR RIGHT OR LEFT QUARTER AIR PRESSURE GRILLE OEM 13588034",
+        "number": "13588034",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "lxgKloGWjjOj81Z_vfUCY",
+        "name": "2017-2023 GMC ACADIA REAR LEFT OR RIGHT QUARTER AIR PRESSURE GRILLE OEM 13588034",
+        "number": "13588034",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT"
+    },
+    {
+        "id": "zpql7a5puSWKfDmVZ39rn",
+        "name": "2017 - 2023 GMC ACADIA FRONT LEFT DOOR LOCK SWITCH CONTROL MODULE OEM 23119187",
+        "number": "23119187",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "5d1Dxm-1ByJToDp7OvW4b",
+        "name": "2017- 2023 GMC ACADIA FRONT LEFT DOOR TAILGATE RELEASE LEVER SWITCH OEM 84389158",
+        "number": "84389158",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "8g6hmuPb0stBtGhEyIcnS",
+        "name": "2020 - 2023 GMC ACADIA CONSOLE HAZARD LIGHT TRACTION CONTROL SWITCH OEM 84646674",
+        "number": "84646674",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "FbkYfkDMQp_cHfI5rMakU",
+        "name": "2020-2023 GMC ACADIA FRONT CENTER CONSOLE DRIVE RIDE CONTROL SWITCH OEM 84772707",
+        "number": "84772707",
+        "oem": "",
+        "notes": ""
+    },
         {
         "id": "9twAx01xDO6GPc-Uv-944",
         "name": "2014- 2019 LAND ROVER EVOQUE REAR LIFTGATE POWER CONTROL MODULE OEM FJ3214B673AA",
