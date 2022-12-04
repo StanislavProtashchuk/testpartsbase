@@ -1063,7 +1063,7 @@ export function App() {
         "number": "JL1B7822465BM / JL1B7822465 BM / JL1B 7822465 BM\t",
         "oem": "LL7Z7822405BDPTM / LL7Z7822405 BDPTM / LL7Z 7822405 BDPTM",
         "notes": ""
-    }
+    },
         {
         "id": "yPVJ6iy6L-0efatz9C9tq",
         "name": "2015- 2023 LINCOLN NAVIGATOR REAR SUSPENSION LEFT HEIGHT SENSOR OEM K2029220723A",
