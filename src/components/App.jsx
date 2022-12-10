@@ -7,6 +7,125 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "pKIJlGOPh7viZf44j4YX2",
+        "name": "2017- 2023 TESLA MODEL 3 CHARGE CHARGING PORT INLET SOCKET MODULE OEM 145544600D",
+        "number": "145544600D / 145544600 D / 1455446 00 D\t",
+        "oem": "149037410E / 149037410 E / 1490374 10 E\t",
+        "notes": ""
+    },
+    {
+        "id": "IOwnt3-2BqUcxZUJXfSYt",
+        "name": "2017 - 2023 TESLA MODEL 3 CHARGER CHARGING ADAPTER PORT OEM 106734800B",
+        "number": "106734800B / 106734800 B / 1067348 00 B",
+        "oem": "106734800C / 106734800 C / 1067348 00 C",
+        "notes": ""
+    },
+    {
+        "id": "Ql9Hnkmyu8EwgmnubGa0x",
+        "name": "2017 - 2023 TESLA MODEL 3 HVAC A/C COMPRESSOR FRONT MOUNT BRACKET OEM 112296800B",
+        "number": "112296800B / 112296800 B / 1122968 00 B",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "3n4fNFQZ_LMP0dfW7mh5H",
+        "name": "2017- 2023 TESLA MODEL 3 FRONT RIGHT HEADLIGHT LAMP MOUNT BRACKET OEM 6002TM0542",
+        "number": "6002TM0542 / 6 002 TM0 542\t",
+        "oem": "145337600A / 145337600 A / 1453376 00 A\t",
+        "notes": ""
+    },
+    {
+        "id": "FEwjmbOOTF-FKpSX5Rj9P",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT RIGHT COWL SCREEN CARRIER BRACKET OEM 111893400B",
+        "number": "111893400B / 111893400 B / 1118934 00 B",
+        "oem": "111893400C / 111893400 C / 1118934 00 C",
+        "notes": ""
+    },
+    {
+        "id": "GPWyeREdxnQMX3ba_hF8y",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT LEFT COWL SCREEN CARRIER BRACKET OEM 111893300B",
+        "number": "111893300B / 111893300 B / 1118933 00 B\t",
+        "oem": "111893300C / 111893300 C / 1118933 00 C",
+        "notes": ""
+    },
+    {
+        "id": "tKYrsxI3waQv4NvWOs0mp",
+        "name": "2017 - 2023 TESLA MODEL 3 RWD FRONT RIGHT SIDE LOWER CONTROL ARM OEM 104435900A",
+        "number": "104435900A / 104435900 A / 1044359 00 A\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CVj4Tb73B0Bp54oC32cEn",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT RIGHT OR LEFT LOWER CONTROL ARM OEM 104434100D",
+        "number": "104434100D / 104434100 D / 1044341 00 D",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "ZeeJlcBsXoOkaL1S0G6sY",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT LEFT OR RIGHT LOWER CONTROL ARM OEM 104434100D",
+        "number": "104434100D / 104434100 D / 1044341 00 D",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "CXkvepk7oe5UsM2B2jerc",
+        "name": "2017 - 2023 TESLA MODEL 3 LEFT QUARTER INNER FENDER SPLASH SHIELD OEM 108158300C",
+        "number": "108158300C / 108158300 C / 1081583 00 C",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "rPxbzOzt43f5xQW5kRZ6U",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT RIGHT INNER FENDER SPLASH SHIELD OEM 108158200D",
+        "number": "108158200D / 108158200 D / 1081582 00 D\t",
+        "oem": "108158200C / 108158200 C / 1081582 00 C\t",
+        "notes": ""
+    },
+    {
+        "id": "wVp_JbV609uDgcdvH5UTv",
+        "name": "2017 - 2023 TESLA MODEL 3 DASH CENTER 15\" SCREEN DISPLAY MONITOR OEM 108954300G",
+        "number": "108954300G / 108954300 G / 1089543 00 G\t",
+        "oem": "108954300J / 108954300 J / 1089543 00 J",
+        "notes": ""
+    },
+    {
+        "id": "CEZ7QQTwX6Bt8y8UuEWvo",
+        "name": "2017 - 2023 TESLA MODEL 3 LOW PITCH NOTE TONE HORN SIGNAL OEM 148694300A",
+        "number": "148694300A / 148694300 A / 1486943 00 A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Yr85oy6jK9Ebzb8dTt2Qi",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT LEFT RADIATOR RETURN COOLING HOSE OEM 107758600E",
+        "number": "107758600E / 107758600 E / 1077586 00 E",
+        "oem": "150133400D / 150133400 D / 1501334 00 D",
+        "notes": ""
+    },
+    {
+        "id": "y3xL4LfwBza4AOdndGNJb",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT RIGHT SIDE HEADLIGHT LIGHT LAMP OEM 107737200J",
+        "number": "107737200J / 107737200 J / 1077372 00 J",
+        "oem": "107737200L / 107737200 L / 1077372 00 L\t",
+        "notes": ""
+    },
+    {
+        "id": "43uu4llv3jacFUqru99Cu",
+        "name": "2017 - 2023 TESLA MODEL 3 HVAC A/C HEATER HOUSING CASE BOX COVER OEM 109999900H",
+        "number": "109999900H / 109999900 H / 1099999 00 H\t",
+        "oem": "149471410I / 149471410 I / 1494714 10 I",
+        "notes": ""
+    },
+    {
+        "id": "NcYQZODJW4t2bzrIkIVYO",
+        "name": "2017 - 2023 TESLA MODEL 3 ROOF SUNROOF HEADLINER TRIM COVER OEM 110106001I",
+        "number": "110106001I / 110106001 I / 1101060 01 I",
+        "oem": "110106082F / 110106082 F / 1101060 82 F",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
         {
         "id": "UeK756tHKxhE4zA0W3DvM",
         "name": "2017 - 2023 TESLA MODEL 3 STEERING WHEEL LEATHER W/ SWITCH BUTTON OEM 109522200K",
@@ -38931,7 +39050,7 @@ export function App() {
         },
         {
             "id": "ozT_Sn4_5ee1s6Pc8jw7C",
-            "name": "2017 - 2023 TESLA MODEL 3 DASH CENTER DISPLAY TOUCHSCREEN MONITOR OEM 108954300E",
+            "name": "2017 - 2023 TESLA MODEL 3 DASH CENTER 15\" SCREEN DISPLAY MONITOR OEM 108954300E",
             "number": "108954300E / 108954300 E / 1089543 00 E\t",
             "oem": "108954300J / 108954300 J / 1089543 00 J\t",
             "notes": ""
@@ -42489,7 +42608,7 @@ export function App() {
             "id": "Yi98oHlmiJ8gn4MtNnnio",
             "name": "2020 17 18 19 21 22 TESLA MODEL 3 FRONT LICENSE PLATE BRACKET OEM 109682900G",
             "number": "109682900G / 109682900 G / 1096829 00 G",
-            "oem": "2017 / 2018 / 2019 / 2020 / 2021 / 2022\t",
+            "oem": "2017 / 2018 / 2019 / 2020 / 2021 / 2022 / 2023\t",
             "notes": ""
         },
         {
