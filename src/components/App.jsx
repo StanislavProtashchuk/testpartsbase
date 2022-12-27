@@ -8,6 +8,174 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "x_aZUqdtA8xezzveJSvBR",
+        "name": "2020 - 2023 SUBARU LEGACY AWD REAR RIGHT SIDE DISC BRAKE CALIPER OEM 26620AN00A",
+        "number": "26620AN00A / 26620 AN00A",
+        "oem": "26692AN00A / 26692 AN00A",
+        "notes": ""
+    },
+    {
+        "id": "Vs9ix5XNrkmR2Cbre8AQ8",
+        "name": "2020 - 2023 SUBARU LEGACY AWD FRONT RIGHT PASSENGER SIDE DISC BRAKE CALIPER OEM",
+        "number": "26292AN00B / 26292 AN00B",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "KXkwlaE9HnO2bExkx2bo0",
+        "name": "2020 - 2023 SUBARU LEGACY FRONT LEFT DOOR WINDOW REGULATOR MOTOR OEM 61188AN01A",
+        "number": "61188AN01A / 61188 AN01A\t",
+        "oem": "61041AN01A / 61041 AN01A",
+        "notes": ""
+    },
+    {
+        "id": "A5Y8xPYT6MiBMN_Any0Yy",
+        "name": "2020- 2023 SUBARU LEGACY FRONT WINDSSHIELD WIPER LINKAGE W/ MOTOR OEM 86511AN010",
+        "number": "86511AN010 / 86511 AN010\t",
+        "oem": "86513AN02A / 86513 AN02A\t",
+        "notes": ""
+    },
+    {
+        "id": "eqeDiPEZkfLDeAcRpgPFn",
+        "name": "2020 - 2023 SUBARU LEGACY HEADLAMP AUTO LEVER CONTROL MODULE UNIT OEM 84051AN001",
+        "number": "84051AN001 / 84051 AN001\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "h8Tt2QLIskTBD93q1PlUO",
+        "name": "2020 - 2023 SUBARU LEGACY 2.5L FUEL GAS PUMP SENDING UNIT MODULE OEM 42021AN00B",
+        "number": "42021AN00B / 42021 AN00B\t",
+        "oem": "42021AN00A / 42021 AN00A\t",
+        "notes": ""
+    },
+    {
+        "id": "5Jlrr9qL3PvxTFnpJhoVI",
+        "name": "2020 - 2023 SUBARU LEGACY REAR RIGHT DOOR WINDOW FIXED VENT GLASS OEM 62284AN00A",
+        "number": "62284AN00A / 62284 AN00A\t",
+        "oem": "62012AN20A / 62012 AN20A\t",
+        "notes": ""
+    },
+    {
+        "id": "HSxCsm0C20CVh4wvkbNg7",
+        "name": "2020-2023 SUBARU LEGACY FRONT RIGHT DOOR GLASS REGULATOR W/ MOTOR OEM 61188AN00A",
+        "number": "61188AN00A / 61188 AN00A\t",
+        "oem": "61041AN00A / 61041 AN00A",
+        "notes": ""
+    },
+    {
+        "id": "d6SVi7zG6gAMw3QnACZdS",
+        "name": "2020 - 2023 SUBARU LEGACY FRONT LEFT DOOR WINDOW SWITCH CONTROL OEM 83071AN03B",
+        "number": "83071AN03B / 83071 AN03B\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "1yrRSSGzRnaqAiEYEzyHu",
+        "name": "2020 - 2023 SUBARU LEGACY FRONT DASH BACKUP CONTROL MODULE UNIT OEM 82131AN01A",
+        "number": "82131AN01A / 82131 AN01A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "spnzYk6RD-A8eXHPcmck4",
+        "name": "2020 - 2023 SUBARU LEGACY DASH LEFT IGNITION START SWITCH BUTTON OEM 83031FL00B",
+        "number": "83031FL00B / 83031 FL00B\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "uHaT6LdQYfyEJ-t6XAWP3",
+        "name": "2020 - 2023 SUBARU LEGACY PREMIUM DASH RIGHT MOLDING TRIM COVER OEM 66077AN74A",
+        "number": "66077AN74A / 66077 AN74A",
+        "oem": "66077AN72A / 66077 AN72A",
+        "notes": ""
+    },
+    {
+        "id": "yJqMXaBL8Uw9iIVovL6Pc",
+        "name": "2020 -2023 SUBARU LEGACY REAR RIGHT EXTERIOR DOOR HANDLE OEM 692230T010 GRAY=P8Y",
+        "number": "692230T010 / 69223 0T010\t",
+        "oem": "692310T020 / 69231 0T020, 62142AN00A / 62142 AN00A",
+        "notes": ""
+    },
+    {
+        "id": "2mAR4sIwdIW20wJDVdY1w",
+        "name": "2020 - 2023 SUBARU LEGACY KEYLESS ACCESS CONTROL MODULE UNIT OEM 88801AN040",
+        "number": "88801AN040 / 88801 AN040",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "n4iyKDGkOCTZNG8R57gFc",
+        "name": "2020 - 2023 SUBARU LEGACY 2.5L FRONT RIGHT ENGINE MOUNT BRACKET OEM 41022FL00A",
+        "number": "41022FL00A / 41022 FL00A\t",
+        "oem": "41022AN00A / 41022 AN00A\t",
+        "notes": ""
+    },
+    {
+        "id": "O3hoLazkxNagL7PakHhF1",
+        "name": "2020 - 2023 SUBARU LEGACY 2.5L FRONT LEFT ENGINE MOUNT BRACKET OEM 41022FL01A",
+        "number": "41022FL01A / 41022 FL01A",
+        "oem": "41022AN01A / 41022 AN01A",
+        "notes": ""
+    },
+    {
+        "id": "W7_1iykgKe7nV7Y3AK-UC",
+        "name": "2020 -2023 SUBARU LEGACY CENTER CONSOLE BACK TRIM COVER OEM 92132AN00A GRAY=W10",
+        "number": "92132AN00A / 92132 AN00A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dPdS7Z-za4GyKprf9qkCl",
+        "name": "2020 - 2023 SUBARU LEGACY 2.5L HVAC A/C HEATER CONTROL MODULE OEM 72343AN03A",
+        "number": "72343AN03A / 72343 AN03A\t",
+        "oem": "72343AN02A / 72343 AN02A\t",
+        "notes": ""
+    },
+    {
+        "id": "VczrMFIhnBwRAfaeD-NGH",
+        "name": "2020 -2023 SUBARU LEGACY KEY FOB REMOTE KEYLESS ENTRY TRANSMITTER OEM 1551A14AHK",
+        "number": "1551A14AHK / 1551A 14AHK, 88835AN00A / 88835 AN00A\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "qZWumi0cK0UL-eHF-TBPq",
+        "name": "2020 - 2023 SUBARU LEGACY REAR RIGHT OR LEFT SIDE IMPACT SENSOR OEM 98237AN00A",
+        "number": "98237AN00A / 98237 AN00A\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "96BFlKlfbMv9kEtnK-7y0",
+        "name": "2020 - 2023 SUBARU LEGACY FRONT RIGHT OR LEFT SIDE IMPACT SENSOR OEM 98237AN00A",
+        "number": "98237AN00A / 98237 AN00A",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "GWfvqNQxkazjsQqu875sU",
+        "name": "2020 - 2023 SUBARU LEGACY REAR LEFT OR RIGHT SIDE IMPACT SENSOR OEM 98237AN00A",
+        "number": "98237AN00A / 98237 AN00A",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "b0YB_hS-CHRM4KMjGNwan",
+        "name": "2020 - 2023 SUBARU LEGACY FRONT LEFT OR RIGHT SIDE IMPACT SENSOR OEM 98237AN00A",
+        "number": "98237AN00A / 98237 AN00A",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "32wRA-l99zgTj1mkz_A7P",
+        "name": "2020 - 2023 SUBARU LEGACY CENTRAL GATEWAY CONTROL MODULE UNIT OEM 88301AN00A",
+        "number": "88301AN00A / 88301 AN00A",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "2LH38fykLszrFVzVtFYlY",
         "name": "2020 - 2023 SUBARU LEGACY 2.5L ENGINE MOTOR ASSEMBLY 34K MILEAGE OEM FB25DXZHGA",
         "number": "FB25DXZHGA / FB25D XZHGA\t",
