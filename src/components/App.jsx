@@ -8,6 +8,41 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "tWrM3g6IGQU8PKCxM4mRj",
+        "name": "2015 - 2016 MERCEDES C300 RWD ABS ANTI LOCK BRAKE PUMP MODULE OEM A2534310512",
+        "number": "A2534310512 / 2534310512 / 253 431 05 12",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mWBshM8BEEI1-VvCrkl6N",
+        "name": "2015 – 2017 LEXUS NX200T FWD ABS ANTI LOCK BRAKE PUMP MODULE OEM 4454078010",
+        "number": "4454078010 / 44540 78010\t",
+        "oem": "8965078111 / 89650 78111\t",
+        "notes": ""
+    },
+    {
+        "id": "A0TYgfv99iAsNdsD8lAbN",
+        "name": "2017 - 2019 MERCEDES GLS450 ABS ANTI LOCK BRAKE PUMP MODULE UNIT OEM A1664310600",
+        "number": "A1664310600 / A 1664310600 / A 166 431 06 00",
+        "oem": "A0004310037 / A 0004310037 / A 000 431 00 37\t",
+        "notes": ""
+    },
+    {
+        "id": "YyYN0236qF-sp-WtMNBRu",
+        "name": "2017 - 2023 TESLA MODEL 3 SMART CHARGER ADAPTER PLUG IN CONNECTOR OEM 109934510C",
+        "number": "109934510C / 109934510 C / 1099345 10 C",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "t6NHZmWfYHWqtbUeCQ8Kf",
+        "name": "2017 - 2023 TESLA MODEL 3 FRONT RIGHT ACTIVE GRILLE AIR SHUTTER OEM 155978900A",
+        "number": "155978900A / 155978900 A / 1559789 00 A",
+        "oem": "155978700A / 155978700 A / 1559787 00 A\t",
+        "notes": ""
+    },
+        {
         "id": "MbFLybRhqCMpCknrD5Hi2",
         "name": "2007 - 2020 MITSUBISHI OUTLANDER FRONT RIGHT INNER SEAT TRACK COVER OEM N253072",
         "number": "N253072",
