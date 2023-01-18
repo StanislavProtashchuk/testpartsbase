@@ -76,7 +76,7 @@ export function App() {
         "number": "LX6118K579AA / LX6118K579 AA / LX61 18K579 AA\t",
         "oem": "LX6Z8260J / LX6Z8260 J / LX6Z 8260 J",
         "notes": ""
-    }
+    },
         {
         "id": "gKd8I1qGVDnnKosIKpmpq",
         "name": "2015 - 2019 FORD TRANSIT-150 STEERING WHEEL PLASTICK OEM CK413600CB",
