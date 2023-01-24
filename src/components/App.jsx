@@ -7,6 +7,307 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "2QDflt_QN1j5eyXqCQ2L7",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT OR RIGHT SHOCK ABSORBER OEM 68194016AB",
+        "number": "68194016AB / 68194016 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "69H8Dbk3EvcrAYBPKmrXW",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT OR LEFT SHOCK ABSORBER OEM 68194016AB",
+        "number": "68194016AB / 68194016 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "F0IP1sWpwE6sPa3PStg5E",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT SIDE PARKING BRAKE CABLE OEM 55398316AM",
+        "number": "55398316AM / 55398316 AM",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "PSxMfMe9g_nN6SY_eFkVW",
+        "name": "2019- 2023 RAM 1500 CLASSIC EVAPORATOR VAPOR EMISSION PURGE VALVE OEM 04627694AB",
+        "number": "04627694AB / 04627694 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "xdnMoljs8akklKzXgYZYk",
+        "name": "2019 - 2023 RAM 1500 CLASSIC 5.7L RADIATOR UPPER WATER INLET HOSE OEM 55056772AD",
+        "number": "55056772AD / 55056772 AD",
+        "oem": "68571917AA / 68571917 AA",
+        "notes": ""
+    },
+    {
+        "id": "AYVRR4ZelRoyGWl08FUTE",
+        "name": "2019- 2023 RAM 1500 CLASSIC LEFT CENTER B PILLAR UPPER TRIM COVER OEM 1MH97BD1AD",
+        "number": "1MH97BD1AD / 1MH97BD1 AD",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "r74KSmyzVaYGWrD1HyRb4",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT LEFT SEAT HINGE TRIM COVER SET OEM 1454492TX",
+        "number": "1454492TX / 1454492 TX",
+        "oem": "1NK87HL1AA / 1NK87HL1 AA, 1NK87LU7AA / 1NK87LU7 AA",
+        "notes": ""
+    },
+    {
+        "id": "6fLc6wkhbfRRACxZnSgsV",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT TRUCK BED CARGO LIGHT LAMP OEM 05182673",
+        "number": "5182673AA / 5182673 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "cRwjxiFBBGLCL2sp0CJfe",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT TRUCK BED CARGO LIGHT LAMP OEM 05182672",
+        "number": "5182672AA / 5182672 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "vIO4aR58SgS6vmI-Bfh6i",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT DOOR SILL SCUFF PLATE TRIM OEM 1DX73TX7AC",
+        "number": "1DX73TX7AC / 1DX73TX7 AC",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "qvcEZpr5nprgY-s1xy6ss",
+        "name": "2019- 2023 RAM 1500 CLASSIC REAR RIGHT DOOR SILL SCUFF PLATE TRIM OEM 1DX72TX7AC",
+        "number": "1DX72TX7AC / 1DX72TX7 AC",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "JHYbsx0WPnU3dCVpHrcAO",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT C PILLAR UPPER TRIM COVER OEM 1DX60BD1AB",
+        "number": "1DX60BD1AB / 1DX60BD1 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ylEGSx1tLXsTZOWSeu_xN",
+        "name": "2019-2023 RAM 1500 CLASSIC RIGHT CENTER B PILLAR UPPER TRIM COVER OEM 1MH96BD1AD",
+        "number": "1MH96BD1AD / 1MH96BD1 AD",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "ycvOPk4jF5fjEoNFy3LX8",
+        "name": "2019 - 2023 RAM 1500 CLASSIC RWD 5.7L FRONT RIGHT SHOCK ABSORBER OEM 05154666AC",
+        "number": "05154666AC / 05154666 AC",
+        "oem": "68170199AC / 68170199 AC",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "BHhDBLp5nzDOcNOxh9Rtv",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT RIGHT SEAT HINGE TRIM COVER SET OEM 1454490",
+        "number": "1454490",
+        "oem": "1NK87HL1AA / 1NK87HL1 AA, 1NK87LU7AA / 1NK87LU7 AA",
+        "notes": ""
+    },
+    {
+        "id": "S3uW6E7KXLW63FijVR7z0",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT RIGHT FLOOR JACK STORAGE TRIM OEM 1JA35TX7AC",
+        "number": "1JA35TX7AC / 1JA35TX7 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "z0km_CODFuMaMssrsDQeo",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT QUARTER FLOOR STORAGE BOX OEM 1MG92TRMAA",
+        "number": "1MG92TRMAA / 1MG92TRM AA",
+        "oem": "1MG92XXXAA / 1MG92XXX AA",
+        "notes": "CREW CAB ONLY. FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "5YLXzxRUgH4Z84qBa0ThV",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT QUARTER FLOOR STORAGE BOX OEM 1MG92TRMAA",
+        "number": "1MG92TRMAA / 1MG92TRM AA",
+        "oem": "1MG92XXXAA / 1MG92XXX AA",
+        "notes": "CREW CAB ONLY. FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "SIVhLL_NsOYfaB7eM83mT",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT LEFT BAG CRASH IMPACT SENSOR OEM 56054085AA",
+        "number": "56054085AA / 56054085 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "Y13y9cK4DTeGenqXJudme",
+        "name": "2019-2023 RAM 1500 CLASSIC 5.7L AIR CLEANER INTAKE TUBE RESONATOR OEM 68090732AA",
+        "number": "68090732AA / 68090732 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "_ZISXbr6nrbfvb2whi8-F",
+        "name": "2019 2020 2021 2022 2023 RAM 1500 CLASSIC FRONT DASH LEFT SPEAKER OEM 68423672AA",
+        "number": "68423672AA / 68423672 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "kOz88TZSUmA80VXI5eZ3Z",
+        "name": "2020 19 21 22 23 RAM 1500 CLASSIC FRONT DASH PANEL RIGHT SPEAKER OEM 68423672AA",
+        "number": "68423672AA / 68423672 AA",
+        "oem": "2019 / 2020 / 2021 / 2022 / 2023",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "EcXnO-sbDuA6mLnVa9MQv",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT RIGHT DOOR WINDOW GLASS SWITCH OEM 68275823AC",
+        "number": "68275823AC / 68275823 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "cbeReMPW4HrRBEx1KKHjx",
+        "name": "2019 - 2023 RAM 1500 CLASSIC OVERHEAD CONSOLE RETAINER BRACKET OEM 55365119AC",
+        "number": "55365119AC / 55365119 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Ii_FWBmwmy5gehNC8jOYN",
+        "name": "2019 - 2023 RAM 1500 CLASSIC TRAILER TOW ELECTRICAL CONNECTOR OEM 68014986AB",
+        "number": "68014986AB / 68014986 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "fMT8LeJzQEejV_hLtKQdh",
+        "name": "2019- 2023 RAM 1500 CLASSIC 5.7L RADIATOR LOWER WATER OUTLET HOSE OEM 68297638AB",
+        "number": "68297638AB / 68297638 AB",
+        "oem": "52014835AB / 52014835 AB",
+        "notes": ""
+    },
+    {
+        "id": "L5tOeMGI6LebWndpxU9ND",
+        "name": "2020-2023 RAM 1500 CLASSIC 5.7L FUEL GAS PUMP CONTROL MODULE UNIT OEM 68434538AA",
+        "number": "68434538AA / 68434538 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "vFsj_wb8m5IV1BJ9tyaOx",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT C PILLAR LOWER TRIM COVER OEM 1EB81TX7AB",
+        "number": "1EB81TX7AB / 1EB81TX7 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "EvUfNV1PycC8bNym1wkgV",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT C PILLAR LOWER TRIM COVER OEM 1EB80TX7AB",
+        "number": "1EB80TX7AB / 1EB80TX7 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "JR51940iVQW-tL_EPMvse",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT RIGHT SEAT INNER TRIM COVER PANEL OEM 1475047",
+        "number": "1475047",
+        "oem": "1NK92HL1AA / 1NK92HL1 AA",
+        "notes": ""
+    },
+    {
+        "id": "z4qfB6lXx7MIxPiYLx6JR",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT LEFT SEAT INNER TRIM COVER PANEL OEM 1475046",
+        "number": "1475046",
+        "oem": "1NK91HL1AA / 1NK91HL1 AA",
+        "notes": ""
+    },
+    {
+        "id": "nX8IP2Z932wfVROoBav1u",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT LEFT SEAT OUTER TRIM COVER PANEL OEM 2369022",
+        "number": "2369022",
+        "oem": "5MZ89HL1AA / 5MZ89HL1 AA",
+        "notes": ""
+    },
+    {
+        "id": "fat7z8ZqKBEbCXV7Z6Znv",
+        "name": "2019 - 2020 RAM 1500 CLASSIC FRONT RIGHT SEAT OUTER TRIM COVER PANEL OEM 2369039",
+        "number": "2369039",
+        "oem": "5MZ88HL1AA / 5MZ88HL1 AA",
+        "notes": ""
+    },
+    {
+        "id": "ZjFE1d49l_ClS5bX-eq4V",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT WINDSHIELD LEFT SIDE WIPER ARM OEM 55277449AE",
+        "number": "55277449AE / 55277449 AE\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "bfjIuSs6QewuCW-F8lVRj",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT WINDSHIELD RIGHT WIPER ARM OEM 55277450AD",
+        "number": "55277450AD / 55277450 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "BYkOjqTOMKAAqS3Xon4Qn",
+        "name": "2019 - 2020 RAM 1500 CLASSIC DASH SPEEDOMETER BEZEL TRIM OEM 5060284CA GRAY=MJX8",
+        "number": "5060284CA / 5060284 CA",
+        "oem": "5MW05LU7AA / 5MW05LU7 AA",
+        "notes": ""
+    },
+    {
+        "id": "qOlNv6Srl_a6x9SeOdzto",
+        "name": "2019- 2023 RAM 1500 CLASSIC FRONT DASH LEFT LOWER KNEE TRIM COVER OEM 6CF761X7AB",
+        "number": "6CF761X7AB / 6CF761X7 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CyK6s8KM_Ci7_LPP6Nnfb",
+        "name": "2019 - 2020 RAM 1500 CLASSIC ANTI THAFT LOCKING CONTROL MODULE OEM 68363202AC",
+        "number": "68363202AC / 68363202 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "9SkVEKAclWRzd8NI3ZlXe",
+        "name": "2019 - 2021 RAM 1500 CLASSIC DASH RIGHT UPPER GLOVE BOX STORAGE OEM 1RF25TX7AA",
+        "number": "1RF25TX7AA / 1RF25TX7 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "1B7g0ZDy59kCPKCWfL-rR",
+        "name": "2019 - 2023 RAM 1500 CLASSIC EMERGENCY BRAKE STOP PEDAL OEM 52122405AD",
+        "number": "52122405AD / 52122405 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "51IPfYdrxNJU1J3pc0mRs",
+        "name": "2019 - 2023 RAM 1500 CLASSIC AIR CLEANER FILTER MOUNT BRACKET OEM 53032453AE",
+        "number": "53032453AE / 53032453 AE",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "TEXlCGeXpjnVg46Oz_YUp",
+        "name": "2019 - 2023 RAM 1500 CLASSIC STEERING COLUMN CLOCK SPRING SRS OEM 68110740AE",
+        "number": "68110740AE / 68110740 AE\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "13UOPPaRXEinEZd07HsoF",
+        "name": "2020 21 22 23 RAM 1500 CLASSIC SLT WHEEL RIM ALLOY 17X7J ET25.4 OEM 1UB12TRMAB",
+        "number": "1UB12TRMAB / 1UB12TRM AB",
+        "oem": "1UB17GSAAC / 1UB17GSA AC",
+        "notes": "2019 / 2020 / 2021 / 2022 / 2023"
+    },
             {
         "id": "XQEBIPOFLz42A3-9QalvA",
         "name": "2019 - 2023 RAM 1500 CLASSIC RWD 5.7L REAR DRIVE SHAFT DRIVESHAFT OEM 52123827AA",
@@ -212,9 +513,9 @@ export function App() {
     },
     {
         "id": "FTeSS2wuJO2sVKtucDaYK",
-        "name": "2019 - 2020 RAM 1500 CLASSIC CENTER CONSOLE CUP HODER CUPHOLDER OEM 843081AC",
+        "name": "2019 - 2020 RAM 1500 CLASSIC REAR SEAT CUP HODER CUPHOLDER OEM 843081AC",
         "number": "843081AC / 843081 AC",
-        "oem": "5VC932Z6AB / 5VC932Z6 AB",
+        "oem": "5HD65TX7AC / 5HD65TX7 AC",
         "notes": ""
     },
     {
@@ -4646,7 +4947,7 @@ export function App() {
         "name": "2020 2021 2022 2023 SUBARU LEGACY REAR RIGHT OR LEFT DOOR SPEAKER OEM 86301AN61A",
         "number": "86301AN61A / 86301 AN61A\t",
         "oem": "",
-        "notes": ""
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
     },
     {
         "id": "-VV2x5rLn15ne8mL9guGy",
