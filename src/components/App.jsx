@@ -7,6 +7,223 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+            {
+        "id": "XQEBIPOFLz42A3-9QalvA",
+        "name": "2019 - 2023 RAM 1500 CLASSIC RWD 5.7L REAR DRIVE SHAFT DRIVESHAFT OEM 52123827AA",
+        "number": "52123827AA / 52123827 AA",
+        "oem": "52123827AC / 52123827 AC",
+        "notes": "5.7L CREW CAB 6'4\" BOX ONLY."
+    },
+    {
+        "id": "1OnKjOx4AkxCRAwHCbu0m",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT OR RIGHT UPPER CONTROL ARM OEM 04877160AG",
+        "number": "04877160AG / 04877160 AG",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "9UwN9DTF_FcJsK54juLC0",
+        "name": "2019 - 2023 RAM 1500 CLASSIC STEERING COLUMN COMBINATION SWITCH OEM 56046114AD",
+        "number": "56046114AD / 56046114 AD",
+        "oem": "56046114AF / 56046114 AF",
+        "notes": ""
+    },
+    {
+        "id": "A707Uwtb4lojhG4py7FNW",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT LEFT DOOR HANDLE OEM 1GH21LAUAF GRAY=PAU",
+        "number": "1GH21LAUAF / 1GH21LAU AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mHSnOoFx7U2UtBDALxU82",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT SIDE DOOR HANDLE OEM 1GH19LAUAF GRAY=PAU",
+        "number": "1GH19LAUAF / 1GH19LAU AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mMUsIcdhOD_ER0C8KpH_F",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT RIGHT DOOR HANDLE OEM 1GH18LAUAF GRAY=PAU",
+        "number": "1GH18LAUAF / 1GH18LAU AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "o68a9YXgd9Rki8TtNrD1r",
+        "name": "2019-2023 RAM 1500 CLASSIC RWD 5.7L FRONT RIGHT UPPER CONTROL ARM OEM 68227900AC",
+        "number": "68227900AC / 68227900 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "NTFIEoc3wIYgufry3NmCB",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR LEFT SIDE TAILLIGHT LIGHT LAMP OEM 55277415AF",
+        "number": "55277415AF / 55277415 AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dLtXKPuQ5mqUA390_Ax4r",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT SIDE TAILLIGHT LIGHT LAMP OEM 55277414AF",
+        "number": "55277414AF / 55277414 AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "aX1mj004JKtM_mZSLQPR3",
+        "name": "2019- 2023 RAM 1500 CLASSIC 5.7L ENGINE STARTER MOTOR 88K MILEAGE OEM 56044736AC",
+        "number": "56044736AC / 56044736 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "GlmH-kwaNN-xOY3rXcNw5",
+        "name": "2019-2023 RAM 1500 CLASSIC REAR LEFT DOOR WINDOW GLASS REGULATOR OEM 4CJ9218WA65",
+        "number": "4CJ9218WA65 / 4CJ9218WA 65\t",
+        "oem": "68045133AD / 68045133 AD",
+        "notes": ""
+    },
+    {
+        "id": "E43P8d40kT0ArdHEuHljT",
+        "name": "2019 - 2023 RAM 1500 CLASSIC REAR RIGHT DOOR WINDOW REGULATOR OEM 4CJ9217WA65",
+        "number": "4CJ9217WA65 / 4CJ9217WA 65",
+        "oem": "68045132AD / 68045132 AD",
+        "notes": ""
+    },
+    {
+        "id": "_Om0Y31febdsG_VV1IBSM",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT RIGHT STEERING KNUCKLE & HUB OEM 68044700",
+        "number": "68044700AD / 68044700 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "MONp7rqzf5QzYJMGsXAJV",
+        "name": "2019- 2020 RAM 1500 CLASSIC REAR BACK WINDOW W/ REGULATOR & MOTOR OEM 68157026AG",
+        "number": "68157026AG / 68157026 AG",
+        "oem": "55277408AA / 55277408 AA",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "ooLY0Pr11ky9sc9iUbeDg",
+        "name": "2014-2019 MERCEDES CLA250 BAG DIAGNOSTIC CONTROL MODULE UNIT SRS OEM A1179008700",
+        "number": "A1179008700 / 1179008700 / 117 900 87 00",
+        "oem": "",
+        "notes": "AIRBAGS WERE DEPLOYED"
+    },
+    {
+        "id": "zeDRxQ6MlEZCN5LrE7tZ1",
+        "name": "2020 21 22 23 RAM 1500 CLASSIC EMERGENCY SCISSOR JACK W/ TOOL KIT OEM 04766498AA",
+        "number": "04766498AA / 04766498 AA",
+        "oem": "68533368AB / 68533368 AB, 68533376AA / 68533376 AA, 52014437AA / 52014437 AA, 52014440AA / 52014440 AA",
+        "notes": "2019 / 2020 / 2021 / 2022 / 2023"
+    },
+    {
+        "id": "VZaL1_sLby8WwJcX5CtLz",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT LEFT DOOR CORNER TRIM COVER OEM 1HA43TX7AA",
+        "number": "1HA43TX7AA / 1HA43TX7 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "VhGiWCZQEDbGtei8AtfxM",
+        "name": "2019 - 2023 RAM 1500 CLASSIC FRONT RIGHT DOOR CORNER TRIM COVER OEM 1HA42TX7AA",
+        "number": "1HA42TX7AA / 1HA42TX7 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "E3DpZhN0CO-s56yqK08cU",
+        "name": "2019- 2023 RAM 1500 CLASSIC STEERING COLUMN HOUSING UPPER & LOWER OEM 1GE44TX7AC",
+        "number": "1GE44TX7AC / 1GE44TX7 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "k-k0enck5F8u9n7K21vHs",
+        "name": "2020 - 2023 RAM 1500 CLASSIC REAR LEFT OR RIGHT SEAT BELT BUCKLE OEM 6TB131X7AA",
+        "number": "6TB131X7AA / 6TB131X7 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "eRxsBujXyR4pyZiwmE8c4",
+        "name": "2020 - 2023 RAM 1500 CLASSIC REAR RIGHT OR LEFT SEAT BELT BUCKLE OEM 6TB131X7AA",
+        "number": "6TB131X7AA / 6TB131X7 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "g2PXBBHCSZTfhgj54tsao",
+        "name": "2019-2023 RAM 1500 CLASSIC WINDSHIELD REAR VIEW MIRROR TRIM COVER OEM 1YW13DX9AC",
+        "number": "1YW13DX9AC / 1YW13DX9 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "r1wGRWqbRSIULXOxPKrJX",
+        "name": "2019 - 2023 RAM 1500 CLASSIC BRAKE PEDAL PARKING PARK CABLE OEM 55398320AC",
+        "number": "55398320AC / 55398320 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "RQxmaWTlLUxo-mUKzjhwp",
+        "name": "2019- 2023 RAM 1500 CLASSIC 5.7L TRANSMISSION SHIFT CABLE BRACKET OEM 68448079AA",
+        "number": "68448079AA / 68448079 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "tzDYwnYRTaWSawcMPeNmZ",
+        "name": "2019- 2020 RAM 1500 CLASSIC FRONT LEFT OR RIGHT SEAT TRACK CAP COVER OEM 2399604",
+        "number": "2399604",
+        "oem": "1NK87LU7AA / 1NK87LU7 AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "zx7rWjfaavQETV6LYALG4",
+        "name": "2019- 2023 RAM 1500 CLASSIC REAR LEFT DOOR FIXED GLASS TRIM COVER OEM 1GD83BD1AC",
+        "number": "1GD83BD1AC / 1GD83BD1 AC",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "3L4VV-wgb-SsPvPlL8iYB",
+        "name": "2019-2023 RAM 1500 CLASSIC REAR RIGHT DOOR FIXED GLASS TRIM COVER OEM 1GD82BD1AC",
+        "number": "1GD82BD1AC / 1GD82BD1 AC",
+        "oem": "",
+        "notes": "CREW CAB ONLY."
+    },
+    {
+        "id": "pTOS82tLAO6Qp_Ghzfmdl",
+        "name": "2019 - 2023 RAM 1500 CLASSIC DASH PANEL LEFT END CAP TRIM COVER OEM 1EB09TX7AA",
+        "number": "1EB09TX7AA / 1EB09TX7 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "8GmNhh9vfQtU7xk4KFhIl",
+        "name": "2019 - 2023 RAM 1500 CLASSIC DASH PANEL RIGHT END CAP TRIM COVER OEM 1EB08TX7AA",
+        "number": "1EB08TX7AA / 1EB08TX7 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "FTeSS2wuJO2sVKtucDaYK",
+        "name": "2019 - 2020 RAM 1500 CLASSIC CENTER CONSOLE CUP HODER CUPHOLDER OEM 843081AC",
+        "number": "843081AC / 843081 AC",
+        "oem": "5VC932Z6AB / 5VC932Z6 AB",
+        "notes": ""
+    },
+    {
+        "id": "Ev2X7sOTjYKXpVCRpT1Hf",
+        "name": "2019- 2023 RAM 1500 CLASSIC 5.7L RADIATOR LOWER WATER OUTLET HOSE OEM 68297638AA",
+        "number": "68297638AA / 68297638 AA",
+        "oem": "68571918AA / 68571918 AA",
+        "notes": ""
+    },
         {
         "id": "xOgH-0Hlp4GVcVwCGBe1W",
         "name": "2020 - 2023 RAM 1500 CLASSIC FRONT RIGHT OR LEFT SEAT BELT BUCKLE OEM 6TB291X7AC",
@@ -411,7 +628,7 @@ export function App() {
         "name": "2019-2023 RAM 1500 CLASSIC BAG DIAGNOSTIC CONTROL MODULE UNIT SRS OEM 68346715AC",
         "number": "68346715AC / 68346715 AC",
         "oem": "",
-        "notes": ""
+        "notes": "AIRBAGS WERE DEPLOYED"
     },
     {
         "id": "NOlGfdlio1B1ThBiUHMwI",
@@ -429,7 +646,7 @@ export function App() {
     },
     {
         "id": "iPhhjx9YB87vzoaWX2Cdt",
-        "name": "2019 - 2023 RAM 1500 CLASSIC PARKING AID ASSIST SENSOR OEM 1EW63WS2AA GRAY=PAU",
+        "name": "2019- 2023 RAM 1500 CLASSIC REAR BUMPER PARKING AID ASSIST SENSOR OEM 1EW63WS2AA",
         "number": "1EW63WS2AA / 1EW63WS2 AA",
         "oem": "1EW63TZZAA / 1EW63TZZ AA",
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
