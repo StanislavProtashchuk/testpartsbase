@@ -8,6 +8,244 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "Bcx8Buq3v80VV4b-KqhlD",
+        "name": "2011-2021 JEEP GRAND CHEROKEE FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
+        "number": "55113748AA / 55113748 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "F77AX4pNYBxIakDqJirV7",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE WINDSHIELD WASHER RESERVOIR TANK OEM 55079365AF",
+        "number": "55079365AF / 55079365 AF\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "DFt_UM7VPeRa1xR9BlUkv",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE RADIATOR UPPER TIE BAR SUPPORT OEM 68234971AC",
+        "number": "68234971AC / 68234971 AC\t",
+        "oem": "5156109AB / 5156109 AB",
+        "notes": ""
+    },
+    {
+        "id": "hNTKrsr5oi31M0K2CvDVm",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT RIGHT DOOR WINDOW REGULATOR OEM 68231062AF",
+        "number": "68231062AF / 68231062 AF",
+        "oem": "68079286AA / 68079286 AA",
+        "notes": ""
+    },
+    {
+        "id": "fD7IdwXMh6pqKFSWPQhig",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR WINDOW REGULATOR OEM 68231063AC",
+        "number": "68231063AC / 68231063 AC",
+        "oem": "68079287AA / 68079287 AA",
+        "notes": ""
+    },
+    {
+        "id": "Aa_Yvbelh63kQzUy5dp1Y",
+        "name": "2014 - 2021 JEEP GRAND CHEROKEE ENGINE RADIATOR COOLING FAN MOTOR OEM 68244865AB",
+        "number": "68244865AB / 68244865 AB",
+        "oem": "52014787AC / 52014787 AC",
+        "notes": ""
+    },
+    {
+        "id": "bmFLGJiQLApd5zxmUSkKs",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE POWER INVERTER CONVERTOR MODULE OEM 05026486AA",
+        "number": "05026486AA / 05026486 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "RJp5qthqjKFDP4IxsntTV",
+        "name": "2014-2020 JEEP GRAND CHEROKEE 3.6L REAR RIGHT OR LEFT COIL SPRING OEM 68204956AA",
+        "number": "68204956AA / 68204956 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "cmiwuKZSA8gKh6kZ3FBSY",
+        "name": "2014-2020 JEEP GRAND CHEROKEE 3.6L REAR LEFT OR RIGHT COIL SPRING OEM 68204955AA",
+        "number": "68204955AA / 68204955 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "uhPhgLRW5YqBPDNUowKPE",
+        "name": "2011-2021 JEEP GRAND CHEROKEE 3.6L A/C AIR CONDITIONING CONDENSER OEM 55038003AG",
+        "number": "55038003AG / 55038003 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "RO6sOTy4vtea3pHklDCpo",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE RWD 3.6L REAR RIGHT AXLE SHAFT OEM 52123523AB",
+        "number": "52123523AB / 52123523 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "AalvCfqJGrgyWAQmOTjy8",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE RWD 3.6L REAR LEFT AXLE SHAFT OEM 52123523AB",
+        "number": "52123523AB / 52123523 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "MqnnsNu52BRiTw56egvtr",
+        "name": "2011 - 2020 JEEP GRAND CHEROKEE REAR TAILGATE RIGHT STOP BUMP OEM 05109694AA",
+        "number": "05109694AA / 05109694 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "AWGr_JHset1HUssQMO4Ot",
+        "name": "2011 - 2020 JEEP GRAND CHEROKEE REAR TAILGATE LEFT STOP BUMP OEM 05109694AA",
+        "number": "05109694AA / 05109694 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "3zZHw8b9qs3o9UruFqIMu",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR RIGHT WHEEL ABS SPEED SENSOR OEM 05154230AF",
+        "number": "05154230AF / 05154230 AF",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "Myyc30O9m_BkQTacPvpUB",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR LEFT WHEEL ABS SPEED SENSOR OEM 05154230AF",
+        "number": "05154230AF / 05154230 AF",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "XoM_MszGsbXZzEHp5pRZu",
+        "name": "2016 -2021 JEEP GRAND CHEROKEE FRONT RIGHT ABS WHEEL SPEED SENSOR OEM 68250893AA",
+        "number": "68250893AA / 68250893 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "Syp2iyjblAjo9UbSBF6L8",
+        "name": "2016 -2021 JEEP GRAND CHEROKEE FRONT LEFT ABS WHEEL SPEED SENSOR OEM 68250893AA",
+        "number": "68250893AA / 68250893 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "j6VvPj7u7K3RR9BPzDefx",
+        "name": "2019 20 21 JEEP GRAND CHEROKEE LAREDO WHEEL RIM ALLOY 20X8 ET56.4 OEM 5XL06TRMAA",
+        "number": "5XL06TRMAA / 5XL06TRM AA",
+        "oem": "5XL06DX8AA / 5XL06DX8 AA, 5XL06MA7AA / 5XL06MA7 AA",
+        "notes": "2017 / 2018 / 2019 / 2020 / 2021"
+    },
+    {
+        "id": "0gobtDnhBHbwUbiO59N9e",
+        "name": "2019-2020 JEEP GRAND CHEROKEE RWD 3.6L ENGINE WIRE WIRING HARNESS OEM 68399843AB",
+        "number": "68399843AB / 68399843 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "eMEWMvCqLnO6xoCW-qOUW",
+        "name": "2016 -2021 JEEP GRAND CHEROKEE 3.6L BRAKE BOOSTER VALVE W/ HOSE OEM 68053596AA",
+        "number": "68053596AA / 68053596 AA",
+        "oem": "4581952AC / 4581952 AC",
+        "notes": ""
+    },
+    {
+        "id": "egz3GZYexvp21H2mq5pwq",
+        "name": "2014 -2021 JEEP GRAND CHEROKEE TRANSMISSION BRAKE INTERLOCK CABLE OEM 68106125AC",
+        "number": "68106125AC / 68106125 AC",
+        "oem": "68260775AA / 68260775 AA",
+        "notes": ""
+    },
+    {
+        "id": "QL_ppRh2Bv_ELU0uSEBb2",
+        "name": "2018 - 2021 JEEP GRAND CHEROKEE RWD 3.6L TRANSMISSION 53K MILEAGE OEM 68271048AB",
+        "number": "68271048AB / 68271048 AB",
+        "oem": "68271048AC / 68271048 AC, 68271048AD / 68271048 AD",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "9TH1R3GA8pdVV5cImUQLm",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE 3.6L TRANSMISSION ISOLATOR MOUNT OEM 68032662AF",
+        "number": "68032662AF / 68032662 AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Ltfl5prtAxYGOOO3bXQMs",
+        "name": "2014 - 2021 JEEP GRAND CHEROKEE STEERING WHEEL BLACK LEATHER OEM 6SZ731CCAA",
+        "number": "6SZ731CCAA / 6SZ731CC AA",
+        "oem": "5QM91DX9AD / 5QM91DX9 AD",
+        "notes": ""
+    },
+    {
+        "id": "e6O6j8nAsh1WGoCr3zmlN",
+        "name": "2016 - 2020 JEEP GRAND CHEROKEE RWD 3.6L ENGINE STARTER MOTOR 53K OEM 56029780AC",
+        "number": "56029780AC / 56029780 AC",
+        "oem": "56029780AD / 56029780 AD",
+        "notes": ""
+    },
+    {
+        "id": "MrLpHCeWmZSI5bDx2WikW",
+        "name": "2014 - 2021 JEEP GRAND CHEROKEE STEERING COLUMN SURROUND HOUSING OEM 6NE97DX9AB",
+        "number": "6NE97DX9AB / 6NE97DX9 AB",
+        "oem": "5MT24DX9AB / 5MT24DX9 AB",
+        "notes": ""
+    },
+    {
+        "id": "YfX5d_F8_K2TzUZTULkr0",
+        "name": "2016 -2021 JEEP GRAND CHEROKEE RWD 3.6L STEERING GEAR RACK & PINION OEM 38010133",
+        "number": "38010133",
+        "oem": "68524908AA / 68524908 AA",
+        "notes": ""
+    },
+    {
+        "id": "TgxEiPMk-EJ8Xqc66HALp",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE 3.6L FRONT BELLY PAN SKID PLATE OEM 68187867AC",
+        "number": "68187867AC / 68187867 AC",
+        "oem": "68187867AD / 68187867 AD",
+        "notes": ""
+    },
+    {
+        "id": "FG7ayLthTceLvy94miqKE",
+        "name": "2011 -2020 JEEP GRAND CHEROKEE FRONT RIGHT SEAT INNER TRIM COVER OEM DOCWXX58410",
+        "number": "DOCWXX58410 / DOCWXX 58410 / DOCW XX 58410",
+        "oem": "1TM47DX9AA / 1TM47DX9 AA",
+        "notes": ""
+    },
+    {
+        "id": "Hnbiw3KLaYG3bTuxk1FyD",
+        "name": "2011 -2020 JEEP GRAND CHEROKEE FRONT RIGHT SEAT OUTER TRIM COVER OEM DOCWXX58400",
+        "number": "DOCWXX58400 / DOCWXX 58400 / DOCW XX 58400",
+        "oem": "1UN90DX9AA / 1UN90DX9 AA",
+        "notes": ""
+    },
+    {
+        "id": "GxCKENrviRlhqpPJJt9sl",
+        "name": "2011-2021 JEEP GRAND CHEROKEE FRONT RIGHT INNER TRIM COVER PANEL OEM DOCWXX58402",
+        "number": "DOCWXX58402 / DOCW XX 58402",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "21BKJoxRlq2eypSNvM1Ro",
+        "name": "2011-2021 JEEP GRAND CHEROKEE FRONT RIGHT INNER SEAT TRACK COVER OEM D0CWXX58116",
+        "number": "D0CWXX58116 / D0CWXX 58116 / D0CW XX 58116",
+        "oem": "1UN82DX9AA / 1UN82DX9 AA",
+        "notes": ""
+    },
+    {
+        "id": "edpfBQnrRUPfachNJeHOV",
+        "name": "2011- 2021 JEEP GRAND CHEROKEE FRONT RIGHT SEAT OUTER TRIM COVER OEM DOCWXX58403",
+        "number": "DOCWXX58403 / DOCW XX 58403",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "yP7buNs7ZtHWRedA9TyZ7",
         "name": "2020 - 2023 AUDI Q5 FRONT RIGHT SIDE DOOR CONTROL MODULE UNIT OEM 4M1959792J",
         "number": "4M1959792J / 4M1959792 / 4M1 959 792 J",
@@ -1166,7 +1404,7 @@ export function App() {
         "id": "tX-RjRzJlLQ5IhWsxJ1lH",
         "name": "2020 - 2023 LINCOLN AVIATOR FRONT LEFT DOOR WINDOW GLASS SWITCH OEM LC5T14540AC",
         "number": "LC5T14540AC / LC5T14540 AC / LC5T 14540 AC",
-        "oem": "LC5Z14529AB / LC5Z14529 AB / LC5Z 14529 AB",
+        "oem": "LC5Z14529AB / LC5Z14529 AB / LC5Z 14529 AB, LC5Z14529AA / LC5Z14529 AA / LC5Z 14529 AA, LC5Z14525AA / LC5Z14525 AA / LC5Z 14525 AA",
         "notes": ""
     },
     {
@@ -2578,14 +2816,14 @@ export function App() {
     },
     {
         "id": "JeA7fhKhQCzg3RX0m24lD",
-        "name": "2020-2023 LINCOLN AVIATOR REAR RIGHT QUARTER TRIM COVER OEM LC5BS51748DA GRAY=GC",
+        "name": "2020-2023 LINCOLN AVIATOR REAR RIGHT D PILLAR TRIM COVER OEM LC5BS51748D GRAY=GC",
         "number": "LC5BS51748DA / LC5BS51748 DA / LC5B S51748 DA",
         "oem": "LC5Z7831010BB / LC5Z7831010 BB / LC5Z 7831010 BB",
         "notes": ""
     },
     {
         "id": "uER7gKC_Xdrp4deU0Jkqa",
-        "name": "2020 -2023 LINCOLN AVIATOR REAR LEFT QUARTER TRIM COVER OEM LC5BS51749BE GRAY=GC",
+        "name": "2020-2023 LINCOLN AVIATOR REAR LEFT D PILLAR TRIM COVER OEM LC5BS51749BE GRAY=GC",
         "number": "LC5BS51749BE / LC5BS51749 BE / LC5B S51749 BE",
         "oem": "LC5Z7831011BB / LC5Z7831011BB / LC5Z 7831011 BB",
         "notes": ""
@@ -2662,7 +2900,7 @@ export function App() {
     },
     {
         "id": "U6VEeh7kJT0zEt3USXFXv",
-        "name": "2020 - 2023 LINCOLN AVIATOR REAR RIGHT BLIND SPOT SENSOR MODULE OEM LB5T14D599AC",
+        "name": "2020 - 2023 LINCOLN AVIATOR REAR LEFT BLIND SPOT SENSOR MODULE OEM LB5T14D599AC",
         "number": "LB5T14D599AC / LB5T14D599 AC / LB5T 14D599 AC",
         "oem": "LB5Z14C689C / LB5Z14C689 C / LB5Z 14C689 C",
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -25105,7 +25343,7 @@ export function App() {
         },
         {
             "id": "9yQ7SipBsNztWToYyRmsB",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L RADIATOR TANK OUTLET HODE OEM 42755858",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L RADIATOR TANK OUTLET HOSE OEM 42755858",
             "number": "42755858",
             "oem": "42755860",
             "notes": ""
@@ -32497,14 +32735,14 @@ export function App() {
         },
         {
             "id": "V1g8dGWAJc5BH7iL2X6uE",
-            "name": "2014 - 2022 JEEP CHEROKEE FRONT RIGHT SEAT LUMBAR SWITCH CONTROL OEM 56046232AB",
+            "name": "2011 - 2022 JEEP CHEROKEE FRONT RIGHT SEAT LUMBAR SWITCH CONTROL OEM 56046232AB",
             "number": "56046232AB / 56046232 AB\t",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "dZC90AGpuumvK9I0dgxNQ",
-            "name": "2014 - 2022 JEEP CHEROKEE FRONT LEFT SEAT LUMBAR SWITCH CONTROL OEM 56046232AB",
+            "name": "2011 - 2022 JEEP CHEROKEE FRONT LEFT SEAT LUMBAR SWITCH CONTROL OEM 56046232AB",
             "number": "56046232AB / 56046232 AB",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -51525,7 +51763,7 @@ export function App() {
         },
         {
             "id": "s4lMkiWYO-kgvHnd3JfHE",
-            "name": "2019 JEEP GRAND CHEROKEE SPARE TIRE WHEEL INFLATE T175/90D18 111M OEM 52124856AA",
+            "name": "2019 JEEP GRAND CHEROKEE SPARE TIRE WHEEL GOODYEAR T175/90D18 111M OEM 52124856",
             "number": "52124856AA / 52124856 AA\t",
             "oem": "",
             "notes": "2011 /2012 /2013 /2014 /2015 /2016 /2017 /2018 /2019 /2020 /2021\t"
@@ -51541,7 +51779,7 @@ export function App() {
             "id": "suyS6LB0Q-hCSrOZxUaXb",
             "name": "2019 - 2021 JEEP GRAND CHEROKEE REAR LIFTGATE WIRE WIRING HARNESS OEM 68401346AA",
             "number": "68401346AA / 68401346 AA",
-            "oem": "",
+            "oem": "68401346AB / 68401346 AB",
             "notes": ""
         },
         {
@@ -51567,7 +51805,7 @@ export function App() {
         },
         {
             "id": "CJKHd6Gm7ucPMYcGPStIO",
-            "name": "2018-2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR HANDLE JUMPER WIRE OEM 68264756AC",
+            "name": "2018- 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR HANDLE JUMPER WIRE OEM 68264756AC",
             "number": "68264756AC / 68264756 AC",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -51779,7 +52017,7 @@ export function App() {
             "id": "vxv-POkD8fv_rg05hm-FG",
             "name": "2019 JEEP GRAND CHEROKEE SPEEDOMETER CLUSTER ASSEMBLY 47K MILEAGE OEM 68402703AB",
             "number": "68402703AB / 68402703 AB\t",
-            "oem": "",
+            "oem": "68402703AC / 68402703 AC",
             "notes": ""
         },
         {
@@ -52008,9 +52246,9 @@ export function App() {
         },
         {
             "id": "QTli-ns49_AJSbP8VO3CN",
-            "name": "2013 - 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR HANDLE OEM 1QA21GW7AJ WHITE=PW7",
+            "name": "2017 - 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR HANDLE OEM 1QA21GW7AJ WHITE=PW7",
             "number": "1QA21GW7AJ / 1QA21GW7 AJ",
-            "oem": "",
+            "oem": "1QA21GW7AK / 1QA21GW7 AK, 1QA21RUWAJ / 1QA21RUW AJ, 1QA21SHRAJ / 1QA21SHR AJ",
             "notes": ""
         },
         {
@@ -52092,10 +52330,10 @@ export function App() {
         },
         {
             "id": "xbyNpoZYG1qoKiDnn3NPf",
-            "name": "2011 - 2021 JEEP GRAND CHEROKEE EMERGENCY JACK W/ STORAGE TRAY OEM 68284639AB",
+            "name": "2019 18 20 21 JEEP GRAND CHEROKEE EMERGENCY JACK W/ STORAGE TRAY OEM 68284639AB",
             "number": "68284639AB / 68284639 AB",
             "oem": "68284640AB / 68284640 AB, 68332817AA / 68332817 AA",
-            "notes": "2011 /2012 /2013 /2014 /2015 /2016 /2017 /2018 /2019 /2020 /2021"
+            "notes": "2018 / 2019 / 2020 / 2021"
         },
         {
             "id": "GiLKZ3ybjHFqL4TlOQiku",
@@ -53219,7 +53457,7 @@ export function App() {
         },
         {
             "id": "llBwThpc-NNLUTv375xxE",
-            "name": "2011 - 2021 JEEP GRAND CHEROKEE 3.6L FUEL GAS PUMP MODULE UNIT OEM 04578812AF",
+            "name": "2011 - 2021 JEEP GRAND CHEROKEE 3.6L AUXILIARY FUEL PUMP MODULE OEM 04578812AF",
             "number": "04578812AF / 04578812 AF",
             "oem": "5145586AC / 5145586 AC",
             "notes": ""
@@ -53457,9 +53695,9 @@ export function App() {
         },
         {
             "id": "WByL6g6Uam8GUwVlaiZWm",
-            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR BUMPER BEAM REINFORCEMENT OEM 04578827AK",
+            "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR BUMPER BEAM REINFORCEMENT OEM 04578827AK",
             "number": "04578827AK / 04578827 AK / 0 4578827 AK\t",
-            "oem": "",
+            "oem": "04578827AL / 04578827 AL / 0 4578827 AL",
             "notes": ""
         },
         {
@@ -53499,7 +53737,7 @@ export function App() {
         },
         {
             "id": "IQcnNJOT_Ox8bLHx3VXvL",
-            "name": "2018 - 2021 JEEP GRAND CHEROKEE REAR LEFT DOOR WIRE HARNESS OEM 68333616AA",
+            "name": "2018 - 2021 JEEP GRAND CHEROKEE REAR LEFT SIDE DOOR WIRE HARNESS OEM 68333616AA",
             "number": "68333616AA / 68333616 AA\t",
             "oem": "68333602AA / 68333602 AA",
             "notes": ""
@@ -53541,7 +53779,7 @@ export function App() {
         },
         {
             "id": "tjYVVEPxTTDgt4PpTXqKi",
-            "name": "2016 - 2021 JEEP GRAND CHEROKEE 3.6L TRANS HEATER OIL COOLER OEM 68233384AB",
+            "name": "2016-2021 JEEP GRAND CHEROKEE 3.6L TRANSMISSION HEATER OIL COOLER OEM 68233384AB",
             "number": "68233384AB / 68233384 AB\t",
             "oem": "68485460AB / 68485460 AB\t",
             "notes": ""
@@ -53597,7 +53835,7 @@ export function App() {
         },
         {
             "id": "MolJJXTQVaCfpONYaLjy5",
-            "name": "2016-2021 JEEP GRAND CHEROKEE STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
+            "name": "2016- 2021 JEEP GRAND CHEROKEE STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
             "number": "68245552AD / 68245552 AD",
             "oem": "",
             "notes": ""
@@ -53786,7 +54024,7 @@ export function App() {
         },
         {
             "id": "k1DFv_c457cUFG7jrVa8A",
-            "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SILL SCUFF PLATE OEM 1GG71DX9AB",
+            "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR SILL SCUFF PLATE OEM 1GG71DX9AB",
             "number": "1GG71DX9AB / 1GG71DX9 AB",
             "oem": "",
             "notes": ""
@@ -53859,7 +54097,7 @@ export function App() {
             "name": "2011-2021 JEEP GRAND CHEROKEE FRONT LEFT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
             "number": "55113748AA / 55113748 AA\t",
             "oem": "",
-            "notes": ""
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "amHuY1FUpNIMcLnCFqcJo",
@@ -55882,7 +56120,7 @@ export function App() {
             "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
             "number": "55113748AA / 55113748 AA",
             "oem": "",
-            "notes": ""
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "KPDCWVoASt0obHhCZSyaT",
@@ -56040,16 +56278,16 @@ export function App() {
         },
         {
             "id": "j3H24nibzF-G97Y8azlhl",
-            "name": "2018 - 2019 JEEP GRAND CHEROKEE 3.6L FUEL TANK PUMP WIRE HARNESS OEM 7620651AA",
+            "name": "2015 - 2021 JEEP GRAND CHEROKEE 3.6L FUEL TANK PUMP WIRE HARNESS OEM 7620651AA",
             "number": "7620651AA / 7620651 AA",
-            "oem": "",
+            "oem": "68248424AA / 68248424 AA",
             "notes": ""
         },
         {
             "id": "4GKEbMz82pBQ6RkbHfXNa",
-            "name": "2019 - 2020 DODGE DURANGO 3.6L FUEL TANK PUMP WIRE WIRING HARNESS OEM 7620651AA",
+            "name": "2015 - 2021 DODGE DURANGO 3.6L FUEL TANK PUMP WIRE WIRING HARNESS OEM 7620651AA",
             "number": "7620651AA / 7620651 AA",
-            "oem": "",
+            "oem": "68248424AA / 68248424 AA",
             "notes": ""
         },
         {
@@ -56677,7 +56915,7 @@ export function App() {
         },
         {
             "id": "JZQl0MSUVUN5gzFQ5VBuj",
-            "name": "2014 - 2020 DODGE DURANGO WINDSHIELD WASHER RESERVOIR TANK OEM 55079365AF",
+            "name": "2011 - 2020 DODGE DURANGO WINDSHIELD WASHER RESERVOIR TANK OEM 55079365AF",
             "number": "55079365AF / 55079365 AF",
             "oem": "",
             "notes": ""
@@ -56901,14 +57139,14 @@ export function App() {
         },
         {
             "id": "_lLJJdO8uDeFGC7GjMeTP",
-            "name": "2014 -2022 DODGE DURANGO FRONT RIGHT SEAT TRACK INNER TRIM COVER OEM DOCWXX58410",
+            "name": "2011 -2022 DODGE DURANGO FRONT RIGHT SEAT TRACK INNER TRIM COVER OEM DOCWXX58410",
             "number": "DOCWXX58410 / DOCWXX 58410 / DOCW XX 58410\t",
             "oem": "1TM47DX9AA / 1TM47DX9 AA",
             "notes": ""
         },
         {
             "id": "vBxQJX6BZKbTLLFaJhCDZ",
-            "name": "2014 - 2022 DODGE DURAFRONT RIGHT OUTER SEAT TRACK TRIM COVER OEM DOCWXX58400",
+            "name": "2011 -2022 DODGE DURANGO FRONT RIGHT SEAT TRACK OUTER TRIM COVER OEM DOCWXX58400",
             "number": "DOCWXX58400 / DOCWXX 58400 / DOCW XX 58400",
             "oem": "1UN90DX9AA / 1UN90DX9 AA\t",
             "notes": ""
@@ -57034,10 +57272,10 @@ export function App() {
         },
         {
             "id": "ImeOO8io3RiqgOUZgu3qp",
-            "name": "2014 - 2022 DODGE DURANGO REAR RIGHT WHEEL ABS SPEED SENSOR UNIT OEM 05154230AF",
+            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT WHEEL ABS SPEED SENSOR UNIT OEM 05154230AF",
             "number": "05154230AF / 05154230 AF",
             "oem": "",
-            "notes": ""
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "Eyd-ALbLmowPsFQ47fe9b",
@@ -69240,7 +69478,7 @@ export function App() {
             "id": "cR7VeVi-9CKcBaT_niGf7",
             "name": "2011-2022 DODGE CHARGER 3.6L ENGINE THROTTLE BODY VALVE ASSEMBLY OEM 05184349AE",
             "number": "05184349AE / 05184349 AE",
-            "oem": "",
+            "oem": "05184349AF / 05184349 AF",
             "notes": ""
         },
         {
