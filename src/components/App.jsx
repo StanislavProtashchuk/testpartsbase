@@ -8,6 +8,160 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "mFmVK9CrfuGjVbUEvhAd0",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE RWD 3.6L REAR LEFT KNUCKLE & HUB OEM 04877113AC",
+        "number": "04877113AC / 04877113 AC / 0 4877113 AC",
+        "oem": "68253397AB / 68253397 AB",
+        "notes": ""
+    },
+    {
+        "id": "DDzgX6H9PlFQ0io7ANTVe",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SEAT INNER TRIM COVER OEM DOCWXX58409",
+        "number": "DOCWXX58409 / DOCWXX 58409 / DOCW XX 58409",
+        "oem": "1UN96DX9AA / 1UN96DX9 AA, 1UN962X9AA / 1UN962X9 AA",
+        "notes": ""
+    },
+    {
+        "id": "AGDb2R9V1kFM4D1Zm9afH",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SEAT INNER TRIM COVER OEM DOCWXX58408",
+        "number": "DOCWXX58408 / DOCWXX 58408 / DOCW XX 58408",
+        "oem": "1UN94DX9AA / 1UN94DX9 AA",
+        "notes": ""
+    },
+    {
+        "id": "tgpCSIIKVbAkFAOJOynyB",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE LEFT FENDER CLOSING PLATE COVER OEM 68277399AA",
+        "number": "68277399AA / 68277399 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "n3rLjTlWxiXMr4DdUgvms",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE RIGHT FENDER CLOSING PLATE COVER OEM 68277400AA",
+        "number": "68277400AA / 68277400 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "bXUWYd0NAlm_LNdQbBaw5",
+        "name": "2019 - 2021 JEEP GRAND CHEROKEE REAR CENTER SEAT BELT BUCKLE OEM 6JX09DX9AA",
+        "number": "6JX09DX9AA / 6JX09DX9 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "LbM1hHFKPuoYgjKvof_uy",
+        "name": "2019 -2021 JEEP GRAND CHEROKEE DASH 8.4\" SCREEN A/C HEATER SWITCH OEM 68388550AB",
+        "number": "68388550AB / 68388550 AB",
+        "oem": "68388550AD / 68388550 AD",
+        "notes": ""
+    },
+    {
+        "id": "ESxEtnTTN4CU7-H5HsGAg",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE RWD 3.6L ENGINE COOLER RADIATOR OEM 68244867AA",
+        "number": "68244867AA / 68244867 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "nh-a9o5idXvCk9pjr5JX_",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR RIGHT QUARTER WINDOW GLASS OEM 68266986AB",
+        "number": "68266986AB / 68266986 AB",
+        "oem": "68295540AA / 68295540 AA",
+        "notes": ""
+    },
+    {
+        "id": "j1XIMJ6iIOB0Txb0as1x_",
+        "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR LEFT QUARTER WINDOW GLASS OEM 68266987AB",
+        "number": "68266987AB / 68266987 AB",
+        "oem": "68295553AA / 68295553 AA",
+        "notes": ""
+    },
+    {
+        "id": "NzsTJgVLU2vnu-bCWAjMx",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR RIGHT QUARTER STORAGE BOX OEM I01047009BL",
+        "number": "I01047009BL / I01047009 BL",
+        "oem": "1TK10DX9AA / 1TK10DX9 AA",
+        "notes": ""
+    },
+    {
+        "id": "aop2CAYSH_bXQsTWMXy3t",
+        "name": "2015 - 2021 JEEP GRAND CHEROKEE PARK AID ASSIST SENSOR OEM 1TK84GW7AA WHITE=PW7",
+        "number": "1TK84GW7AA / 1TK84GW7 AA",
+        "oem": "1TK84TZZAA / 1TK84TZZ AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "w-HuoqX7PAZqhMRK_KHkE",
+        "name": "2015 - 2021 JEEP GRAND CHEROKEE WINDSHIELD REAR VIEW MIRROR COVER OEM 68306587AA",
+        "number": "68306587AA / 68306587 AA",
+        "oem": "68306587AB / 68306587 AB",
+        "notes": ""
+    },
+    {
+        "id": "LiQqKz39nyShv3TcW-29j",
+        "name": "2019 - 2021 JEEP GRAND CHEROKEE START STOP RELAY BOX TRIM COVER OEM 68257862AA",
+        "number": "68257862AA / 68257862 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "QqQIkW_adpD-Qpg3gHN3Q",
+        "name": "2012 - 2021 JEEP GRAND CHEROKEE RIGHT ROOF MOLDING COVER PANEL OEM 68088702AC",
+        "number": "68088702AC / 68088702 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "OxEDA6WEzm16MKXjaMMFW",
+        "name": "2016 - 2023 CHEVROLET CAMARO REAR LEFT BUMPER MARKER LIGHT LAMP OEM 23126885",
+        "number": "23126885",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "UIsdb81xM-LI0aPsAJ68Y",
+        "name": "2011-2021 JEEP GRAND CHEROKEE REAR RIGHT EXHAUST ISOLATOR BRACKET OEM 05147178AA",
+        "number": "05147178AA / 05147178 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "S2-AXqYVolmQXXXKOzcRj",
+        "name": "2011-2021 JEEP GRAND CHEROKEE REAR LEFT EXHAUST ISOLATOR BRACKET OEM 05147178AA",
+        "number": "05147178AA / 05147178 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "a7252wm8l7xU0fWRZlu11",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE RIGHT HOOD LIFT PROP ROD BRACKET OEM 78030747A2",
+        "number": "78030747A2 / 78030747 A2",
+        "oem": "55113747AA / 55113747 AA",
+        "notes": ""
+    },
+    {
+        "id": "Us6AZ9maV7oF6ok5W8LnJ",
+        "name": "2013 -2021 JEEP GRAND CHEROKEE RIGHT FENDER REARWARD SPLASH SHIELD OEM 7340075AA",
+        "number": "7340075AA / 7340075 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mmb9QRyofcKBJuOXAYDgT",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR RIGHT QUARTER SPLASH SHIELD OEM 57010710AL",
+        "number": "57010710AL / 57010710 AL",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ALn1o0VDVu_4DntLf-8-5",
+        "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR LEFT QUARTER SPLASH SHIELD OEM 57010711AK",
+        "number": "57010711AK / 57010711 AK",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "Bcx8Buq3v80VV4b-KqhlD",
         "name": "2011-2021 JEEP GRAND CHEROKEE FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
         "number": "55113748AA / 55113748 AA",
@@ -52058,9 +52212,9 @@ export function App() {
         {
             "id": "qFgaElZtHAsvLG7vyLF3V",
             "name": "2011 - 2021 JEEP GRAND CHEROKEE FRONT LEFT SEAT SWITCH COVER OEM DOCWXX58101",
-            "number": "BROKEN TAB. SEE PICTURES.",
-            "oem": "DOCWXX58101 / DOCWXX 58101 / DOCW XX 58101\t",
-            "notes": "1XN97DX9AA / 1XN97DX9 AA\t"
+            "number": "DOCWXX58101 / DOCWXX 58101 / DOCW XX 58101",
+            "oem": "1XN97DX9AA / 1XN97DX9 AA",
+            "notes": ""
         },
         {
             "id": "786nPU41e96QV9RqwQnBk",
@@ -52078,7 +52232,7 @@ export function App() {
         },
         {
             "id": "K-SrrGDjnijCmrNkzbz2S",
-            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR LEFT STEERING KNUCKLE & HUB OEM 04877113AC",
+            "name": "2016-2023 DODGE DURANGO RWD 3.6L REAR LEFT STEERING KNUCKLE & HUB OEM 04877113AC",
             "number": "04877113AC / 04877113 AC / 0 4877113 AC",
             "oem": "68253397AB / 68253397 AB\t",
             "notes": ""
@@ -52092,16 +52246,16 @@ export function App() {
         },
         {
             "id": "LNxsBYIUaed8jQqeIhy6S",
-            "name": "2011 - 2022 JEEP GRAND CHEROKEE TRUNK CARGO SPARE FLOOR COVER MAT OEM 1NX98DX9AI",
+            "name": "2011 - 2021 JEEP GRAND CHEROKEE TRUNK CARGO SPARE FLOOR COVER MAT OEM 1NX98DX9AI",
             "number": "1NX98DX9AI / 1NX98DX9 AI\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "OdR9Nd2eVyapXvNAGMT4S",
-            "name": "2019-2021 JEEP GRAND CHEROKEE REAR RIGHT DOOR INTERIOR TRIM PANEL OEM 5LL786X9AD",
+            "name": "2019 - 2021 JEEP GRAND CHEROKEE REAR RIGHT DOOR PANEL OEM 5LL786X9AD BLACK=KLX9",
             "number": "5LL786X9AD / 5LL786X9 AD\t",
-            "oem": "",
+            "oem": "5LL786X9AE / 5LL786X9 AE",
             "notes": ""
         },
         {
@@ -52113,9 +52267,9 @@ export function App() {
         },
         {
             "id": "3sqjt90U9GmzkrOrFmw01",
-            "name": "2019-2021 JEEP GRAND CHEROKEE REAR LEFT DOOR INTERIOR TRIM PANEL OEM 5LL796X9AD",
+            "name": "2019 - 2021 JEEP GRAND CHEROKEE REAR LEFT DOOR PANEL OEM 5LL796X9AD BLACK=KLX9",
             "number": "5LL796X9AD / 5LL796X9 AD\t",
-            "oem": "",
+            "oem": "5LL796X9AE / 5LL796X9 AE",
             "notes": ""
         },
         {
@@ -52218,7 +52372,7 @@ export function App() {
         },
         {
             "id": "cuwImHeJvAohDyDLMSXdA",
-            "name": "2018-2021 JEEP GRAND CHEROKEE TRUNK LEFT QUARTER PANEL TRIM OEM 6LP38DX9AA",
+            "name": "2018- 2021 JEEP GRAND CHEROKEE REAR LEFT QUARTER LOWER TRIM COVER OEM 6LP38DX9AA",
             "number": "6LP38DX9AA / 6LP38DX9 AA\t",
             "oem": "",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
@@ -52288,7 +52442,7 @@ export function App() {
         },
         {
             "id": "eI6vpayTCNhTFHYfKE2N4",
-            "name": "2018 - 2021 JEEP GRAND CHEROKEE UPPER INTERIOR REAR VIEW MIRROR OEM 68339537AB",
+            "name": "2018 - 2021 JEEP GRAND CHEROKEE FRONT WINDSHIELD REAR VIEW MIRROR OEM 68339537AB",
             "number": "68339537AB / 68339537 AB\t",
             "oem": "",
             "notes": ""
@@ -52365,7 +52519,7 @@ export function App() {
         },
         {
             "id": "xlEhDgYQIOIJrRkam-Uvk",
-            "name": "2014-2021 JEEP GRAND CHEROKEE LIFTGATE RIGHT SUPPORT STRUT SHOCK OEM 68165052AF",
+            "name": "2014- 2021 JEEP GRAND CHEROKEE LIFTGATE RIGHT SUPPORT STRUT SHOCK OEM 68165052AF",
             "number": "68165052AF / 68165052 AF\t",
             "oem": "",
             "notes": ""
@@ -53912,7 +54066,7 @@ export function App() {
         },
         {
             "id": "RO8hfrGYzGtvvbzJlyDmX",
-            "name": "2011 - 2021 JEEP GRAND CHEROKEE 2ND ROW CARPET COVER LINER MAT OEM 1NV00DX9AN",
+            "name": "2011 - 2021 JEEP GRAND CHEROKEE REAR FLOOR CARPET COVER LINER MAT OEM 1NV00DX9AN",
             "number": "1NV00DX9AN / 1NV00DX9 AN\t",
             "oem": "1NV00DX9AO / 1NV00DX9 AO",
             "notes": ""
@@ -53921,7 +54075,7 @@ export function App() {
             "id": "safpJRlHpKSpwquFIrjMW",
             "name": "2016 - 2021 JEEP GRAND CHEROKEE FRONT LEFT FLOOR CARPET LINER OEM 5VK15DX9AB",
             "number": "5VK15DX9AB / 5VK15DX9 AB\t",
-            "oem": "",
+            "oem": "5VK15DX9AE / 5VK15DX9 AE",
             "notes": ""
         },
         {
@@ -54047,14 +54201,14 @@ export function App() {
             "id": "qwxj0mpLU_k-GQM44NMQP",
             "name": "2014 - 2021 JEEP GRAND CHEROKEE FRONT RIGHT DOOR SILL KICK PANEL OEM 5XL64DX9AA",
             "number": "5XL64DX9AA / 5XL64DX9 AA\t",
-            "oem": "1VK46DX9AA / 1VK46DX9 AA\t",
+            "oem": "1VK46DX9AA / 1VK46DX9 AA, 5XL64DX9AB / 5XL64DX9 AB",
             "notes": ""
         },
         {
             "id": "e4tK03JMQpBVR_dLhUbGo",
             "name": "2014 - 2021 JEEP GRAND CHEROKEE FRONT LEFT DOOR SILL KICK PANEL OEM 6BK08DX9AA",
             "number": "6BK08DX9AA / 6BK08DX9 AA\t",
-            "oem": "",
+            "oem": "6BK08DX9AB / 6BK08DX9 AB",
             "notes": ""
         },
         {
@@ -54248,14 +54402,14 @@ export function App() {
         },
         {
             "id": "g9iCpPGS8rjloUE8e13eR",
-            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR RIGHT QUARTER TRIM COVER OEM 5VP18DX9AC",
+            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR RIGHT D PILLAR TRIM COVER OEM 5VP18DX9AC",
             "number": "5VP18DX9AC / 5VP18DX9 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "JuJh_f8v428M12K9J5KsD",
-            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR LEFT QUARTER TRIM COVER OEM 5VP19DX9AC",
+            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR LEFT D PILLAR TRIM COVER OEM 5VP19DX9AC",
             "number": "5VP19DX9AC / 5VP19DX9 AC",
             "oem": "",
             "notes": ""
@@ -54353,16 +54507,16 @@ export function App() {
         },
         {
             "id": "bV0upZiUJDgscAW5SybkK",
-            "name": "2016-2021 JEEP GRAND CHEROKEE REAR QUARTER LEFT ROOF TRIM COVER OEM 5VP09DX9AA",
+            "name": "2016 - 2021 JEEP GRAND CHEROKEE REAR QUARTER LEFT ROOF TRIM COVER OEM 5VP09DX9AA",
             "number": "5VP09DX9AA / 5VP09DX9 AA",
-            "oem": "",
+            "oem": "5VP09DX9AB / 5VP09DX9 AB",
             "notes": ""
         },
         {
             "id": "IfB_zUrEyQ8tGHve6kj4m",
             "name": "2016-2021 JEEP GRAND CHEROKEE REAR QUARTER RIGHT ROOF TRIM COVER OEM 5VP08DX9AA",
             "number": "5VP08DX9AA / 5VP08DX9 AA",
-            "oem": "",
+            "oem": "5VP08DX9AB / 5VP08DX9 AB",
             "notes": ""
         },
         {
@@ -55473,21 +55627,21 @@ export function App() {
         },
         {
             "id": "We2jTj8dt6ALjtvZoFyGK",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT WINDOW SWITCH CONTROL MODULE OEM 68085690AC",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT WINDOW SWITCH CONTROL MODULE OEM 68085690AC",
             "number": "68085690AC / 68085690 AC",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "YIlXzLdoX3ibKpNMWjmsl",
-            "name": "2014 - 2022 DODGE DURANGO RIGHT DOOR REAR VIEW MIRROR OEM 5SH42DX8AF GRAY=PAU",
+            "name": "2014 - 2023 DODGE DURANGO RIGHT DOOR REAR VIEW MIRROR OEM 5SH42DX8AF GRAY=PAU",
             "number": "5SH42DX8AF / 5SH42DX8 AF\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "ytJgquM8wrHDtCQ0bar5O",
-            "name": "2014 - 2022 DODGE DURANGO LEFT DOOR REAR VIEW MIRROR OEM 5SH43DX8AF GRAY=PAU",
+            "name": "2014 - 2023 DODGE DURANGO LEFT DOOR REAR VIEW MIRROR OEM 5SH43DX8AF GRAY=PAU",
             "number": "5SH43DX8AF / 5SH43DX8 AF\t",
             "oem": "",
             "notes": ""
@@ -55501,14 +55655,14 @@ export function App() {
         },
         {
             "id": "ZoqkoP6Xlx82N2WtTkjsR",
-            "name": "2011 - 2022 DODGE DURANGO DASH DEFROST AIR VENT COVER GRILLE OEM 1QQ08TRMAF",
+            "name": "2011 - 2023 DODGE DURANGO DASH DEFROST AIR VENT COVER GRILLE OEM 1QQ08TRMAF",
             "number": "1QQ08TRMAF / 1QQ08TRM AF",
             "oem": "1QQ08DX9AG / 1QQ08DX9 AG\t",
             "notes": ""
         },
         {
             "id": "ME7NRLxGJcg6rKKYpJ7d9",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE OIL LEVER INDICATOR OEM 68249436AC",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE OIL LEVER INDICATOR OEM 68249436AC",
             "number": "68249436AC / 68249436 AC\t",
             "oem": "",
             "notes": ""
@@ -55550,28 +55704,28 @@ export function App() {
         },
         {
             "id": "JkJ1UjhbIVkWFTj0YfBCe",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT SIDE COWL EXTENSION SEAL OEM 68260206AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT RIGHT SIDE COWL EXTENSION SEAL OEM 68260206AC",
             "number": "68260206AC / 68260206 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "l1SMNlauVMm9WzKshDWm5",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT SIDE COWL EXTENSION SEAL OEM 68260207AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT SIDE COWL EXTENSION SEAL OEM 68260207AC",
             "number": "68260207AC / 68260207 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "EWibkZrN19MOyu8zagJTb",
-            "name": "2016 - 2022 DODGE DURANGO WINDSHIELD WIPER COWL VENT PANEL GRILLE OEM 55112907AB",
+            "name": "2016 - 2023 DODGE DURANGO WINDSHIELD WIPER COWL VENT PANEL GRILLE OEM 55112907AB",
             "number": "55112907AB / 55112907 AB",
             "oem": "55112907AF / 55112907 AF",
             "notes": ""
         },
         {
             "id": "e-MaZB4ynvmg10Ei0JgJQ",
-            "name": "2018 - 2022 DODGE DURANGO STEERING COLUMN TURN SIGNAL & WIPER SWITCH CONTROL OEM",
+            "name": "2018 - 2023 DODGE DURANGO STEERING COLUMN TURN SIGNAL & WIPER SWITCH CONTROL OEM",
             "number": "7HJ39DX9AA / 7HJ39DX9 AA\t",
             "oem": "",
             "notes": ""
@@ -55592,7 +55746,7 @@ export function App() {
         },
         {
             "id": "xn72E3bCs0RV1HfxJ0AVt",
-            "name": "2016 - 2022 DODGE DURANGO RWD 3.6L REAR AXLE DIFFERENTIAL CARRIER OEM 68378939AA",
+            "name": "2016 - 2023 DODGE DURANGO RWD 3.6L REAR AXLE DIFFERENTIAL CARRIER OEM 68378939AA",
             "number": "68378939AA / 68378939 AA",
             "oem": "68378939AB / 68378939 AB",
             "notes": ""
@@ -55655,14 +55809,14 @@ export function App() {
         },
         {
             "id": "iX9E4R0QNrF1fX8vHsMjw",
-            "name": "2014 - 2022 DODGE DURANGO FRONT RIGHT SIDE DOOR CONTROL MODULE OEM 68316560AD",
+            "name": "2014 - 2023 DODGE DURANGO FRONT RIGHT SIDE DOOR CONTROL MODULE OEM 68316560AD",
             "number": "68316560AD / 68316560 AD",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "mY4ap8k8mESxSO2yqte3_",
-            "name": "2014 - 2022 DODGE DURANGO FRONT LEFT SIDE DOOR CONTROL MODULE OEM 68316561AD",
+            "name": "2014 - 2023 DODGE DURANGO FRONT LEFT SIDE DOOR CONTROL MODULE OEM 68316561AD",
             "number": "68316561AD / 68316561 AD",
             "oem": "",
             "notes": ""
@@ -55683,77 +55837,77 @@ export function App() {
         },
         {
             "id": "bU1FAlQTm1NAl8OBbHJQA",
-            "name": "2014 - 2022 DODGE DURANGO EVAPORATOR VAPOR EMISSION PURGE CONTROL OEM 04627694AB",
+            "name": "2014 - 2023 DODGE DURANGO EVAPORATOR VAPOR EMISSION PURGE CONTROL OEM 04627694AB",
             "number": "04627694AB / 04627694 AB\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "OP379tcOPSjLwBzDHFzKr",
-            "name": "2016 - 2022 DODGE DURANGO BATTERY HOLD DOWN STRAP HOLDER BRACKET OEM 68249908AB",
+            "name": "2016 - 2023 DODGE DURANGO BATTERY HOLD DOWN STRAP HOLDER BRACKET OEM 68249908AB",
             "number": "68249908AB / 68249908 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "y6Lyr6wjmn57CwodiB20j",
-            "name": "2011 - 2022 DODGE DURANGO EMERGENCY PARK PARKING BRAKE CABLE OEM 04779637AI",
+            "name": "2011 - 2023 DODGE DURANGO EMERGENCY PARK PARKING BRAKE CABLE OEM 04779637AI",
             "number": "04779637AI / 04779637 AI",
             "oem": "",
             "notes": ""
         },
         {
             "id": "kHTaKR94lq5GQ403jqYfR",
-            "name": "2011 - 2022 DODGE DURANGO RIGHT CENTER B PILLAR LOWER TRIM COVER OEM 1GG58DX9AC",
+            "name": "2011 - 2023 DODGE DURANGO RIGHT CENTER B PILLAR LOWER TRIM COVER OEM 1GG58DX9AC",
             "number": "1GG58DX9AC / 1GG58DX9 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "mrMn9kP8KD2yIbM3UsPX5",
-            "name": "2011 - 2022 DODGE DURANGO LEFT CENTER B PILLAR LOWER TRIM COVER OEM 1GG59DX9AC",
+            "name": "2011 - 2023 DODGE DURANGO LEFT CENTER B PILLAR LOWER TRIM COVER OEM 1GG59DX9AC",
             "number": "1GG59DX9AC / 1GG59DX9 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "r3DpswotaK0yvemB8tBTL",
-            "name": "2014 - 2022 DODGE DURANGO STOP BRAKE PEDAL ASSEMBLY OEM 68303341AC",
+            "name": "2014 - 2023 DODGE DURANGO STOP BRAKE PEDAL ASSEMBLY OEM 68303341AC",
             "number": "68303341AC / 68303341 AC",
             "oem": "68303341AD / 68303341 AD",
             "notes": ""
         },
         {
             "id": "obhNO7iN9uBs8OhoDL8IX",
-            "name": "2011 - 2022 DODGE DURANGO BATTERY GROUND STRAP CABLE LINE OEM 68070029AA",
+            "name": "2011 - 2023 DODGE DURANGO BATTERY GROUND STRAP CABLE LINE OEM 68070029AA",
             "number": "68070029AA / 68070029 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "vC_wyWSGVn8ci0RctZHdm",
-            "name": "2011-2022 DODGE DURANGO RWD REAR SUSPENSION RIGHT SIDE AXLE SHAFT OEM 52123523AB",
+            "name": "2011-2023 DODGE DURANGO RWD REAR SUSPENSION RIGHT SIDE AXLE SHAFT OEM 52123523AB",
             "number": "52123523AB / 52123523 AB",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "mnsBQ4D9Pk2RTdb7Oqwx_",
-            "name": "2011- 2022 DODGE DURANGO RWD REAR SUSPENSION LEFT SIDE AXLE SHAFT OEM 52123523AB",
+            "name": "2011- 2023 DODGE DURANGO RWD REAR SUSPENSION LEFT SIDE AXLE SHAFT OEM 52123523AB",
             "number": "52123523AB / 52123523 AB",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "zNSIjF_TVx25V96V7eexR",
-            "name": "2018 - 2022 DODGE DURANGO FRONT RIGHT A PILLAR TRIM COVER RPANEL OEM 5VK88DX9AD",
+            "name": "2018 - 2023 DODGE DURANGO FRONT RIGHT A PILLAR TRIM COVER RPANEL OEM 5VK88DX9AD",
             "number": "5VK88DX9AD / 5VK88DX9 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "olikNQxk8QFTXD1RpmRgJ",
-            "name": "2018 - 2022 DODGE DURANGO FRONT LEFT A PILLAR TRIM COVER RPANEL OEM 5VK87DX9AD",
+            "name": "2018 - 2023 DODGE DURANGO FRONT LEFT A PILLAR TRIM COVER RPANEL OEM 5VK87DX9AD",
             "number": "5VK87DX9AD / 5VK87DX9 AD",
             "oem": "",
             "notes": ""
@@ -55774,21 +55928,21 @@ export function App() {
         },
         {
             "id": "wTb9TnQGKOiMjrASryFGe",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L EGR EXHAUST COOLER TUBE VALVE OEM 05281255AK",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L EGR EXHAUST COOLER TUBE VALVE OEM 05281255AK",
             "number": "05281255AK / 05281255 AK\t",
             "oem": "5281409AG / 5281409 AG",
             "notes": ""
         },
         {
             "id": "mY4FkULPWUMDWD0agY1SS",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L EGR EXHAUST REGULATOR TUBE VALVE OEM 05281256AG",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L EGR EXHAUST REGULATOR TUBE VALVE OEM 05281256AG",
             "number": "05281256AG / 05281256 AG",
             "oem": "",
             "notes": ""
         },
         {
             "id": "rUtd_M5sFQJOxzS-vTGJt",
-            "name": "2011 - 2022 DODGE DURANGO 3.6L FRONT RIGHT ENGINE MOUNT BRACKET OEM 68252518AA",
+            "name": "2011 - 2023 DODGE DURANGO 3.6L FRONT RIGHT ENGINE MOUNT BRACKET OEM 68252518AA",
             "number": "68252518AA / 68252518 AA\t",
             "oem": "",
             "notes": ""
@@ -55802,7 +55956,7 @@ export function App() {
         },
         {
             "id": "LI86D8QteP16MqhlI3KFd",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE TOP APPEARANCE COVER OEM 05281383AF",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE TOP APPEARANCE COVER OEM 05281383AF",
             "number": "05281383AF / 05281383 AF\t",
             "oem": "",
             "notes": ""
@@ -55823,21 +55977,21 @@ export function App() {
         },
         {
             "id": "AgyxXJS8Z9CtwgMp3RBbO",
-            "name": "2019 - 2022 DODGE DURANGO FRONT RIGHT OR LEFT SEAT BELT BUCKLE OEM 6JW90DX9AB",
+            "name": "2019 - 2023 DODGE DURANGO FRONT RIGHT OR LEFT SEAT BELT BUCKLE OEM 6JW90DX9AB",
             "number": "6JW90DX9AB / 6JW90DX9 AB",
             "oem": "6JW90DX9AC / 6JW90DX9 AC\t",
             "notes": ""
         },
         {
             "id": "DgqNVhIJL89yY7dOF9P-U",
-            "name": "2019 - 2022 DODGE DURANGO FRONT LEFT OR RIGHT SEAT BELT BUCKLE OEM 6JW91DX9AB",
+            "name": "2019 - 2023 DODGE DURANGO FRONT LEFT OR RIGHT SEAT BELT BUCKLE OEM 6JW91DX9AB",
             "number": "6JW91DX9AB / 6JW91DX9 AB",
             "oem": "6JW91DX9AC / 6JW91DX9 AC",
             "notes": ""
         },
         {
             "id": "Kx1kn5q2OP2_kqVengzWc",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231062AE",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231062AE",
             "number": "68231062AE / 68231062 AE\t",
             "oem": "68079286AA / 68079286 AA",
             "notes": ""
@@ -55851,14 +56005,14 @@ export function App() {
         },
         {
             "id": "CzWwklACHa1uWEMFDm_rw",
-            "name": "2016 - 2022 DODGE DURANGO FUEL GAS PUMP SENDING LEVEL MODULE UNIT OEM 68250900AA",
+            "name": "2016 - 2023 DODGE DURANGO FUEL GAS PUMP SENDING LEVEL MODULE UNIT OEM 68250900AA",
             "number": "68250900AA / 68250900 AA\t",
             "oem": "68535771AA / 68535771 AA\t",
             "notes": ""
         },
         {
             "id": "cUruyncbkT59pMF-YoUk-",
-            "name": "2014 - 2022 DODGE DURANGO REMOTE SMART KEY FOB TRANSMITTER OEM 68066349AG",
+            "name": "2014 - 2023 DODGE DURANGO REMOTE SMART KEY FOB TRANSMITTER OEM 68066349AG",
             "number": "68066349AG / 68066349 AG\t",
             "oem": "",
             "notes": ""
@@ -55872,7 +56026,7 @@ export function App() {
         },
         {
             "id": "4qUTAyEg635cpP9HC0VrV",
-            "name": "2016 - 2022 DODGE DURANGO FUEL GAS TANK FILLER NECK LINE TUBE OEM 68250923AJ",
+            "name": "2016 - 2023 DODGE DURANGO FUEL GAS TANK FILLER NECK LINE TUBE OEM 68250923AJ",
             "number": "68250923AJ / 68250923 AJ\t",
             "oem": "68250923AM / 68250923 AM\t",
             "notes": ""
@@ -55893,77 +56047,77 @@ export function App() {
         },
         {
             "id": "_-o3UNmQ36kNwk_u9nnMC",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT DOOR LATCH LOCK ACTUATOR OEM 04589924AH",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT DOOR LATCH LOCK ACTUATOR OEM 04589924AH",
             "number": "04589924AH / 04589924 AH",
             "oem": "",
             "notes": ""
         },
         {
             "id": "iIzAyf0wFcCoOhHsFPxmU",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT DOOR LATCH LOCK ACTUATOR OEM 68250661AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT DOOR LATCH LOCK ACTUATOR OEM 68250661AC",
             "number": "68250661AC / 68250661 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "yQsyKgQ0EckPR_I3WBe9r",
-            "name": "2011 - 2022 DODGE DURANGO HOOD LATCH RELEASE CABLE W/ HANDLE OEM 68032581AE",
+            "name": "2011 - 2023 DODGE DURANGO HOOD LATCH RELEASE CABLE W/ HANDLE OEM 68032581AE",
             "number": "68032581AE / 68032581 AE\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "3XcJnSpwE2mMnSvF5OGK7",
-            "name": "2011 - 2022 DODGE DURANGO LEFT LOW PITCH NOTE TONE HORN SIGNAL OEM 68386895AA",
+            "name": "2011 - 2023 DODGE DURANGO LEFT LOW PITCH NOTE TONE HORN SIGNAL OEM 68386895AA",
             "number": "68386895AA / 68386895 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "8a9XFW7J3EvFC8gpDPDC7",
-            "name": "2011 - 2022 DODGE DURANGO RIGHT HIGH PITCH NOTE TONE HORN SIGNAL OEM 68386896AA",
+            "name": "2011 - 2023 DODGE DURANGO RIGHT HIGH PITCH NOTE TONE HORN SIGNAL OEM 68386896AA",
             "number": "68386896AA / 68386896 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "EW1kCu7sLCCZ5vBzodOca",
-            "name": "2014 - 2022 DODGE DURANGO HVAC AC A/C HEATER BLOWER HOUSING BOX OEM 68412082AB",
+            "name": "2014 - 2023 DODGE DURANGO HVAC AC A/C HEATER BLOWER HOUSING BOX OEM 68412082AB",
             "number": "68412082AB / 68412082 AB",
             "oem": "68224169AB / 68224169 AB\t",
             "notes": ""
         },
         {
             "id": "UvAkp31hDP-Td1u-i3OMS",
-            "name": "2019 - 2022 DODGE DURANGO ROOF HEADLINER TRIM COVER OEM 6RW93DX9AB BLACK=H7X9",
+            "name": "2019 - 2023 DODGE DURANGO ROOF HEADLINER TRIM COVER OEM 6RW93DX9AB BLACK=H7X9",
             "number": "6RW93DX9AB / 6RW93DX9 AB",
             "oem": "6UJ25DX9AB / 6UJ25DX9 AB",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "ahXQiCG8Bdu-EGdynbKRX",
-            "name": "2014 - 2022 DODGE DURANGO REAR CLIMATE HEATER BLOWER HOUSING BOX OEM 68186198AD",
+            "name": "2014 - 2023 DODGE DURANGO REAR CLIMATE HEATER BLOWER HOUSING BOX OEM 68186198AD",
             "number": "68186198AD / 68186198 AD\t",
             "oem": "68232704AB / 68232704 AB",
             "notes": ""
         },
         {
             "id": "Q7ZHlOPmfmAKuXAzGpjTg",
-            "name": "2011-2022 DODGE DURANGO REAR LIFTGATE SCUFF SILL PLATE TRIM COVER OEM 1NE03DX9AC",
+            "name": "2011-2023 DODGE DURANGO REAR LIFTGATE SCUFF SILL PLATE TRIM COVER OEM 1NE03DX9AC",
             "number": "1NE03DX9AC / 1NE03DX9 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "5C7qTilEPIj2iQKtR1_xG",
-            "name": "2011- 2022 DODGE DURANGO TAILGATE LIFTGATE LOWER TRIM COVER PANEL OEM 5LE61DX9AD",
+            "name": "2011- 2023 DODGE DURANGO TAILGATE LIFTGATE LOWER TRIM COVER PANEL OEM 5LE61DX9AD",
             "number": "5LE61DX9AD / 5LE61DX9 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "oOv07b9Kdhmkzx2VoNLPV",
-            "name": "2014 - 2022 DODGE DURANGO REAR TRUNK CARGO FLOOR STORAGE BOX OEM 5LC34TRMAA",
+            "name": "2014 - 2023 DODGE DURANGO REAR TRUNK CARGO FLOOR STORAGE BOX OEM 5LC34TRMAA",
             "number": "5LC34TRMAA / 5LC34TRM AA\t",
             "oem": "5LJ42XXXAC / 5LJ42XXX AC\t",
             "notes": ""
@@ -55977,14 +56131,14 @@ export function App() {
         },
         {
             "id": "uGTO0TpjRSKa4TM6VJjAj",
-            "name": "2011- 2022 DODGE DURANGO FRONT RIGHT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL18DX9AA",
+            "name": "2011- 2023 DODGE DURANGO FRONT RIGHT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL18DX9AA",
             "number": "5XL18DX9AA / 5XL18DX9 AA",
             "oem": "5XT60DX9AA / 5XT60DX9 AA",
             "notes": ""
         },
         {
             "id": "P2MAcJIAjz6A_V8xSeu3E",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL19DX9AA",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT DOOR WINDOW FRAME W/ SPEAKER OEM 5XL19DX9AA",
             "number": "5XL19DX9AA / 5XL19DX9 AA",
             "oem": "5XT61DX9AA / 5XT61DX9 AA",
             "notes": ""
@@ -56026,28 +56180,28 @@ export function App() {
         },
         {
             "id": "JczEd-1_4TZDezNtUMStf",
-            "name": "2016 - 2022 DODGE DURANGO FRONT SUSPENSION LEFT LOWER CONTROL ARM OEM 68282729AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT SUSPENSION LEFT LOWER CONTROL ARM OEM 68282729AC",
             "number": "68282729AC / 68282729 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "l-GkN9shPb2nfc4hKWQmI",
-            "name": "2016 -2022 DODGE DURANGO FRONT SUSPENSION RIGHT LOWER CONTROL ARM OEM 68282728AC",
+            "name": "2016 -2023 DODGE DURANGO FRONT SUSPENSION RIGHT LOWER CONTROL ARM OEM 68282728AC",
             "number": "68282728AC / 68282728 AC\t",
             "oem": "04877716AB / 04877716 AB",
             "notes": ""
         },
         {
             "id": "DuSVkueXDJD8R01PCnoEK",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT DOOR SILL SCUFF PLATE PANEL OEM 1NC85DX9AD",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT DOOR SILL SCUFF PLATE PANEL OEM 1NC85DX9AD",
             "number": "1NC85DX9AD / 1NC85DX9 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "IIyE7qmoGYzqKcSHxYjvl",
-            "name": "2014 - 2022 DODGE DURANGO FRONT RIGHT DOOR SILL SCUFF KICK PANEL OEM 5XL64DX9AA",
+            "name": "2014 - 2023 DODGE DURANGO FRONT RIGHT DOOR SILL SCUFF KICK PANEL OEM 5XL64DX9AA",
             "number": "5XL64DX9AA / 5XL64DX9 AA",
             "oem": "",
             "notes": ""
@@ -56061,84 +56215,84 @@ export function App() {
         },
         {
             "id": "NprFJpSJJMKy-Bk-lEbXy",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE AIR INTAKE MANIFOLD OEM 04861970AF",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE AIR INTAKE MANIFOLD OEM 04861970AF",
             "number": "04861970AF / 04861970 AF",
             "oem": "",
             "notes": ""
         },
         {
             "id": "HlMmueC7qro8gml3D98Fg",
-            "name": "2014 - 2022 DODGE DURANGO REAR OVERHEAD ROOF DOME LIGHT LAMP OEM 1RJ06DX9AD",
+            "name": "2014 - 2023 DODGE DURANGO REAR OVERHEAD ROOF DOME LIGHT LAMP OEM 1RJ06DX9AD",
             "number": "1RJ06DX9AD / 1RJ06DX9 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "P6WnIp23VWSVcniyx3hBt",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT B PILLAR INTERIOR GRAB HANDLE OEM 6EM33DX9AA",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT B PILLAR INTERIOR GRAB HANDLE OEM 6EM33DX9AA",
             "number": "6EM33DX9AA / 6EM33DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "lryra2LPKqXj1AWGuKg4D",
-            "name": "2011-2022 DODGE DURANGO REAR LEFT SPARE TIRE CARRIER SHIELD COVER OEM 68036121AD",
+            "name": "2011-2023 DODGE DURANGO REAR LEFT SPARE TIRE CARRIER SHIELD COVER OEM 68036121AD",
             "number": "68036121AD / 68036121 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "v9xwf2w84_VXkjmdCvgBh",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT SPARE CARRIER SHIELD COVER OEM 68036120AD",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT SPARE CARRIER SHIELD COVER OEM 68036120AD",
             "number": "68036120AD / 68036120 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "3amB5oa86cweqqgU1Sj_-",
-            "name": "2019-2022 DODGE DURANGO FRONT INTERIOR GRAB BAR HANDLE OEM 1RV73TRMAB BLACK=H7X9",
+            "name": "2019-2023 DODGE DURANGO FRONT INTERIOR GRAB BAR HANDLE OEM 1RV73TRMAB BLACK=H7X9",
             "number": "1RV73TRMAB / 1RV73TRM AB\t",
             "oem": "6SZ91HDAAA / 6SZ91HDA AA",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "1pJXVFZdAa5BSg8DepnAN",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT FENDER SPLASH SHIELD MUD FLAP OEM 68369751AC",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT FENDER SPLASH SHIELD MUD FLAP OEM 68369751AC",
             "number": "68369751AC / 68369751 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "PP-sWkdy_Ms0WMbXoCGPr",
-            "name": "2011 -2022 DODGE DURANGO REAR RIGHT FENDER SPLASH SHIELD MUD FLAP OEM 68369750AC",
+            "name": "2011 -2023 DODGE DURANGO REAR RIGHT FENDER SPLASH SHIELD MUD FLAP OEM 68369750AC",
             "number": "68369750AC / 68369750 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "DKYtCPQZOaUm979pR7Qvv",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT HOOD SHOCK LIFT SUPPORT OEM 55113748AA",
             "number": "55113748AA / 55113748 AA",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "KPDCWVoASt0obHhCZSyaT",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L TRANSMISSION OIL COOLER LINE TUBE OEM 68244080AB",
+            "name": "2016 - 2021 JEEP GRAND CHEROKEE 3.6L TRANSMISSION OIL COOLER LINE OEM 68244080AB",
             "number": "68244080AB / 68244080 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "xnZpnBP43MSsyaxydjYYa",
-            "name": "2014 - 2022 DODGE DURANGO WINDSHIELD REAR VIEW MIRROR UPPER COVER OEM 5LK34DX9AB",
+            "name": "2014 - 2023 DODGE DURANGO WINDSHIELD REAR VIEW MIRROR UPPER COVER OEM 5LK34DX9AB",
             "number": "5LK34DX9AB / 5LK34DX9 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "55H0bdGKI8JR08DwFMi7a",
-            "name": "2017 - 2022 DODGE DURANGO WINDSHIELD INTERIOR REAR VIEW MIRROR OEM 68289782AC",
+            "name": "2017 - 2023 DODGE DURANGO WINDSHIELD INTERIOR REAR VIEW MIRROR OEM 68289782AC",
             "number": "68289782AC / 68289782 AC",
             "oem": "",
             "notes": ""
@@ -56152,7 +56306,7 @@ export function App() {
         },
         {
             "id": "S2jrZeT45qlIdWiNunTEf",
-            "name": "2018 - 2022 DODGE DURANGO ROOF HEADLINER LEFT OR RIGHT COAT HOOK OEM 5SA96TRMAA",
+            "name": "2018 - 2023 DODGE DURANGO ROOF HEADLINER LEFT OR RIGHT COAT HOOK OEM 5SA96TRMAA",
             "number": "5SA96TRMAA / 5SA96TRM AA\t",
             "oem": "5SA96DX9AA / 5SA96DX9 AA\t",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -56166,7 +56320,7 @@ export function App() {
         },
         {
             "id": "QiUe48zJCrV0UmR7VpCEj",
-            "name": "2014 - 2022 DODGE DURANGO 3.6L FRONT LEFT SIDE EXHAUST BRACKET OEM 68166084AA",
+            "name": "2014 - 2023 DODGE DURANGO 3.6L FRONT LEFT SIDE EXHAUST BRACKET OEM 68166084AA",
             "number": "68166084AA / 68166084 AA",
             "oem": "",
             "notes": ""
@@ -56180,21 +56334,21 @@ export function App() {
         },
         {
             "id": "kcdwcXcAW4VQsFmz-Nkra",
-            "name": "2011 - 2022 DODGE DURANGO RIGHT SIDE ROCKER MOLDING PANEL OEM 1TD30TRMAA GRY=PAU",
+            "name": "2011 - 2023 DODGE DURANGO RIGHT SIDE ROCKER MOLDING PANEL OEM 1TD30TRMAA GRY=PAU",
             "number": "1TD30TRMAA / 1TD30TRM AA",
             "oem": "1PA94RXFAG / 1PA94RXF AG",
             "notes": ""
         },
         {
             "id": "SbeUfJTzxHG-WZMU2hNGE",
-            "name": "2011 - 2022 DODGE DURANGO LEFT SIDE ROCKER MOLDING PANEL OEM 1TD31TRMAA GRY=PAU",
+            "name": "2011 - 2023 DODGE DURANGO LEFT SIDE ROCKER MOLDING PANEL OEM 1TD31TRMAA GRY=PAU",
             "number": "1TD31TRMAA / 1TD31TRM AA",
             "oem": "1PA95RXFAG / 1PA95RXF AG",
             "notes": ""
         },
         {
             "id": "BfQ1F0WfygYu_T1Os2qg7",
-            "name": "2014 - 2022 DODGE DURANGO RWD 3.6L REAR DRIVE SHAFT PROPELLER OEM 52123731AB",
+            "name": "2014 - 2023 DODGE DURANGO RWD 3.6L REAR DRIVE SHAFT PROPELLER OEM 52123731AB",
             "number": "52123731AB / 52123731 AB\t",
             "oem": "",
             "notes": ""
@@ -56208,63 +56362,63 @@ export function App() {
         },
         {
             "id": "Hwk5JZJCpDiGQ4U0Hc5-_",
-            "name": "2016 - 2022 DODGE DURANGO REAR BUMPER COVER PANEL OEM 1XV05TRMAA GRAY=PAU",
+            "name": "2016 - 2023 DODGE DURANGO REAR BUMPER COVER PANEL OEM 1XV05TRMAA GRAY=PAU",
             "number": "1XV05TRMAA / 1XV05TRM AA\t",
             "oem": "68304551AA / 68304551 AA\t",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "GcfnRwbZtpWw6LJ-ohX-Z",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT SIDE QUARTER WINDOW GLASS OEM 55399266AF",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT SIDE QUARTER WINDOW GLASS OEM 55399266AF",
             "number": "55399266AF / 55399266 AF\t",
             "oem": "68092698AA / 68092698 AA",
             "notes": ""
         },
         {
             "id": "DGqAtLkRYFg-t6Jv7PKHC",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT SIDE QUARTER WINDOW GLASS OEM 55399267AF",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT SIDE QUARTER WINDOW GLASS OEM 55399267AF",
             "number": "55399267AF / 55399267 AF\t",
             "oem": "68092699AA / 68092699 AA",
             "notes": ""
         },
         {
             "id": "ExVhd1eworVT8YJ_KtOXJ",
-            "name": "2014-2022 DODGE DURANGO REAR QUARTER TRUNK RIGHT COVER TRIM PANEL OEM 5PT18DX9AE",
+            "name": "2014-2023 DODGE DURANGO REAR QUARTER TRUNK RIGHT COVER TRIM PANEL OEM 5PT18DX9AE",
             "number": "5PT18DX9AE / 5PT18DX9 AE",
             "oem": "",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "jJJtHRpEDOnJcTCgZXPJ8",
-            "name": "2018- 2022 DODGE DURANGO REAR QUARTER TRUNK LEFT COVER TRIM PANEL OEM 6LP47DX9AB",
+            "name": "2018- 2023 DODGE DURANGO REAR QUARTER TRUNK LEFT COVER TRIM PANEL OEM 6LP47DX9AB",
             "number": "6LP47DX9AB / 6LP47DX9 AB",
             "oem": "6LP47DX9AC / 6LP47DX9 AC\t",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "s14kCsqxDBQL_ji8hlYZQ",
-            "name": "2016 - 2022 DODGE DURANGO POWER BRAKE BOOSTER MASTER CYLINDER OEM 04581956AG",
+            "name": "2016 - 2023 DODGE DURANGO POWER BRAKE BOOSTER MASTER CYLINDER OEM 04581956AG",
             "number": "04581956AG / 04581956 AG\t",
             "oem": "68306573AC / 68306573 AC",
             "notes": ""
         },
         {
             "id": "GTnXzOf_xdJvIpqiu1WFU",
-            "name": "2011-2022 DODGE DURANGO FRONT RIGHT EXTERIOR DOOR HANDLE OEM 04589888AD GRAY=PAU",
+            "name": "2011-2023 DODGE DURANGO FRONT RIGHT EXTERIOR DOOR HANDLE OEM 04589888AD GRAY=PAU",
             "number": "04589888AD / 04589888 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "CJsdsmBrVkCi7Nstp8ua2",
-            "name": "2014 -2022 DODGE DURANGO FRONT LEFT EXTERIOR DOOR HANDLE OEM 04589887AD GRAY=PAU",
+            "name": "2014 -2023 DODGE DURANGO FRONT LEFT EXTERIOR DOOR HANDLE OEM 04589887AD GRAY=PAU",
             "number": "04589887AD / 04589887 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "zl4SJzT7mvFbDijp0pxJ3",
-            "name": "2016-2022 DODGE DURANGO 3.6L TRANSMISSION OIL COOLER PRESSURE LINE OEM 68291069A",
+            "name": "2016-2023 DODGE DURANGO 3.6L TRANSMISSION OIL COOLER PRESSURE LINE OEM 68291069A",
             "number": "68291069AB / 68291069 AB",
             "oem": "",
             "notes": ""
@@ -56313,14 +56467,14 @@ export function App() {
         },
         {
             "id": "kGoFuKWvxoaHqXU6rPvtc",
-            "name": "2019 - 2022 DODGE DURANGO LIFTGATE TAILGATE WIRE WIRING HARNESS OEM 68401348AA",
+            "name": "2019 - 2023 DODGE DURANGO LIFTGATE TAILGATE WIRE WIRING HARNESS OEM 68401348AA",
             "number": "68401348AA / 68401348 AA\t",
             "oem": "68401348AB / 68401348 AB",
             "notes": ""
         },
         {
             "id": "Mzp5k__tIRrqLsTbamb78",
-            "name": "2019 - 2022 DODGE DURANGO FRONT RIGHT DOOR WIRE WIRING HARNESS OEM 68413697AA",
+            "name": "2019 - 2023 DODGE DURANGO FRONT RIGHT DOOR WIRE WIRING HARNESS OEM 68413697AA",
             "number": "68413697AA / 68413697 AA",
             "oem": "",
             "notes": ""
@@ -56334,28 +56488,28 @@ export function App() {
         },
         {
             "id": "sAaF8WGLNdXyVIsQMd7Hc",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT DOOR JUMPER WIRING HARNESS OEM 68270829AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT DOOR JUMPER WIRING HARNESS OEM 68270829AC",
             "number": "68270829AC / 68270829 AC",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "qunZljH24RJmPucgykbm4",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT JUMPER DOOR WIRING HARNESS OEM 68270829AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT RIGHT JUMPER DOOR WIRING HARNESS OEM 68270829AC",
             "number": "68270829AC / 68270829 AC",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "IrBgGE4i3QDmldvkPKjam",
-            "name": "2014-2022 DODGE DURANGO FRONT RIGHT SUN VISOR SUNVISOR OEM 05108114AA BLACK=H7X9",
+            "name": "2014-2023 DODGE DURANGO FRONT RIGHT SUN VISOR SUNVISOR OEM 05108114AA BLACK=H7X9",
             "number": "05108114AA / 05108114 AA",
             "oem": "1LS24DX9AH / 1LS24DX9 AH\t",
             "notes": ""
         },
         {
             "id": "PLGU_wVBq6eilWlr_IWGp",
-            "name": "2014-2022 DODGE DURANGO FRONT LEFT SUN VISOR SUNVISOR OEM 05108114AA BLACK=H7X9",
+            "name": "2014-2023 DODGE DURANGO FRONT LEFT SUN VISOR SUNVISOR OEM 05108114AA BLACK=H7X9",
             "number": "05108114AA / 05108114 AA",
             "oem": "1LS23DX9AH / 1LS23DX9 AH\t",
             "notes": ""
@@ -56397,56 +56551,56 @@ export function App() {
         },
         {
             "id": "i30AG7oQVtdZDdcepF_o1",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT UPPER CONTROL ARM OEM 68282329AA",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT UPPER CONTROL ARM OEM 68282329AA",
             "number": "68282329AA / 68282329 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "TtMhVRJfhyVqx7GhTV6Ib",
-            "name": "2014 - 2022 DODGE DURANGO AUTO TRANSMISSION GEAR SHIFTER CABLE OEM 68394556AB",
+            "name": "2014 - 2023 DODGE DURANGO AUTO TRANSMISSION GEAR SHIFTER CABLE OEM 68394556AB",
             "number": "68394556AB / 68394556 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "cwjf_wnLxNhO-hjjc6uxu",
-            "name": "2014 - 2022 DODGE DURANGO 3.6L TRANSMISSION MOUNT SUPPORT BRACKET OEM 68275992AA",
+            "name": "2014 - 2023 DODGE DURANGO 3.6L TRANSMISSION MOUNT SUPPORT BRACKET OEM 68275992AA",
             "number": "68275992AA / 68275992 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "dJC62oGxClDAiULAaMxlK",
-            "name": "2013 -2022 DODGE DURANGO 3.6L TRANSMISSION ISOLATOR MOUNT BRACKET OEM 68032662AF",
+            "name": "2013 -2023 DODGE DURANGO 3.6L TRANSMISSION ISOLATOR MOUNT BRACKET OEM 68032662AF",
             "number": "68032662AF / 68032662 AF",
             "oem": "",
             "notes": ""
         },
         {
             "id": "HOhf3zrFztPuAWfj4B86l",
-            "name": "2018 - 2022 DODGE DURANGO RWD 3.6L AUTO TRANSMISSION 3K MILEAGE OEM 68271048AB",
+            "name": "2018 - 2023 DODGE DURANGO RWD 3.6L AUTO TRANSMISSION 3K MILEAGE OEM 68271048AB",
             "number": "68271048AB / 68271048 AB\t",
             "oem": "68271048AC / 68271048 AC",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "XyrRRH2DLS9c6vqP5kr_H",
-            "name": "2011-2022 DODGE DURANGO REAR LIFTGATE CENTER TAILLIGHT LIGHT LAMP OEM 68155950AJ",
+            "name": "2011-2023 DODGE DURANGO REAR LIFTGATE CENTER TAILLIGHT LIGHT LAMP OEM 68155950AJ",
             "number": "68155950AJ / 68155950 AJ",
             "oem": "68453659AA / 68453659 AA",
             "notes": ""
         },
         {
             "id": "VwdOiym8Jm9Kr_4TMfTVl",
-            "name": "2014 - 2022 DODGE DURANGO REAR RIGHT OUTER TAILLIGHT LIGHT LAMP OEM 68272126AA",
+            "name": "2014 - 2023 DODGE DURANGO REAR RIGHT OUTER TAILLIGHT LIGHT LAMP OEM 68272126AA",
             "number": "68272126AA / 68272126 AA",
             "oem": "68272126AC / 68272126 AC",
             "notes": ""
         },
         {
             "id": "WVrZm9_-3KBXsjX0RLyYw",
-            "name": "2014 - 2022 DODGE DURANGO REAR LEFT OUTER TAILLIGHT LIGHT LAMP OEM 68272127AA",
+            "name": "2014 - 2023 DODGE DURANGO REAR LEFT OUTER TAILLIGHT LIGHT LAMP OEM 68272127AA",
             "number": "68272127AA / 68272127 AA",
             "oem": "68272127AB / 68272127 AB",
             "notes": ""
@@ -56460,21 +56614,21 @@ export function App() {
         },
         {
             "id": "mmsXcsOR0Q8mQM8onH2xy",
-            "name": "2016-2022 DODGE DURANGO RWD 3.6L FRONT RIGHT SHOCK STRUT ABSORBER OEM 68280980AC",
+            "name": "2016-2023 DODGE DURANGO RWD 3.6L FRONT RIGHT SHOCK STRUT ABSORBER OEM 68280980AC",
             "number": "68280980AC / 68280980 AC",
             "oem": "68333780AA / 68333780 AA, 68299140AE / 68299140 AE\t",
             "notes": ""
         },
         {
             "id": "M_2MMw6mCMTmL3AE68PXx",
-            "name": "2016 - 2022 DODGE DURANGO RWD 3.6 FRONT LEFT SHOCK STRUT ABSORBER OEM 68280981AC",
+            "name": "2016 - 2023 DODGE DURANGO RWD 3.6 FRONT LEFT SHOCK STRUT ABSORBER OEM 68280981AC",
             "number": "68280981AC / 68280981 AC",
             "oem": "68333778AA / 68333778 AA, 68299141AE / 68299141 AE\t",
             "notes": ""
         },
         {
             "id": "DCoMXlQG09h467Jknq7mg",
-            "name": "2014 - 2022 DODGE DURANGO STEERING COLUMN SURROUND COVER HOUSING OEM 6NE96DX9AB",
+            "name": "2014 - 2023 DODGE DURANGO STEERING COLUMN SURROUND COVER HOUSING OEM 6NE96DX9AB",
             "number": "6NE96DX9AB / 6NE96DX9 AB",
             "oem": "5SW66DX9AB / 5SW66DX9 AB",
             "notes": ""
@@ -56488,56 +56642,56 @@ export function App() {
         },
         {
             "id": "uHpof03-w73SFDuXvTf_R",
-            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR STABILIZER SWAY BAR W/ LINK OEM 68253186AA",
+            "name": "2016-2023 DODGE DURANGO RWD 3.6L REAR STABILIZER SWAY BAR W/ LINK OEM 68253186AA",
             "number": "68253186AA / 68253186 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "eNlmReZIyEI_xpa31q7s5",
-            "name": "2016 - 2022 DODGE DURANGO RWD 3.6L FRONT STABILIZER BAR W/ LINK OEM 68252204AD",
+            "name": "2016 - 2023 DODGE DURANGO RWD 3.6L FRONT STABILIZER BAR W/ LINK OEM 68252204AD",
             "number": "68252204AD / 68252204 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "lyqnuQeE3cJKBaYwJOvQZ",
-            "name": "2004 - 2022 DODGE DURANGO FRONT LEFT SEAT SWITCH CONTROL MODULE OEM 56049433AE",
+            "name": "2004 - 2023 DODGE DURANGO FRONT LEFT SEAT SWITCH CONTROL MODULE OEM 56049433AE",
             "number": "56049433AE / 56049433 AE",
             "oem": "56049433AF / 56049433 AF",
             "notes": ""
         },
         {
             "id": "TYCX-_hHnN3shULi77yQ8",
-            "name": "2016 - 2022 DODGE DURANGO RWD STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
+            "name": "2016 - 2023 DODGE DURANGO RWD STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
             "number": "68245552AD / 68245552 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "go6bTv4i6dZBaoBmuwriU",
-            "name": "2016 - 2022 DODGE DURANGO REAR SPARE TIRE COVER CARRIER PLATE OEM 68284637AA",
+            "name": "2016 - 2023 DODGE DURANGO REAR SPARE TIRE COVER CARRIER PLATE OEM 68284637AA",
             "number": "68284637AA / 68284637 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "Rufy1V64mSDZO4Mj-SLKd",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT SIDE STEERING KNUCKLE & HUB OEM 04877658AD",
+            "name": "2016 - 2023 DODGE DURANGO FRONT RIGHT SIDE STEERING KNUCKLE & HUB OEM 04877658AD",
             "number": "04877658AD / 04877658 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "6mZ0XVHIwXJrbEHF_PIEJ",
-            "name": "2016-2022 DODGE DURANGO RWD 3.6L FRONT LEFT STEERING KNUCKLE & HUB OEM 04877659A",
+            "name": "2016-2023 DODGE DURANGO RWD 3.6L FRONT LEFT STEERING KNUCKLE & HUB OEM 04877659A",
             "number": "04877659AD / 04877659 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "j8OUCgNzC0A7itkmD44RF",
-            "name": "2016 - 2022 DODGE DURANGO UNDER BODY FRONT SKID PLATE GUARD OEM 68203529AD",
+            "name": "2016 - 2023 DODGE DURANGO UNDER BODY FRONT SKID PLATE GUARD OEM 68203529AD",
             "number": "68203529AD / 68203529 AD\t",
             "oem": "",
             "notes": ""
@@ -56558,70 +56712,70 @@ export function App() {
         },
         {
             "id": "ZTrNyuCUwLe63MUfxeaR9",
-            "name": "2011-2022 DODGE DURANGO FRONT RIGHT UNDER SEAT STORAGE TRAY COVER OEM 68251790AD",
+            "name": "2011-2023 DODGE DURANGO FRONT RIGHT UNDER SEAT STORAGE TRAY COVER OEM 68251790AD",
             "number": "68251790AD / 68251790 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "ebLSRufSICmvbiixnOOwz",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SEAT RECLINER HANDLE LEVER OEM DOCWXX58500",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SEAT RECLINER HANDLE LEVER OEM DOCWXX58500",
             "number": "DOCWXX58500 / DOCW XX 58500",
             "oem": "1UP03DX9AA / 1UP03DX9 AA",
             "notes": ""
         },
         {
             "id": "OERnVl27Kw7iEI48F7_nv",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SEAT BACK TRIM COVER PANEL OEM DOCWXX58210",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SEAT BACK TRIM COVER PANEL OEM DOCWXX58210",
             "number": "DOCWXX58210 / DOCW XX 58210",
             "oem": "1UP05DX9AC / 1UP05DX9 AC\t",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "H0RTDfJzGscRpnGEyCvkq",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT SEAT BACK TRIM COVER PANEL OEM DOCWXX58220",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT SEAT BACK TRIM COVER PANEL OEM DOCWXX58220",
             "number": "DOCWXX58220 / DOCW XX 58220",
             "oem": "1UP05DX9AC / 1UP05DX9 AC\t",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "hKGNJmxXD5Az8H_OeIPU5",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SEAT SWITCH TRIM COVER OEM DOCXX58106",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SEAT SWITCH TRIM COVER OEM DOCXX58106",
             "number": "DOCXX58106 / DOC XX 58106",
             "oem": "1XN08DX9AA / 1XN08DX9 AA\t",
             "notes": ""
         },
         {
             "id": "QnCO_AZGomMHR_JtNI-Bz",
-            "name": "2017 - 2022 DODGE DURANGO FRONT RIGHT SEAT FLOOR BATTERY COVER OEM 6DZ85DX9AA",
+            "name": "2017 - 2023 DODGE DURANGO FRONT RIGHT SEAT FLOOR BATTERY COVER OEM 6DZ85DX9AA",
             "number": "6DZ85DX9AA / 6DZ85DX9 AA\t",
             "oem": "6DZ85DX9AA / 6DZ85DX9 AA\t",
             "notes": ""
         },
         {
             "id": "WhFtKd6pVXeVnzW7qkVNh",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT INNER SEAT TRACK TRIM COVER OEM DOCWXX58113",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT INNER SEAT TRACK TRIM COVER OEM DOCWXX58113",
             "number": "DOCWXX58113 / DOCW XX 58113",
             "oem": "1UN81DX9AA / 1UN81DX9 AA\t",
             "notes": ""
         },
         {
             "id": "Rcy3_MQ3pdtjkEyK5Y-cu",
-            "name": "2011- 2022 DODGE DURANGO FRONT LEFT SEAT SWITCH TRIM COVER PANEL OEM DOCWXX58101",
+            "name": "2011- 2023 DODGE DURANGO FRONT LEFT SEAT SWITCH TRIM COVER PANEL OEM DOCWXX58101",
             "number": "DOCWXX58101 / DOCW XX 58101",
             "oem": "1XN97DX9AA / 1XN97DX9 AA\t",
             "notes": ""
         },
         {
             "id": "aEgwFzO5P0Zcu84bh4ER7",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT UNDER SEAT STORAGE TRAY COVER OEM 05108283A",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT UNDER SEAT STORAGE TRAY COVER OEM 05108283A",
             "number": "5108283AI / 5108283 AI",
             "oem": "",
             "notes": ""
         },
         {
             "id": "8jtAAL_FER08fKmbNvjC6",
-            "name": "2016-2022 DODGE DURANGO RWD 3.6L REAR RIGHT STEERING KNUCKLE & HUB OEM 04877112A",
+            "name": "2016-2023 DODGE DURANGO RWD 3.6L REAR RIGHT STEERING KNUCKLE & HUB OEM 04877112A",
             "number": "04877112AC / 04877112 AC",
             "oem": "68253396AB / 68253396 AB\t",
             "notes": ""
@@ -56642,7 +56796,7 @@ export function App() {
         },
         {
             "id": "Xhk24IA1mlLAXvVFHmnNX",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT DOOR WINDOW FRAME TRIM COVER OEM 1GX29DX9AC",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT DOOR WINDOW FRAME TRIM COVER OEM 1GX29DX9AC",
             "number": "1GX29DX9AC / 1GX29DX9 AC",
             "oem": "",
             "notes": ""
@@ -56656,7 +56810,7 @@ export function App() {
         },
         {
             "id": "2e6fgH6NVFppnCkS4jgpE",
-            "name": "2019 - 2022 DODGE DURANGO REAR 3RD ROW RIGHT SEAT BELT RETRACTOR OEM 6JW88DX9AA",
+            "name": "2019 - 2023 DODGE DURANGO REAR 3RD ROW RIGHT SEAT BELT RETRACTOR OEM 6JW88DX9AA",
             "number": "6JW88DX9AA / 6JW88DX9 AA",
             "oem": "6JW88DX9AB / 6JW88DX9 AB\t",
             "notes": ""
@@ -56670,21 +56824,21 @@ export function App() {
         },
         {
             "id": "Za3VM2ur09XRGKUlzm9zV",
-            "name": "2019 - 2022 DODGE DURANGO REAR 3RD ROW LEFT SEAT BELT RETRACTOR OEM 6JW85DX9AA",
+            "name": "2019 - 2023 DODGE DURANGO REAR 3RD ROW LEFT SEAT BELT RETRACTOR OEM 6JW85DX9AA",
             "number": "6JW85DX9AA / 6JW85DX9 AA",
             "oem": "6JW85DX9AB / 6JW85DX9 AB\t",
             "notes": ""
         },
         {
             "id": "qaKQC9EYmixRsrvSYkC_1",
-            "name": "2011- 2022 DODGE DURANGO RWD 3.6L REAR RIGHT CONTROL ARM SET OF 4 OEM 52124814AD",
+            "name": "2011- 2023 DODGE DURANGO RWD 3.6L REAR RIGHT CONTROL ARM SET OF 4 OEM 52124814AD",
             "number": "52124814AD / 52124814 AD\t",
             "oem": "52124810AG / 52124810 AG, 52124830AD / 52124830 AD, 52124840AB / 52124840 AB, 52124820AC / 52124820 AC",
             "notes": ""
         },
         {
             "id": "vEoC8lxqn4YtgkPbFn9VY",
-            "name": "2014 - 2022 DODGE DURANGO RWD 3.6L REAR LEFT CONTROL ARM SET OF 4 OEM 52124815AD",
+            "name": "2014 - 2023 DODGE DURANGO RWD 3.6L REAR LEFT CONTROL ARM SET OF 4 OEM 52124815AD",
             "number": "52124815AD / 52124815 AD\t",
             "oem": "52124811AG / 52124811 AG, 52124830AD / 52124830 AD, 52124840AB / 52124840 AB, 52124821AC / 52124821 AC",
             "notes": ""
@@ -56705,28 +56859,28 @@ export function App() {
         },
         {
             "id": "1rKw8kh_saZ-bxUJY1zq7",
-            "name": "2017 - 2022 DODGE DURANGO BATTERY POSITIVE JUMP START CABLE WIRE OEM 68322414AA",
+            "name": "2017 - 2023 DODGE DURANGO BATTERY POSITIVE JUMP START CABLE WIRE OEM 68322414AA",
             "number": "68322414AA / 68322414 AA",
             "oem": "68322414AB / 68322414 AB",
             "notes": ""
         },
         {
             "id": "ybE8Jk1UGhgGtkKESt6ZF",
-            "name": "2014 - 2022 DODGE DURANGO DASHBOARD LEFT DRIVER KNEE AIR BAG OEM 5SJ64DX9AC",
+            "name": "2014 - 2023 DODGE DURANGO DASHBOARD LEFT DRIVER KNEE AIR BAG OEM 5SJ64DX9AC",
             "number": "5SJ64DX9AC / 5SJ64DX9 AC",
             "oem": "5SJ64DX9AD / 5SJ64DX9 AD",
             "notes": ""
         },
         {
             "id": "WiIF4qoXOcj40tbCh4JE6",
-            "name": "2018-2022 DODGE DURANGO RIGHT PASSENGER SIDE ROOF CURTAIN AIR BAG OEM 68250178AC",
+            "name": "2018-2023 DODGE DURANGO RIGHT PASSENGER SIDE ROOF CURTAIN AIR BAG OEM 68250178AC",
             "number": "68250178AC / 68250178 AC",
             "oem": "68250178AE / 68250178 AE",
             "notes": ""
         },
         {
             "id": "rStT0id4Wv47jn5TM1Us3",
-            "name": "2016 -2022 DODGE DURANGO 3.6L ENGINE AUTO TRANSMISSION OIL COOLER OEM 68233384AB",
+            "name": "2016 -2023 DODGE DURANGO 3.6L ENGINE AUTO TRANSMISSION OIL COOLER OEM 68233384AB",
             "number": "68233384AB / 68233384 AB",
             "oem": "68485460AB / 68485460 AB",
             "notes": ""
@@ -56740,21 +56894,21 @@ export function App() {
         },
         {
             "id": "tZLXi307Xo55och6XkgMT",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SEAT TRACK COVER SET OF 3 OEM DOCWXX58148",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SEAT TRACK COVER SET OF 3 OEM DOCWXX58148",
             "number": "DOCWXX58148 / DOCWXX 58148 / DOCW XX 58148",
             "oem": "1UN88DX9AB / 1UN88DX9 AB\t",
             "notes": ""
         },
         {
             "id": "RLK-ETTwfsYITZlpkTnBr",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SIDE SEAT SWITCH COVER OEM D0CXX58106",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SIDE SEAT SWITCH COVER OEM D0CXX58106",
             "number": "D0CXX58106 / D0CXX 58106 / D0C XX 58106",
             "oem": "1XN08DX9AA / 1XN08DX9 AA\t",
             "notes": ""
         },
         {
             "id": "TxhOxYJDwr_S2GcQtKx7J",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT SEAT TRACK COVER SET OF 3 OEM DOCWXX58149",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT SEAT TRACK COVER SET OF 3 OEM DOCWXX58149",
             "number": "DOCWXX58149 / DOCWXX 58149 / DOCW XX 58149",
             "oem": "1UN83DX9AB / 1UN83DX9 AB, 1UN83DX9AA / 1UN83DX9 AA\t",
             "notes": ""
@@ -56775,7 +56929,7 @@ export function App() {
         },
         {
             "id": "7QyzQfNHw0AN_kubvKK2l",
-            "name": "2014 - 2022 DODGE DURANGO REAR LIFTGATE RELEASE HANDLE OEM 1YK38LAUAE GRAY=PAU",
+            "name": "2014 - 2023 DODGE DURANGO REAR LIFTGATE RELEASE HANDLE OEM 1YK38LAUAE GRAY=PAU",
             "number": "1YK38LAUAE / 1YK38LAU AE\t",
             "oem": "",
             "notes": ""
@@ -56796,21 +56950,21 @@ export function App() {
         },
         {
             "id": "Ap47lMnt7bkLYMzV9mevf",
-            "name": "2018 - 2022 DODGE DURANGO START STOP ELECTRICAL RELAY BOX COVER OEM 68257862AA",
+            "name": "2018 - 2023 DODGE DURANGO START STOP ELECTRICAL RELAY BOX COVER OEM 68257862AA",
             "number": "68257862AA / 68257862 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "c_Bnqih45_Kf79XDU4m2g",
-            "name": "2016 - 2022 DODGE DURANGO FRONT SUSPENSION LEFT LOWER CONTROL ARM OEM 04877717AB",
+            "name": "2016 - 2023 DODGE DURANGO FRONT SUSPENSION LEFT LOWER CONTROL ARM OEM 04877717AB",
             "number": "04877717AB / 04877717 AB\t",
             "oem": "68282729AC / 68282729 AC\t",
             "notes": ""
         },
         {
             "id": "nSSiPNgsGzKVgEoFa5xPF",
-            "name": "2014-2022 DODGE DURANGO REAR OVERHEAD ROOF DOME LIGHT LAMP SWITCH OEM 1RJ06TRMAA",
+            "name": "2014-2023 DODGE DURANGO REAR OVERHEAD ROOF DOME LIGHT LAMP SWITCH OEM 1RJ06TRMAA",
             "number": "1RJ06TRMAA / 1RJ06TRM AA\t",
             "oem": "1RJ06HDAAD / 1RJ06HDA AD",
             "notes": ""
@@ -56824,7 +56978,7 @@ export function App() {
         },
         {
             "id": "lBO5t60czCxQ7eQ73kyTn",
-            "name": "2018 - 2022 DODGE DURANGO REAR CENTER CONSOLE A/C HEATER SWITCH OEM 68368988AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR CENTER CONSOLE A/C HEATER SWITCH OEM 68368988AA",
             "number": "68368988AA / 68368988 AA\t",
             "oem": "68368988AC / 68368988 AC",
             "notes": ""
@@ -56859,7 +57013,7 @@ export function App() {
         },
         {
             "id": "rgPClNo0v4q951KFh9vta",
-            "name": "2014 - 2022 DODGE DURANGO FRONT RIGHT DOOR LATCH LOCK ASSEMBLY OEM 0458992AH",
+            "name": "2014 - 2023 DODGE DURANGO FRONT RIGHT DOOR LATCH LOCK ASSEMBLY OEM 0458992AH",
             "number": "0458992AH / 0458992 AH\t",
             "oem": "",
             "notes": ""
@@ -56873,21 +57027,21 @@ export function App() {
         },
         {
             "id": "2BJOD2-7LwKrLmk4ws9wE",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT DOOR WINDOW SWITCH CONTROL OEM 68319802AA",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT DOOR WINDOW SWITCH CONTROL OEM 68319802AA",
             "number": "68319802AA / 68319802 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "EGT9_Fo2h_pxuNVJ__UCV",
-            "name": "2016 - 2022 DODGE DURANGO STEERING COLUMN ASSEMBLY OEM 68271363AB",
+            "name": "2016 - 2023 DODGE DURANGO STEERING COLUMN ASSEMBLY OEM 68271363AB",
             "number": "68271363AB / 68271363 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "YOXEOAtjbhK8M_VoTVO_n",
-            "name": "2014 - 2022 DODGE DURANGO CENTER CONSOLE BACK TRIM COVER PANEL OEM 6ET502X9AB",
+            "name": "2014 - 2023 DODGE DURANGO CENTER CONSOLE BACK TRIM COVER PANEL OEM 6ET502X9AB",
             "number": "6ET502X9AB / 6ET502X9 AB\t",
             "oem": "5PK70DX9AA / 5PK70DX9 AA",
             "notes": ""
@@ -56908,7 +57062,7 @@ export function App() {
         },
         {
             "id": "LnxZWtNmShGr-tBT-Ut0o",
-            "name": "2014 - 2022 DODGE DURANGO FRONT RIGHT SIDE DOOR CONTROL MODULE OEM 68316560AC",
+            "name": "2014 - 2023 DODGE DURANGO FRONT RIGHT SIDE DOOR CONTROL MODULE OEM 68316560AC",
             "number": "68316560AC / 68316560 AC\t",
             "oem": "68316560AD / 68316560 AD\t",
             "notes": ""
@@ -56922,7 +57076,7 @@ export function App() {
         },
         {
             "id": "2s06faZDt_FZCZSns9cho",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT JUMPER DOOR WIRING HARNESS OEM 68270829AB",
+            "name": "2016 - 2023 DODGE DURANGO FRONT RIGHT JUMPER DOOR WIRING HARNESS OEM 68270829AB",
             "number": "68270829AB / 68270829 AB\t",
             "oem": "68270829AC / 68270829 AC",
             "notes": ""
@@ -56964,77 +57118,77 @@ export function App() {
         },
         {
             "id": "67kmtX1GCx9MAUGi6Hsqc",
-            "name": "2014 - 2022 DODGE DURANGO TRANSMISSION LEFT CROSSMEMBER BRACKET OEM 04578779AC",
+            "name": "2014 - 2023 DODGE DURANGO TRANSMISSION LEFT CROSSMEMBER BRACKET OEM 04578779AC",
             "number": "04578779AC / 04578779 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "UNBT5_I1rYar5AMJZbmHX",
-            "name": "2014 - 2022 DODGE DURANGO REAR LEFT TAILLIGHT LIGHT LAMP ASSEMBLY OEM 68272127AA",
+            "name": "2014 - 2023 DODGE DURANGO REAR LEFT TAILLIGHT LIGHT LAMP ASSEMBLY OEM 68272127AA",
             "number": "68272127AA / 68272127 AA",
             "oem": "68272127AB / 68272127 AB\t",
             "notes": ""
         },
         {
             "id": "dcCIrcWjTBPlrVh7kxghm",
-            "name": "2011 -2022 DODGE DURANGO 3.6L ENGINE THROTTLE BODY VALVE ASSEMBLY OEM 05184349AE",
+            "name": "2011 -2023 DODGE DURANGO 3.6L ENGINE THROTTLE BODY VALVE ASSEMBLY OEM 05184349AE",
             "number": "05184349AE / 05184349 AE",
             "oem": "5184349AF / 5184349 AF\t",
             "notes": ""
         },
         {
             "id": "Iqni113ik_aBlNHwMijzD",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231076AA",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231076AA",
             "number": "68231076AA / 68231076 AA\t",
             "oem": "68092214AA / 68092214 AA\t",
             "notes": ""
         },
         {
             "id": "zQL1fg4nopvwfABvCtbeI",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT DOOR WINDOW GLASS REGULATOR OEM 68231077AD",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT DOOR WINDOW GLASS REGULATOR OEM 68231077AD",
             "number": "68231077AD / 68231077 AD\t",
             "oem": "68092215AA / 68092215 AA\t",
             "notes": ""
         },
         {
             "id": "Pmc4F04y1_w5s8SaOJHYG",
-            "name": "2014 - 2022 DODGE DURANGO RIGHT ROCKER MOLDING TRIM COVER PANEL OEM 1PA94TRMAA",
+            "name": "2014 - 2023 DODGE DURANGO RIGHT ROCKER MOLDING TRIM COVER PANEL OEM 1PA94TRMAA",
             "number": "1PA94TRMAA / 1PA94TRM AA",
             "oem": "1PA94RXFAF / 1PA94RXF AF",
             "notes": ""
         },
         {
             "id": "rUWNvG0kBhC9_UQJ2WT2q",
-            "name": "2014 - 2022 DODGE DURANGO LEFT ROCKER MOLDING TRIM COVER PANEL OEM 1PA95TRMAA",
+            "name": "2014 - 2023 DODGE DURANGO LEFT ROCKER MOLDING TRIM COVER PANEL OEM 1PA95TRMAA",
             "number": "1PA95TRMAA / 1PA95TRM AA",
             "oem": "1PA95RXFAF / 1PA95RXF AF",
             "notes": ""
         },
         {
             "id": "tWg2IUf2ZBH2DyQMP8Zti",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT DOOR LATCH LOCK ASSEMBLY OEM 04589922AH",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT DOOR LATCH LOCK ASSEMBLY OEM 04589922AH",
             "number": "04589922AH / 04589922 AH",
             "oem": "",
             "notes": ""
         },
         {
             "id": "9bnXbMK0sdHY-1OATxLjr",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT DOOR LATCH LOCK ASSEMBLY OEM 04589923AH",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT DOOR LATCH LOCK ASSEMBLY OEM 04589923AH",
             "number": "04589923AH / 04589923 AH\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "7AvzHFejwhxnf9AUSqLYs",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT SIDE QUARTER WINDOW GLASS OEM 55399266AE",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT SIDE QUARTER WINDOW GLASS OEM 55399266AE",
             "number": "55399266AE / 55399266 AE\t",
             "oem": "68092698AA / 68092698 AA",
             "notes": ""
         },
         {
             "id": "MkTeDQ5dPLcpqBQ6U_3bW",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT SIDE QUARTER WINDOW GLASS OEM 55399267AE",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT SIDE QUARTER WINDOW GLASS OEM 55399267AE",
             "number": "55399267AE / 55399267 AE\t",
             "oem": "68092699AA / 68092699 AA",
             "notes": ""
@@ -57048,14 +57202,14 @@ export function App() {
         },
         {
             "id": "Rul9_UppDhWQU3v7XhYfb",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231062AF",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT DOOR WINDOW GLASS REGULATOR OEM 68231062AF",
             "number": "68231062AF / 68231062 AF\t",
             "oem": "68079286AA / 68079286 AA\t",
             "notes": ""
         },
         {
             "id": "B4L3Z1ueBG1cecIe-el7Z",
-            "name": "2014 - 2022 DODGE DURANGO FRONT LEFT DOOR WINDOW GLASS REGULATOR OEM 68231063AF",
+            "name": "2014 - 2023 DODGE DURANGO FRONT LEFT DOOR WINDOW GLASS REGULATOR OEM 68231063AF",
             "number": "68231063AF / 68231063 AF\t",
             "oem": "68079287AA / 68079287 AA\t",
             "notes": ""
@@ -57083,14 +57237,14 @@ export function App() {
         },
         {
             "id": "BOz0GRqCTH8TzzMUf2U3I",
-            "name": "2014 - 2022 DODGE DURANGO REAR RIGHT DOOR WINDOW REGULATOR MOTOR OEM 931402103",
+            "name": "2014 - 2023 DODGE DURANGO REAR RIGHT DOOR WINDOW REGULATOR MOTOR OEM 931402103",
             "number": "931402103",
             "oem": "68079284AB / 68079284 AB\t",
             "notes": ""
         },
         {
             "id": "DpzkFb0Z-SbffZ6jo2saA",
-            "name": "2014 - 2022 DODGE DURANGO REAR LEFT DOOR WINDOW REGULATOR MOTOR OEM 931403103",
+            "name": "2014 - 2023 DODGE DURANGO REAR LEFT DOOR WINDOW REGULATOR MOTOR OEM 931403103",
             "number": "931403103",
             "oem": "68079285AB / 68079285 AB\t",
             "notes": ""
@@ -57104,28 +57258,28 @@ export function App() {
         },
         {
             "id": "WAWvSMZsvq4ZEK47ihtV0",
-            "name": "2014 - 2022 DODGE DURANGO REAR TAILGATE LIFTGATE WINDSHIELD GLASS OEM 68033439AF",
+            "name": "2014 - 2023 DODGE DURANGO REAR TAILGATE LIFTGATE WINDSHIELD GLASS OEM 68033439AF",
             "number": "68033439AF / 68033439 AF\t",
             "oem": "68033439AG / 68033439 AG\t",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "h3IezmDUmJAjlWWR-SUl3",
-            "name": "2016 - 2022 DODGE DURANGO REAR BUMPER REINFORCEMENT BEAM OEM 04578827AK",
+            "name": "2016 - 2023 DODGE DURANGO REAR BUMPER REINFORCEMENT BEAM OEM 04578827AK",
             "number": "04578827AK / 04578827 AK",
             "oem": "",
             "notes": ""
         },
         {
             "id": "zTTWNJLIujr1SRM58eRZ_",
-            "name": "2014-2022 DODGE DURANGO AWD REAR SUSPENSION RIGHT SIDE AXLE SHAFT OEM 52123521AC",
+            "name": "2014-2023 DODGE DURANGO AWD REAR SUSPENSION RIGHT SIDE AXLE SHAFT OEM 52123521AC",
             "number": "52123521AC / 52123521 AC\t",
             "oem": "52123521AD / 52123521 AD",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "YBmzXn5oi9CAEsRKxKkuS",
-            "name": "2014 - 2022 DODGE DURANGO AWD FRONT SUSPENSION RIGHT AXLE SHAFT OEM 04578884AC",
+            "name": "2014 - 2023 DODGE DURANGO AWD FRONT SUSPENSION RIGHT AXLE SHAFT OEM 04578884AC",
             "number": "04578884AC / 04578884 AC",
             "oem": "",
             "notes": ""
@@ -57139,14 +57293,14 @@ export function App() {
         },
         {
             "id": "_lLJJdO8uDeFGC7GjMeTP",
-            "name": "2011 -2022 DODGE DURANGO FRONT RIGHT SEAT TRACK INNER TRIM COVER OEM DOCWXX58410",
+            "name": "2011 -2023 DODGE DURANGO FRONT RIGHT SEAT TRACK INNER TRIM COVER OEM DOCWXX58410",
             "number": "DOCWXX58410 / DOCWXX 58410 / DOCW XX 58410\t",
             "oem": "1TM47DX9AA / 1TM47DX9 AA",
             "notes": ""
         },
         {
             "id": "vBxQJX6BZKbTLLFaJhCDZ",
-            "name": "2011 -2022 DODGE DURANGO FRONT RIGHT SEAT TRACK OUTER TRIM COVER OEM DOCWXX58400",
+            "name": "2011 -2023 DODGE DURANGO FRONT RIGHT SEAT TRACK OUTER TRIM COVER OEM DOCWXX58400",
             "number": "DOCWXX58400 / DOCWXX 58400 / DOCW XX 58400",
             "oem": "1UN90DX9AA / 1UN90DX9 AA\t",
             "notes": ""
@@ -57167,21 +57321,21 @@ export function App() {
         },
         {
             "id": "n-fTqwy1Xi7qXPtDicOlI",
-            "name": "2014 - 2022 DODGE DURANGO REAR RIGHT DOOR APPLIQUE MOLDING OEM 55399298AC",
+            "name": "2014 - 2023 DODGE DURANGO REAR RIGHT DOOR APPLIQUE MOLDING OEM 55399298AC",
             "number": "55399298AC / 55399298 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "t5USRmeM6deFSKP_JOsgf",
-            "name": "2018 - 2022 DODGE DURANGO REAR LIFTGATE INTERIOR HEADER MOLDING OEM 6DF23DX9AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR LIFTGATE INTERIOR HEADER MOLDING OEM 6DF23DX9AA",
             "number": "6DF23DX9AA / 6DF23DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "FfUbWmzD5T-VKX5flyTYI",
-            "name": "2016 - 2022 DODGE DURANGO START STOP ELECTRICAL RELAY MODULE UNIT OEM 56029766AC",
+            "name": "2016 - 2023 DODGE DURANGO START STOP ELECTRICAL RELAY MODULE UNIT OEM 56029766AC",
             "number": "56029766AC / 56029766 AC\t",
             "oem": "",
             "notes": ""
@@ -57195,49 +57349,49 @@ export function App() {
         },
         {
             "id": "aQgu-9NeLElTqw3FR__27",
-            "name": "2014-2022 DODGE DURANGO FRONT DASH RIGHT SILENCER SUPPORT BRACKET OEM 68253120AA",
+            "name": "2014-2023 DODGE DURANGO FRONT DASH RIGHT SILENCER SUPPORT BRACKET OEM 68253120AA",
             "number": "68253120AA / 68253120 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "-Lnng9aQQbTnKb4A7YX3J",
-            "name": "2014-2022 DODGE DURANGO FRONT DASH LEFT SILENCER SUPPORT BRACKET OEM 68148905AA",
+            "name": "2014-2023 DODGE DURANGO FRONT DASH LEFT SILENCER SUPPORT BRACKET OEM 68148905AA",
             "number": "68148905AA / 68148905 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "z7pxPwev_p_dgMNC0IrMP",
-            "name": "2014 - 2022 DODGE DURANGO B PILLAR RIGHT INTERIOR GRAB HANDLE OEM 02238003XX",
+            "name": "2014 - 2023 DODGE DURANGO B PILLAR RIGHT INTERIOR GRAB HANDLE OEM 02238003XX",
             "number": "02238003XX / 02238003 XX\t",
             "oem": "6EM32DX9AA / 6EM32DX9 AA\t",
             "notes": ""
         },
         {
             "id": "o64WAj35BW6npqfKeyHaO",
-            "name": "2014 - 2022 DODGE DURANGO B PILLAR LEFT INTERIOR GRAB HANDLE OEM 6EM33DX9AA",
+            "name": "2014 - 2023 DODGE DURANGO B PILLAR LEFT INTERIOR GRAB HANDLE OEM 6EM33DX9AA",
             "number": "6EM33DX9AA / 6EM33DX9 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "qXEp2epx-e1UC9l65Iv58",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT COWL FENDER EXTENSION PANEL OEM 68260207AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT COWL FENDER EXTENSION PANEL OEM 68260207AC",
             "number": "68260207AC / 68260207 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "PFuLdSTmyHo6u24WytUOB",
-            "name": "2018 - 2022 DODGE DURANGO RIGHT SIDE B PILLAR UPPER TRIM COVER OEM 5VP04DX9AC",
+            "name": "2018 - 2023 DODGE DURANGO RIGHT SIDE B PILLAR UPPER TRIM COVER OEM 5VP04DX9AC",
             "number": "5VP04DX9AC / 5VP04DX9 AC",
             "oem": "",
             "notes": ""
         },
         {
             "id": "zzZNj00YwxiLF91O9qKl5",
-            "name": "2018 - 2022 DODGE DURANGO LEFT SIDE B PILLAR LOWER TRIM COVER OEM 1GG59DX9AB",
+            "name": "2018 - 2023 DODGE DURANGO LEFT SIDE B PILLAR LOWER TRIM COVER OEM 1GG59DX9AB",
             "number": "1GG59DX9AB / 1GG59DX9 AB\t",
             "oem": "1GG59DX9AC / 1GG59DX9 AC",
             "notes": ""
@@ -57251,14 +57405,14 @@ export function App() {
         },
         {
             "id": "TWIxYAPxAWrOx982QKeHb",
-            "name": "2015 - 2022 DODGE DURANGO HVAC A/C HEATER SUCTION & LIQUID LINE OEM 68217217AE",
+            "name": "2015 - 2023 DODGE DURANGO HVAC A/C HEATER SUCTION & LIQUID LINE OEM 68217217AE",
             "number": "68217217AE / 68217217 AE\t",
             "oem": "68217217AF / 68217217 AF",
             "notes": ""
         },
         {
             "id": "_Jj833-A92B3ydZgu6DNl",
-            "name": "2015 - 2022 DODGE DURANGO 3.6L ENGINE HVAC AC HEATER SUCTION LINE OEM 68217212AB",
+            "name": "2015 - 2023 DODGE DURANGO 3.6L ENGINE HVAC AC HEATER SUCTION LINE OEM 68217212AB",
             "number": "68217212AB / 68217212 AB\t",
             "oem": "68217212AC / 68217212 AC",
             "notes": ""
@@ -57272,14 +57426,14 @@ export function App() {
         },
         {
             "id": "ImeOO8io3RiqgOUZgu3qp",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT WHEEL ABS SPEED SENSOR UNIT OEM 05154230AF",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT WHEEL ABS SPEED SENSOR UNIT OEM 05154230AF",
             "number": "05154230AF / 05154230 AF",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "Eyd-ALbLmowPsFQ47fe9b",
-            "name": "2016 - 2022 DODGE DURANGO FRONT WINDSHIELD WIPER LINKAGE W/ MOTOR OEM 68260523AB",
+            "name": "2016 - 2023 DODGE DURANGO FRONT WINDSHIELD WIPER LINKAGE W/ MOTOR OEM 68260523AB",
             "number": "68260523AB / 68260523 AB",
             "oem": "68301827AA / 68301827 AA\t",
             "notes": ""
@@ -57300,14 +57454,14 @@ export function App() {
         },
         {
             "id": "GXqMMGgn_FnhMYCnBHYJj",
-            "name": "2018 - 2022 DODGE DURANGO REAR RIGHT DOOR WIRE WIRING HARNESS OEM 68333624AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR RIGHT DOOR WIRE WIRING HARNESS OEM 68333624AA",
             "number": "68333624AA / 68333624 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "JQE7kYVMk5rEo-BwluA5X",
-            "name": "2018 - 2022 DODGE DURANGO REAR LEFT DOOR WIRE WIRING HARNESS OEM 68333600AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR LEFT DOOR WIRE WIRING HARNESS OEM 68333600AA",
             "number": "68333600AA / 68333600 AA",
             "oem": "",
             "notes": ""
@@ -57328,28 +57482,28 @@ export function App() {
         },
         {
             "id": "a7gJ7ocsFcl8DVF9oodqA",
-            "name": "2014 - 2022 DODGE DURANGO AUTO TRANSMISSION GEAR SHIFTER CABLE OEM 68394556AA",
+            "name": "2014 - 2023 DODGE DURANGO AUTO TRANSMISSION GEAR SHIFTER CABLE OEM 68394556AA",
             "number": "68394556AA / 68394556 AA",
             "oem": "68394556AB / 68394556 AB",
             "notes": ""
         },
         {
             "id": "Cezq6L_Lwt6Vzo5FmnkVJ",
-            "name": "2016 - 2022 DODGE DURANGO AUTO TRANSMISSION BRAKE INTERLOCK CABLE OEM 68260775AA",
+            "name": "2016 - 2023 DODGE DURANGO AUTO TRANSMISSION BRAKE INTERLOCK CABLE OEM 68260775AA",
             "number": "68260775AA / 68260775 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "P5kS3fwybX5W7Nws5nsxg",
-            "name": "2014 - 2022 DODGE DURANGO TRANSMISSION CROSSMEMBER MOUNT BRACKET OEM 68229952AA",
+            "name": "2014 - 2023 DODGE DURANGO TRANSMISSION CROSSMEMBER MOUNT BRACKET OEM 68229952AA",
             "number": "68229952AA / 68229952 AA",
             "oem": "68252525AA / 68252525 AA",
             "notes": ""
         },
         {
             "id": "noNRf-BOgBTRkeFgoSVOd",
-            "name": "2014 - 2022 DODGE DURANGO 3.6L ENGINE AUTO TRANSMISSION MOUNT OEM 05154807AD",
+            "name": "2014 - 2023 DODGE DURANGO 3.6L ENGINE AUTO TRANSMISSION MOUNT OEM 05154807AD",
             "number": "05154807AD / 05154807 AD",
             "oem": "",
             "notes": ""
@@ -57363,14 +57517,14 @@ export function App() {
         },
         {
             "id": "oftrxZSuT9lLnZqBaPjSK",
-            "name": "2014 -2022 DODGE DURANGO AWD 3.6L AUTO TRANSMISSION TRANSFER CASE OEM 52123725AC",
+            "name": "2014 -2023 DODGE DURANGO AWD 3.6L AUTO TRANSMISSION TRANSFER CASE OEM 52123725AC",
             "number": "52123725AC / 52123725 AC\t",
             "oem": "52123725AD / 52123725 AD",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "OUS-nU9R2VZbdzGCp7hC0",
-            "name": "2018 - 2022 DODGE DURANGO STEERING WHEEL LEATHER W/ SWITCHES OEM 6LA541X9AB",
+            "name": "2018 - 2023 DODGE DURANGO STEERING WHEEL LEATHER W/ SWITCHES OEM 6LA541X9AB",
             "number": "6LA541X9AB / 6LA541X9 AB\t",
             "oem": "6AD80DX9AA / 6AD80DX9 AA\t",
             "notes": ""
@@ -57384,14 +57538,14 @@ export function App() {
         },
         {
             "id": "juFNqrB9jlsZmDXCRqPeO",
-            "name": "2016 - 2022 DODGE DURANGO FRONT STABILIZER SWAY ANTI ROLL BAR OEM 68252205AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT STABILIZER SWAY ANTI ROLL BAR OEM 68252205AC",
             "number": "68252205AC / 68252205 AC",
             "oem": "68252205AD / 68252205 AD\t",
             "notes": ""
         },
         {
             "id": "38wE0JJF8ToXhhK1gc8qx",
-            "name": "2016 - 2022 DODGE DURANGO AWD STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
+            "name": "2016 - 2023 DODGE DURANGO AWD STEERING COLUMN INTERMEDIATE SHAFT OEM 68245552AD",
             "number": "68245552AD / 68245552 AD",
             "oem": "",
             "notes": ""
@@ -57426,63 +57580,63 @@ export function App() {
         },
         {
             "id": "ocQD7w_fCBsWy7_0v-ljj",
-            "name": "2014 - 2022 DODGE DURANGO REAR 3RD ROW RIGHT SIDE SEAT TRACK COVER OEM X971950",
+            "name": "2014 - 2023 DODGE DURANGO REAR 3RD ROW RIGHT SIDE SEAT TRACK COVER OEM X971950",
             "number": "X971950 / X9 71950",
             "oem": "1WM88DX9AA / 1WM88DX9 AA",
             "notes": ""
         },
         {
             "id": "Hp2XaCHLtVB8KYr-XK1FA",
-            "name": "2014 - 2022 DODGE DURANGO REAR 3RD ROW LEFT SIDE SEAT TRACK COVER OEM DCDXX71851",
+            "name": "2014 - 2023 DODGE DURANGO REAR 3RD ROW LEFT SIDE SEAT TRACK COVER OEM DCDXX71851",
             "number": "DCDXX71851 / DCDXX 71851 / DCD XX 71851\t",
             "oem": "1WM85DX9AA / 1WM85DX9 AA",
             "notes": ""
         },
         {
             "id": "GH9cqs5aiTeTTsHkVULCW",
-            "name": "2014 - 2022 DODGE DURANGO REAR 2ND ROW SEAT FORWARD TRACK COVER OEM D1CDXX63055",
+            "name": "2014 - 2023 DODGE DURANGO REAR 2ND ROW SEAT FORWARD TRACK COVER OEM D1CDXX63055",
             "number": "D1CDXX63055 / D1CDXX 63055 / D1CD XX 63055",
             "oem": "1XZ95DX9AA / 1XZ95DX9 AA",
             "notes": ""
         },
         {
             "id": "7QnyDoiwLRVYf6izvFdgj",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SEAT INNER TRACK COVER OEM D0CWXX58116",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SEAT INNER TRACK COVER OEM D0CWXX58116",
             "number": "D0CWXX58116 / D0CWXX 58116 / D0CW XX 58116\t",
             "oem": "1UN82DX9AA / 1UN82DX9 AA",
             "notes": ""
         },
         {
             "id": "-Ia64fA7T3sDnAaoDducj",
-            "name": "2014 - 2022 DODGE DURANGO FRONT LEFT SEAT INNER TRACK COVER OEM D1CDXX58115",
+            "name": "2014 - 2023 DODGE DURANGO FRONT LEFT SEAT INNER TRACK COVER OEM D1CDXX58115",
             "number": "D1CDXX58115 / D1CDXX 58115 / D1CD XX 58115\t",
             "oem": "1UN81DX9AA / 1UN81DX9 AA",
             "notes": ""
         },
         {
             "id": "oe4HDvTafewqTuEZNAWq3",
-            "name": "2013 - 2022 DODGE DURANGO REAR 2ND ROW FLOOR CARPET COVER LINER OEM 1YL01DX9AF",
+            "name": "2013 - 2023 DODGE DURANGO REAR 2ND ROW FLOOR CARPET COVER LINER OEM 1YL01DX9AF",
             "number": "1YL01DX9AF / 1YL01DX9 AF",
             "oem": "1YL01DX9AG / 1YL01DX9 AG",
             "notes": ""
         },
         {
             "id": "M5wTeJ4paG3XStvU39oeR",
-            "name": "2012 - 2022 DODGE DURANGO REAR 3RD ROW FLOOR CARPET COVER LINER OEM 1GY84DX9AF",
+            "name": "2012 - 2023 DODGE DURANGO REAR 3RD ROW FLOOR CARPET COVER LINER OEM 1GY84DX9AF",
             "number": "1GY84DX9AF / 1GY84DX9 AF\t",
             "oem": "",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "OHthxheKfoClXxG3SSS_Y",
-            "name": "2016 - 2022 DODGE DURANGO FRONT RIGHT FLOOR CARPET COVER LINER OEM 5VK16DX9AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT RIGHT FLOOR CARPET COVER LINER OEM 5VK16DX9AC",
             "number": "5VK16DX9AC / 5VK16DX9 AC",
             "oem": "5VK16DX9AD / 5VK16DX9 AD",
             "notes": ""
         },
         {
             "id": "OqMRcn5KDOh1CxZ6ei7I9",
-            "name": "2016 - 2022 DODGE DURANGO FRONT LEFT FLOOR CARPET COVER LINER MAT OEM 5VK15DX9AB",
+            "name": "2016 - 2023 DODGE DURANGO FRONT LEFT FLOOR CARPET COVER LINER MAT OEM 5VK15DX9AB",
             "number": "5VK15DX9AB / 5VK15DX9 AB",
             "oem": "5VK15DX9AE / 5VK15DX9 AE",
             "notes": ""
@@ -57510,21 +57664,21 @@ export function App() {
         },
         {
             "id": "aqrCohc6Fv1ROAqcbbrtG",
-            "name": "2014-2022 DODGE DURANGO REAR QUARTER TRUNK RIGHT COVER TRIM PANEL OEM 5PT18DX9AD",
+            "name": "2014-2023 DODGE DURANGO REAR QUARTER TRUNK RIGHT COVER TRIM PANEL OEM 5PT18DX9AD",
             "number": "5PT18DX9AD / 5PT18DX9 AD",
             "oem": "5PT18DX9AE / 5PT18DX9 AE",
             "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "PFYVBbVMhLIo5ql-Q2QeL",
-            "name": "2011 - 2022 DODGE DURANGO REAR QUARTER LEFT STORAGE TRAY BIN OEM 100990023BL",
+            "name": "2011 - 2023 DODGE DURANGO REAR QUARTER LEFT STORAGE TRAY BIN OEM 100990023BL",
             "number": "100990023BL / 100990023 BL",
             "oem": "1WM54DX9AA / 1WM54DX9 AA",
             "notes": ""
         },
         {
             "id": "RSVVT36Zc64PPLQKKnloc",
-            "name": "2011 - 2022 DODGE DURANGO REAR QUARTER LEFT INNER INSULATOR PANEL OEM 05057741AC",
+            "name": "2011 - 2023 DODGE DURANGO REAR QUARTER LEFT INNER INSULATOR PANEL OEM 05057741AC",
             "number": "05057741AC / 05057741 AC\t",
             "oem": "",
             "notes": ""
@@ -57538,105 +57692,105 @@ export function App() {
         },
         {
             "id": "ic1jwyFdqDzS8ZVQS_rIq",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE OIL COOLER PRESSURE LINE OEM 68244072AB",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE OIL COOLER PRESSURE LINE OEM 68244072AB",
             "number": "68244072AB / 68244072 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "C5TdTqgj1eaTN04PfrSat",
-            "name": "2016 - 2022 DODGE DURANGO ENGINE CONTROL MODULE BRACKET HOLDER OEM 68251949AC",
+            "name": "2016 - 2023 DODGE DURANGO ENGINE CONTROL MODULE BRACKET HOLDER OEM 68251949AC",
             "number": "68251949AC / 68251949 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "B6RoSnk0VyX-l_eQvBYnY",
-            "name": "2014-2022 DODGE DURANGO POWER DISTRIBUTION FUSE RELAY BOX BRACKET OEM 68318605AA",
+            "name": "2014-2023 DODGE DURANGO POWER DISTRIBUTION FUSE RELAY BOX BRACKET OEM 68318605AA",
             "number": "68318605AA / 68318605 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "Ge6ZrxIF99hA6oXBnDnZO",
-            "name": "2011 -2022 DODGE DURANGO REAR LIFTGATE WIPER MOTOR DAMPER BRACKET OEM 55000956AB",
+            "name": "2011 -2023 DODGE DURANGO REAR LIFTGATE WIPER MOTOR DAMPER BRACKET OEM 55000956AB",
             "number": "55000956AB / 55000956 AB\t",
             "oem": "55000956AC / 55000956 AC",
             "notes": ""
         },
         {
             "id": "wtz2eUTABtK0vM-8u64tw",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT DOOR SILL SCUFF PLATE BRACKET OEM 5057790",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT DOOR SILL SCUFF PLATE BRACKET OEM 5057790",
             "number": "5057790",
             "oem": "5057790AD / 5057790 AD",
             "notes": ""
         },
         {
             "id": "XjkTzj5sVkDF6ffHS1JPV",
-            "name": "2011 - 2022 DODGE DURANGO REAR RIGHT DOOR SILL SCUFF PLATE PANEL OEM 1NC84DX9AD",
+            "name": "2011 - 2023 DODGE DURANGO REAR RIGHT DOOR SILL SCUFF PLATE PANEL OEM 1NC84DX9AD",
             "number": "1NC84DX9AD / 1NC84DX9 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "GDR-gdrsYO7MEbS6dd84I",
-            "name": "2011 - 2022 DODGE DURANGO REAR LEFT DOOR SILL SCUFF PLATE BRACKET OEM 5057791",
+            "name": "2011 - 2023 DODGE DURANGO REAR LEFT DOOR SILL SCUFF PLATE BRACKET OEM 5057791",
             "number": "5057791",
             "oem": "5057791AD / 5057791 AD",
             "notes": ""
         },
         {
             "id": "fPv-8feHrN9xpB9lN-EOV",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT DOOR SILL SCUFF PLATE PANEL OEM 1GG70DX9AB",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT DOOR SILL SCUFF PLATE PANEL OEM 1GG70DX9AB",
             "number": "1GG70DX9AB / 1GG70DX9 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "1kTRoDicIJCeKLhkDhmRM",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT DOOR SILL SCUFF PLATE PANEL OEM 1GG71DX9AB",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT DOOR SILL SCUFF PLATE PANEL OEM 1GG71DX9AB",
             "number": "1GG71DX9AB / 1GG71DX9 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "lczwZYCYQ9BWRPBYk4ced",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT FENDER FOAM STUFFER FILLER OEM 68084036A",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT FENDER FOAM STUFFER FILLER OEM 68084036A",
             "number": "68084036A / 68084036 A\t",
             "oem": "68084036AD / 68084036 AD",
             "notes": ""
         },
         {
             "id": "L1cazth8aLsJfQCAJBZ-f",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT FENDER FOAM STUFFER FILLER OEM 68084037A",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT FENDER FOAM STUFFER FILLER OEM 68084037A",
             "number": "68084037A / 68084037 A\t",
             "oem": "68084037AD / 68084037 AD",
             "notes": ""
         },
         {
             "id": "1Yi-mR7zAQs_djDzUAf7_",
-            "name": "2014 - 2022 DODGE DURANGO REAR LIFT GATE RIGHT SIDE SHOCK SUPPORT OEM 68193788AD",
+            "name": "2014 - 2023 DODGE DURANGO REAR LIFT GATE RIGHT SIDE SHOCK SUPPORT OEM 68193788AD",
             "number": "68193788AD / 68193788 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "49KpbZ0WpoKWJp-v7TMys",
-            "name": "2014 - 2022 DODGE DURANGO REAR LIFT GATE LEFT SIDE SHOCK SUPPORT OEM 68193789AD",
+            "name": "2014 - 2023 DODGE DURANGO REAR LIFT GATE LEFT SIDE SHOCK SUPPORT OEM 68193789AD",
             "number": "68193789AD / 68193789 AD",
             "oem": "",
             "notes": ""
         },
         {
             "id": "UnaMKMZ9T5LtZsEtXohBs",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE COOLANT COOLER HOSE TUBE OEM 68263792AC",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE COOLANT COOLER HOSE TUBE OEM 68263792AC",
             "number": "68263792AC / 68263792 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "elX0OA-w8WHoMDZwwB_N1",
-            "name": "2016 -2022 DODGE DURANGO 3.6L ENGINE PCV PETROL VACUUM LINE HOSE OEM 68210346AC",
+            "name": "2016 -2023 DODGE DURANGO 3.6L ENGINE PCV PETROL VACUUM LINE HOSE OEM 68210346AC",
             "number": "68210346AC / 68210346 AC\t",
             "oem": "68210346AD / 68210346 AD",
             "notes": ""
@@ -57650,42 +57804,42 @@ export function App() {
         },
         {
             "id": "KnhFPVo7VyjxY0sUIUFiI",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE RADIATOR COOLANT WATER HOSE OEM 68244089AB",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE RADIATOR COOLANT WATER HOSE OEM 68244089AB",
             "number": "68244089AB / 68244089 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "a_9_yaBuCVzSRAW3mbBi8",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE AIR MAKE UP HOSE LINE OEM 68265330AA",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE AIR MAKE UP HOSE LINE OEM 68265330AA",
             "number": "68265330AA / 68265330 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "AzC9k3_ekXGDeUVSGKUc0",
-            "name": "2016 - 2022 DODGE DURANGO BRAKE BOOSTER VACUUM HOSE TUBE PIPE OEM 04581952AC",
+            "name": "2016 - 2023 DODGE DURANGO BRAKE BOOSTER VACUUM HOSE TUBE PIPE OEM 04581952AC",
             "number": "04581952AC / 04581952 AC\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "LyAs5GOggOzTKrsmVYULP",
-            "name": "2014-2022 DODGE DURANGO FRONT CLIMATE HEATER BLOWER HOUSING BOX OEM 68245823AF",
+            "name": "2014-2023 DODGE DURANGO FRONT CLIMATE HEATER BLOWER HOUSING BOX OEM 68245823AF",
             "number": "68245823AF / 68245823 AF",
             "oem": "68224170AB / 68224170 AB\t",
             "notes": "68224170AC / 68224170 AC\t"
         },
         {
             "id": "Nrqa_1cBglmy0f0E2qRwn",
-            "name": "2011 - 2022 DODGE DURANGO REAR TAILGATE UPPER TRIM COVER PANEL OEM 1KE80DX9AB",
+            "name": "2011 - 2023 DODGE DURANGO REAR TAILGATE UPPER TRIM COVER PANEL OEM 1KE80DX9AB",
             "number": "1KE80DX9AB / 1KE80DX9 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "gGcQsLVfjESKg6cQVVnWF",
-            "name": "2011 - 2022 DODGE DURANGO GAS PEDAL ACCELERATOR THROTTLE SENSOR OEM 52124785AF",
+            "name": "2011 - 2023 DODGE DURANGO GAS PEDAL ACCELERATOR THROTTLE SENSOR OEM 52124785AF",
             "number": "52124785AF / 52124785 AF",
             "oem": "52124785AD / 52124785 AD",
             "notes": ""
@@ -57706,28 +57860,28 @@ export function App() {
         },
         {
             "id": "DZFoA16W-r3CpQk7AvwEI",
-            "name": "2014 - 2022 DODGE DURANGO 3.6L AWD FRONT RIGHT ENGINE FRAME MOUNT OEM 68275984AA",
+            "name": "2014 - 2023 DODGE DURANGO 3.6L AWD FRONT RIGHT ENGINE FRAME MOUNT OEM 68275984AA",
             "number": "68275984AA / 68275984 AA\t",
             "oem": "52124986AB / 52124986 AB",
             "notes": ""
         },
         {
             "id": "hvH5wib2WpjU7cCkNPBw1",
-            "name": "2014 - 2022 DODGE DURANGO 3.6L AWD FRONT LEFT ENGINE FRAME MOUNT OEM 68252524AA",
+            "name": "2014 - 2023 DODGE DURANGO 3.6L AWD FRONT LEFT ENGINE FRAME MOUNT OEM 68252524AA",
             "number": "68252524AA / 68252524 AA\t",
             "oem": "52124987AB / 52124987 AB",
             "notes": ""
         },
         {
             "id": "G-54ODyAGPCzmi_uuI422",
-            "name": "2011 - 2022 DODGE DURANGO EMERGENCY PARK PARKING BRAKE PEDAL OEM 04779627AJ",
+            "name": "2011 - 2023 DODGE DURANGO EMERGENCY PARK PARKING BRAKE PEDAL OEM 04779627AJ",
             "number": "04779627AJ / 04779627 AJ",
             "oem": "4779627AF / 4779627 AF",
             "notes": ""
         },
         {
             "id": "SMHSQaid28wZffIf2z38q",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L EGR EXHAUST COOLER TUBE VALVE OEM 05281255AJ",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L EGR EXHAUST COOLER TUBE VALVE OEM 05281255AJ",
             "number": "05281255AJ / 05281255 AJ\t",
             "oem": "5281409AG / 5281409 AG\t",
             "notes": "5281409AF / 5281409 AF\t"
@@ -57741,42 +57895,42 @@ export function App() {
         },
         {
             "id": "UqxCJvWbmoXDLGqud9f5S",
-            "name": "2018-2022 DODGE DURANGO RIGHT QUARTER PANEL D PILLAR UPPER COVER OEM 6DF18DX9AA",
+            "name": "2018-2023 DODGE DURANGO RIGHT QUARTER PANEL D PILLAR UPPER COVER OEM 6DF18DX9AA",
             "number": "6DF18DX9AA / 6DF18DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "2PEp57cl9uq20lT7Sena3",
-            "name": "2018 - 2022 DODGE DURANGO REAR RIGHT D PILLAR TRIM COVER PANEL OEM 6DF24DX9AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR RIGHT D PILLAR TRIM COVER PANEL OEM 6DF24DX9AA",
             "number": "6DF24DX9AA / 6DF24DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "Jg_0TxQCWSa_qQpyLsNYJ",
-            "name": "2018-2022 DODGE DURANGO LEFT QUARTER PANEL D PILLAR UPPER COVER OEM 6DF17DX9AA",
+            "name": "2018-2023 DODGE DURANGO LEFT QUARTER PANEL D PILLAR UPPER COVER OEM 6DF17DX9AA",
             "number": "6DF17DX9AA / 6DF17DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "BEPqSHDLGVcIcWUbQ6tyJ",
-            "name": "2018 - 2022 DODGE DURANGO REAR LEFT D PILLAR TRIM COVER PANEL OEM 6DF25DX9AA",
+            "name": "2018 - 2023 DODGE DURANGO REAR LEFT D PILLAR TRIM COVER PANEL OEM 6DF25DX9AA",
             "number": "6DF25DX9AA / 6DF25DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "3bhNd2z52SKhsoXWFgs-W",
-            "name": "2014 - 2022 DODGE DURANGO DASHBOARD CENTER LOWER BEZEL TRIM COVER OEM 01749003BL",
+            "name": "2014 - 2023 DODGE DURANGO DASHBOARD CENTER LOWER BEZEL TRIM COVER OEM 01749003BL",
             "number": "01749003BL / 01749003 BL\t",
             "oem": "5SB01DX9AA / 5SB01DX9 AA\t",
             "notes": "5SB013X9AA / 5SB013X9 AA"
         },
         {
             "id": "5eq41zqtsXLiJ5H4xFUtn",
-            "name": "2014-2022 DODGE DURANGO DASH DASHBOARD RIGHT BEZEL COVER MOLDING OEM X70005302AM",
+            "name": "2014-2023 DODGE DURANGO DASH DASHBOARD RIGHT BEZEL COVER MOLDING OEM X70005302AM",
             "number": "X70005302AM / X70005302 AM",
             "oem": "1UQ71AAAAA / 1UQ71AAA AA\t",
             "notes": "1UQ711XLAA / 1UQ711XL AA"
@@ -57790,35 +57944,35 @@ export function App() {
         },
         {
             "id": "THOVPkycy06cZwnAgQKqU",
-            "name": "2014 - 2022 DODGE DURANGO DASHBOARD LEFT KNEE BOLSTER COVER PANEL OEM 01746013BL",
+            "name": "2014 - 2023 DODGE DURANGO DASHBOARD LEFT KNEE BOLSTER COVER PANEL OEM 01746013BL",
             "number": "01746013BL / 01746013 BL",
             "oem": "5SA98DX9AB / 5SA98DX9 AB",
             "notes": ""
         },
         {
             "id": "PogyJvoz7m4BWa2eejDTp",
-            "name": "2016 - 2022 DODGE DURANGO WINDSHIELD WIPER COWL VENT PANEL GRILLE OEM 55112907AF",
+            "name": "2016 - 2023 DODGE DURANGO WINDSHIELD WIPER COWL VENT PANEL GRILLE OEM 55112907AF",
             "number": "55112907AF / 55112907 AF",
             "oem": "55112907AB / 55112907 AB",
             "notes": ""
         },
         {
             "id": "m3kCp9RjTr-IArfPYBk-_",
-            "name": "2018-2022 DODGE DURANGO REAR RIGHT SIDE C PILLAR TRIM COVER PANEL OEM 6DF16DX9AA",
+            "name": "2018-2023 DODGE DURANGO REAR RIGHT SIDE C PILLAR TRIM COVER PANEL OEM 6DF16DX9AA",
             "number": "6DF16DX9AA / 6DF16DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "juoh1pXtx4gCho-jThlky",
-            "name": "2018-2022 DODGE DURANGO REAR LEFT SIDE C PILLAR TRIM COVER PANEL OEM 6DF15DX9AA",
+            "name": "2018-2023 DODGE DURANGO REAR LEFT SIDE C PILLAR TRIM COVER PANEL OEM 6DF15DX9AA",
             "number": "6DF15DX9AA / 6DF15DX9 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "2zyM7Q-6vbg7xpw_2bmdH",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L ENGINE WATER COOLANT PUMP OEM 68252075AB",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L ENGINE WATER COOLANT PUMP OEM 68252075AB",
             "number": "68252075AB / 68252075 AB",
             "oem": "68252075AC / 68252075 AC",
             "notes": ""
@@ -57867,7 +58021,7 @@ export function App() {
         },
         {
             "id": "NGkHJS3NpZFUPlzzNXUGa",
-            "name": "2018 - 2022 DODGE DURANGO LEFT SIDE UPPER B PILLAR TRIM COVER OEM 5VP05DX9AC",
+            "name": "2018 - 2023 DODGE DURANGO LEFT SIDE UPPER B PILLAR TRIM COVER OEM 5VP05DX9AC",
             "number": "5VP05DX9AC / 5VP05DX9 AC",
             "oem": "",
             "notes": ""
@@ -57888,28 +58042,28 @@ export function App() {
         },
         {
             "id": "wRbJHmhdQeZvsGZ125pnv",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L NEGATIVE BATTERY CABLE WIRE OEM 68251935AC",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L NEGATIVE BATTERY CABLE WIRE OEM 68251935AC",
             "number": "68251935AC / 68251935 AC\t",
             "oem": "68251935AB / 68251935 AB\t",
             "notes": ""
         },
         {
             "id": "3eyA1TDJx8mTJhkGndOc6",
-            "name": "2017 - 2022 DODGE DURANGO 3.6L NEGATIVE BATTERY CABLE WIRE OEM 68307264AA",
+            "name": "2017 - 2023 DODGE DURANGO 3.6L NEGATIVE BATTERY CABLE WIRE OEM 68307264AA",
             "number": "68307264AA / 68307264 AA",
             "oem": "",
             "notes": ""
         },
         {
             "id": "xYz4KX8OTnpJCgeLIdj8r",
-            "name": "2011 - 2022 DODGE DURANGO REAR BUMPER RIGHT SIDE BRACKET SUPPORT OEM 55079112AD",
+            "name": "2011 - 2023 DODGE DURANGO REAR BUMPER RIGHT SIDE BRACKET SUPPORT OEM 55079112AD",
             "number": "55079112AD / 55079112 AD\t",
             "oem": "55079112AC / 55079112 AC",
             "notes": ""
         },
         {
             "id": "eqffPLYRpjb5ZPej1Zy0l",
-            "name": "2018 - 2022 DODGE DURANGO FRONT LEFT A PILLAR TRIM COVER PANEL OEM 5VK87HDAAC",
+            "name": "2018 - 2023 DODGE DURANGO FRONT LEFT A PILLAR TRIM COVER PANEL OEM 5VK87HDAAC",
             "number": "5VK87HDAAC / 5VK87HDA AC\t",
             "oem": "5VK87HDAAD / 5VK87HDA AD\t",
             "notes": ""
@@ -57923,14 +58077,14 @@ export function App() {
         },
         {
             "id": "nvzL6Kz3S2gxQrO4eWnMl",
-            "name": "2016 - 2022 DODGE DURANGO AC AIR CONDITIONER CONDENSER LINE PIPE OEM 68244851AB",
+            "name": "2016 - 2023 DODGE DURANGO AC AIR CONDITIONER CONDENSER LINE PIPE OEM 68244851AB",
             "number": "68244851AB / 68244851 AB",
             "oem": "68244851AD / 68244851 AD",
             "notes": ""
         },
         {
             "id": "BnXRz70X24UgNr1-lnaGn",
-            "name": "2015 - 2022 DODGE DURANGO AC AIR CONDITIONING LIQUID LINE HOSE OEM 68217213AB",
+            "name": "2015 - 2023 DODGE DURANGO AC AIR CONDITIONING LIQUID LINE HOSE OEM 68217213AB",
             "number": "68217213AB / 68217213 AB",
             "oem": "68217213AC / 68217213 AC",
             "notes": ""
@@ -57958,28 +58112,28 @@ export function App() {
         },
         {
             "id": "Uc-yneedNEI_TWnQc2bdw",
-            "name": "2011 -2022 DODGE DURANGO REAR LEFT EXTERIOR DOOR HANDLE OEM 04589887AD GRAY=PAU",
+            "name": "2011 -2023 DODGE DURANGO REAR LEFT EXTERIOR DOOR HANDLE OEM 04589887AD GRAY=PAU",
             "number": "04589887AD / 04589887 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "tktlJJrBYEY4abBpaAg4I",
-            "name": "2011 -2022 DODGE DURANGO REAR RIGHT EXTERIOR DOOR HANDLE OEM 04589888AD GRAY=PAU",
+            "name": "2011 -2023 DODGE DURANGO REAR RIGHT EXTERIOR DOOR HANDLE OEM 04589888AD GRAY=PAU",
             "number": "04589888AD / 04589888 AD\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "Lb4CfePJpDriKQQSS9XLM",
-            "name": "2018 - 2022 DODGE DURANGO LEFT SIDE ROOF CURTAIN AIRBAG AIR BAG OEM 68250179AD",
+            "name": "2018 - 2023 DODGE DURANGO LEFT SIDE ROOF CURTAIN AIRBAG AIR BAG OEM 68250179AD",
             "number": "68250179AD / 68250179 AD",
             "oem": "68250179AE / 68250179 AE",
             "notes": ""
         },
         {
             "id": "LRDZkwZIMg19jITQ6M6EK",
-            "name": "2018 - 2022 DODGE DURANGO RIGHT SIDE ROOF CURTAIN AIRBAG AIR BAG OEM 68250178AD",
+            "name": "2018 - 2023 DODGE DURANGO RIGHT SIDE ROOF CURTAIN AIRBAG AIR BAG OEM 68250178AD",
             "number": "68250178AD / 68250178 AD",
             "oem": "68250178AE / 68250178 AE",
             "notes": ""
@@ -57993,28 +58147,28 @@ export function App() {
         },
         {
             "id": "i6NzzUgLI3AW7fQIBdQbm",
-            "name": "2011 - 2022 DODGE DURANGO AWD 3.6L REAR DRIVE SHAFT PROPELLER OEM 52123633AB",
+            "name": "2011 - 2023 DODGE DURANGO AWD 3.6L REAR DRIVE SHAFT PROPELLER OEM 52123633AB",
             "number": "52123633AB / 52123633 AB",
             "oem": "52123633AC / 52123633 AC\t",
             "notes": ""
         },
         {
             "id": "whb5EnNWyw0AW3e9pjkKt",
-            "name": "2011 - 2022 DODGE DURANGO FRONT LEFT DRIVER SEAT AIRBAG AIR BAG OEM 68373919AB",
+            "name": "2011 - 2023 DODGE DURANGO FRONT LEFT DRIVER SEAT AIRBAG AIR BAG OEM 68373919AB",
             "number": "68373919AB / 68373919 AB\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "48_tOFafrINxGcO8yl4if",
-            "name": "2011 - 2022 DODGE DURANGO FRONT RIGHT SIDE SEAT AIRBAG AIR BAG OEM 68373918AB",
+            "name": "2011 - 2023 DODGE DURANGO FRONT RIGHT SIDE SEAT AIRBAG AIR BAG OEM 68373918AB",
             "number": "68373918AB / 68373918 AB\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "GUy_ustjI2QoLbzfpXwf-",
-            "name": "2014 - 2022 DODGE DURANGO FRONT LEFT SILL SCUFF PLATE KICK PANEL OEM 6BK08DX9AA",
+            "name": "2014 - 2023 DODGE DURANGO FRONT LEFT SILL SCUFF PLATE KICK PANEL OEM 6BK08DX9AA",
             "number": "6BK08DA9AA / 6BK08DA9 AA\t",
             "oem": "",
             "notes": ""
@@ -58028,21 +58182,21 @@ export function App() {
         },
         {
             "id": "zK1syCs2QKiGA2JFeJ9sv",
-            "name": "2019 - 2022 DODGE DURANGO LATERAL ACCELERATION YAW SENSOR OEM 68411966AB",
+            "name": "2019 - 2023 DODGE DURANGO LATERAL ACCELERATION YAW SENSOR OEM 68411966AB",
             "number": "68411966AB / 68411966 AB",
             "oem": "",
             "notes": ""
         },
         {
             "id": "fvsrf25ldbHzUh5SgCJgu",
-            "name": "2011 -2022 DODGE DURANGO REAR LIFTGATE WINDSHIELD WIPER ARM MOTOR OEM 68229937AA",
+            "name": "2011 -2023 DODGE DURANGO REAR LIFTGATE WINDSHIELD WIPER ARM MOTOR OEM 68229937AA",
             "number": "68229937AA / 68229937 AA\t",
             "oem": "",
             "notes": ""
         },
         {
             "id": "wvZeZpK04aASDtLomvv8k",
-            "name": "2016 - 2022 DODGE DURANGO FRONT WINDSHIELD WIPER LINKAGE W/ MOTOR OEM 68260523AC",
+            "name": "2016 - 2023 DODGE DURANGO FRONT WINDSHIELD WIPER LINKAGE W/ MOTOR OEM 68260523AC",
             "number": "68260523AC / 68260523 AC\t",
             "oem": "68301827AA / 68301827 AA\t",
             "notes": ""
@@ -61970,7 +62124,7 @@ export function App() {
         },
         {
             "id": "hWrkqspyaqR9DkBvghEgd",
-            "name": "2016 - 2022 DODGE DURANGO 3.6L AC A/C HEATER SUPPLY & RETURN HOSE OEM 68251578AE",
+            "name": "2016 - 2023 DODGE DURANGO 3.6L AC A/C HEATER SUPPLY & RETURN HOSE OEM 68251578AE",
             "number": "68251578AE / 68251578 AE\t",
             "oem": "68251578AB / 68251578 AB\t",
             "notes": ""
