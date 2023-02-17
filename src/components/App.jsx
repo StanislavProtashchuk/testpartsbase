@@ -8,6 +8,83 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "UvEwIsAa214dB8em-8iFA",
+        "name": "2011 - 2023 DODGE CHARGER REAR RIGHT DOOR LATCH LOCK ACTUATOR OEM 04589914AE",
+        "number": "04589914AE / 04589914 AE / 0 4589914 AE",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "P6TLJqCd9sLJU9G62zdnO",
+        "name": "2009 - 2023 DODGE CHARGER RWD 3.6L RADIATOR WATER COOLANT COOLING OEM 834031529B",
+        "number": "834031529B / 834031529 B",
+        "oem": "68050126AB / 68050126 AB",
+        "notes": ""
+    },
+    {
+        "id": "JmT_QkD6M6gYe4P_UwLvb",
+        "name": "2011 - 2023 DODGE CHARGER REAR LEFT EXTERIOR DOOR HANDLE OEM 761067AC GRAY=PAR",
+        "number": "761067AC / 761067 AC\t",
+        "oem": "1MZ81LAUAH / 1MZ81LAU AH\t",
+        "notes": ""
+    },
+    {
+        "id": "CCGTDQLvmA5YCi_Fk-ixK",
+        "name": "2011 - 2023 DODGE CHARGER DASH PANEL RIGHT GLOVE BOX STORAGE OEM 1190922DX9AC",
+        "number": "1190922DX9AC / 1190922DX9 AC",
+        "oem": "1QF13DX9AP / 1QF13DX9 AP\t",
+        "notes": ""
+    },
+    {
+        "id": "s0ogMACbKTd3MagCZxkBl",
+        "name": "2011 - 2023 DODGE CHARGER RWD 3.6L A/C AIR CONDITIONING CONDENSER OEM 834031529B",
+        "number": "834031529B / 834031529 B\t",
+        "oem": "68085784AA / 68085784 AA",
+        "notes": ""
+    },
+    {
+        "id": "2n0b2_c-VnrW-NprlYtpP",
+        "name": "2012 - 2023 DODGE CHARGER RWD 3.6L REAR RIGHT OR LEFT COIL SPRING OEM 05168889AC",
+        "number": "05168889AC / 05168889 AC / 0 5168889 AC",
+        "oem": "5168889AA / 5168889 AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT"
+    },
+    {
+        "id": "3l44DlURaeRwLKLK6RSlr",
+        "name": "2011 - 2023 DODGE CHARGER WINDSHIELD WASHER FLUID RESERVOIR TANK OEM 05182852AB",
+        "number": "05182852AB / 05182852 AB\t",
+        "oem": "68125524AA / 68125524 AA\t",
+        "notes": ""
+    },
+    {
+        "id": "aRhKhcYOlTXyzlkYjiOmB",
+        "name": "2011-2023 DODGE CHARGER REAR RIGHT OR LEFT ABS WHEEL SPEED SENSOR OEM 04779642AC",
+        "number": "04779642AC / 04779642 AC",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "R75QUGo3M6C6DoXo5-ulP",
+        "name": "2018 - 2023 DODGE CHARGER RWD 3.6L ENGINE WIRE WIRING HARNESS OEM 68407700AB",
+        "number": "68407700AB / 68407700 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "kBjHku9dyzclxd8ZNC21T",
+        "name": "2018 - 2023 DODGE CHARGER FRONT RIGHT DOOR WIRE WIRING HARNESS OEM 68454473AA",
+        "number": "68454473AA / 68454473 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ObtuuWs1ZOUSJ-f30cmr8",
+        "name": "2018 - 2023 DODGE CHARGER FRONT LEFT DOOR WIRE WIRING HARNESS OEM 68454472AA",
+        "number": "68454472AA / 68454472 AA",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "_NKk_kKYtZXYb3vMAdKP6",
         "name": "2017 - 2023 MERCEDES GLS450 PARKING AID ASSIST SENSOR OEM A0009055504 WHITE=799U",
         "number": "A0009055504 / 0009055504 / 000 905 55 04",
@@ -3810,7 +3887,7 @@ export function App() {
     },
     {
         "id": "z27HClF5a2SlIMeB1y6h0",
-        "name": "2020-2022 LINCOLN AVIATOR 3.0L HEATER UPPER WATER COOLANT HOSE OEM L1M318C266BA",
+        "name": "2020- 2023 LINCOLN AVIATOR 3.0L HEATER UPPER WATER COOLANT HOSE OEM L1M318C266BA",
         "number": "L1M318C266BA / L1M318C266 BA / L1M3 18C266 BA",
         "oem": "L1MZ18472Q / L1MZ18472 Q / L1MZ 18472 Q",
         "notes": ""
@@ -5168,7 +5245,7 @@ export function App() {
     },
     {
         "id": "RL8mIJHF9sR9OjnoM6aZY",
-        "name": "2020 - 2023 LINCOLN AVIATOR FENDER FRONT RIGHT LOWER SHEILD OEM LB5BS16A578BC",
+        "name": "2020 - 2023 LINCOLN AVIATOR FRONT RIGHT FENDER LOWER SHEILD OEM LB5BS16A578BC",
         "number": "LB5BS16A578BC / LB5BS16A578 BC / LB5B S16A578 BC",
         "oem": "LB5Z16G554A / LB5Z16G554 A / LB5Z 16G554 A",
         "notes": ""
@@ -5715,7 +5792,7 @@ export function App() {
     },
     {
         "id": "Ie4trUeENiCcT29lT9lzM",
-        "name": "2020 - 2023 LINCOLN AVIATOR FRONT RIGHT FENDER REFLECTOR MARKER OEM LC5B15A424A",
+        "name": "2020 - 2023 LINCOLN AVIATOR FRONT RIGHT BUMPER REFLECTOR MARKER OEM LC5B15A424A",
         "number": "LC5B15A424A / LC5B15A424 A / LC5B 15A424 A, EJ7B15A424A / EJ7B15A424 A / EJ7B 15A424 A",
         "oem": "LC5Z15A201C / LC5Z15A201 C / LC5Z 15A201 C",
         "notes": ""
@@ -5778,7 +5855,7 @@ export function App() {
     },
     {
         "id": "KzzHThrcnz0KVzw6wvbtt",
-        "name": "2020- 2023 LINCOLN AVIATOR REAR RIGHT TAILGATE POWER SUPPORT STRUT LC5BS402A54AD",
+        "name": "2020 - 2023 LINCOLN AVIATOR REAR RIGHT TAILGATE LIFT SUPPORT OEM LC5BS402A54AD",
         "number": "LC5BS402A54AD / LC5BS402A54 AD / LC5B S402A54 AD",
         "oem": "LC5Z14B350A / LC5Z14B350 A / LC5Z 14B350 A, LC5Z14B350B / LC5Z14B350 B / LC5Z 14B350 B",
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -42326,14 +42403,14 @@ export function App() {
         },
         {
             "id": "rWf8_TPGbHGDDd1uBZhYS",
-            "name": "2020 - 2023 DODGE CHARGER REAR LEFT SIDE DOOR WIRE WIRING HARNESS OEM 68454474AA",
+            "name": "2018 - 2023 DODGE CHARGER REAR LEFT SIDE DOOR WIRE WIRING HARNESS OEM 68454474AA",
             "number": "68454474AA / 68454474 AA",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "mFM9029VTYHJGhY6a7_az",
-            "name": "2020 -2023 DODGE CHARGER REAR RIGHT SIDE DOOR WIRE WIRING HARNESS OEM 68454474AA",
+            "name": "2018 -2023 DODGE CHARGER REAR RIGHT SIDE DOOR WIRE WIRING HARNESS OEM 68454474AA",
             "number": "68454474AA / 68454474 AA",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
@@ -42635,7 +42712,7 @@ export function App() {
         },
         {
             "id": "7Tjwylz7q63ezFvPPr5AW",
-            "name": "2015 - 2023 DODGE CHARGER FRONT RIGHT DOOR LOCK LATCH ACTUATOR OEM 04589916AG",
+            "name": "2011 - 2023 DODGE CHARGER FRONT RIGHT DOOR LOCK LATCH ACTUATOR OEM 04589916AG",
             "number": "04589916AG / 04589916 AG",
             "oem": "",
             "notes": ""
@@ -71534,9 +71611,9 @@ export function App() {
         },
         {
             "id": "LA4evea_ctod-ySz6yp5-",
-            "name": "2011 - 2023 DODGE CHARGER ENGINE COOLING RADIATOR FAN ASSEMBLY OEM 55111282AC",
+            "name": "2009 - 2023 DODGE CHARGER ENGINE COOLING RADIATOR FAN MOTOR OEM 55111282AC",
             "number": "55111282AC / 55111282 AC\t",
-            "oem": "",
+            "oem": "68050129AA / 68050129 AA",
             "notes": ""
         },
         {
@@ -71594,20 +71671,6 @@ export function App() {
             "number": "0199645AB / 0199645 AB\t",
             "oem": "5YT24DX9AA / 5YT24DX9 AA",
             "notes": ""
-        },
-        {
-            "id": "M_NbQbTww2xmd8KGkweuc",
-            "name": "2012 - 2023 DODGE CHARGER REAR RIGHT SUSPENSION COIL SPRING OEM 05168889AC",
-            "number": "05168889AC / 05168889 AC\t",
-            "oem": "5168889AA / 5168889 AA\t",
-            "notes": "FITS ANY SIDES, RIGHT AND LEFT"
-        },
-        {
-            "id": "g3cXOrJyv-ScDW3J5dhQx",
-            "name": "2012 - 2023 DODGE CHARGER REAR LEFT SUSPENSION COIL SPRING OEM 05168889AC",
-            "number": "05168889AC / 05168889 AC\t",
-            "oem": "5168889AA / 5168889 AA\t",
-            "notes": "FITS ANY SIDES, RIGHT AND LEFT"
         },
         {
             "id": "FFag3SX3gHlX9jGFnC_fJ",
