@@ -9712,7 +9712,7 @@ export function App() {
     },
     {
         "id": "qOsyRiVV3oGCFMT2PauiV",
-        "name": "2019 - 2023 RAM 1500 CLASSIC RWD 5.7L POWER STEERING COLUMN OEM 68262518AC",
+        "name": "2019 - 2023 RAM 1500 CLASSIC RWD 5.7L STEERING COLUMN ASSEMBLY OEM 68262518AC",
         "number": "68262518AC / 68262518 AC",
         "oem": "",
         "notes": ""
@@ -10909,7 +10909,7 @@ export function App() {
     },
     {
         "id": "5SUiyuoKBNRh_oLfmYnCP",
-        "name": "2015 - 2019 FORD TRANSIT-150 3.7L POWER STEERING COLUMN ASSEMBLY OEM CK413C529GA",
+        "name": "2015 - 2019 FORD TRANSIT-150 RWD 3.7L STEERING COLUMN ASSEMBLY OEM CK413C529GA",
         "number": "CK413C529GA / CK413C529 GA / CK41 3C529 GA\t",
         "oem": "CK4Z3C529F / CK4Z3C529 F / CK4Z 3C529 F",
         "notes": ""
@@ -12582,7 +12582,7 @@ export function App() {
     },
     {
         "id": "gDDBal7B4yTdT6cdLlXyj",
-        "name": "2016 - 2021 CHEVROLET MALIBU FWD 1.5L POWER STEERING COLUMN 101K OEM 23401568",
+        "name": "2016 - 2021 CHEVROLET MALIBU FWD 1.5L STEERING COLUMN ASSEMBLY 101K OEM 23401568",
         "number": "23401568",
         "oem": "84703391, 84625118",
         "notes": ""
@@ -16327,7 +16327,7 @@ export function App() {
     },
     {
         "id": "pRXOcR0V0HkjtqFs_HBl8",
-        "name": "2020 - 2023 FORD TRANSIT-350 POWER STEERING COLUMN ASSEMBLY OEM LK413C529CC",
+        "name": "2020 - 2023 FORD TRANSIT-350 RWD 3.5L STEERING COLUMN ASSEMBLY OEM LK413C529CC",
         "number": "LK413C529CC / LK413C529 CC / LK41 3C529 CC\t",
         "oem": "LK4Z3C529A / LK4Z3C529 A / LK4Z 3C529 A",
         "notes": ""
