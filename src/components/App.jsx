@@ -8,6 +8,174 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "IlqNYO4qy99ZRlMsrTwAc",
+        "name": "2014 - 2023 DODGE CHARGER FRONT RIGHT ROOF SUN VISOR OEM 5PJ79DX9AC BLACK=BPX9",
+        "number": "5PJ79DX9AC / 5PJ79DX9 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ykkrcxPe2_Gm0P6VUYQ49",
+        "name": "2015 - 2023 DODGE CHARGER STEERING WHEEL BLACK LEATHER W/ BUTTON OEM 5LE642X9AG",
+        "number": "5LE642X9AG / 5LE642X9 AG",
+        "oem": "6VD88YSAAA / 6VD88YSA AA\t",
+        "notes": ""
+    },
+    {
+        "id": "UVSRhqOvbXdjSXc49bh3i",
+        "name": "2012-2023 DODGE CHARGER RWD 3.6L FRONT RIGHT SHOCK STRUT ABSORBER OEM 05168871AC",
+        "number": "05168871AC / 05168871 AC / 0 5168871 AC\t",
+        "oem": "68544265AA / 68544265 AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "2fjCmyKMOqgDFVS9Wks68",
+        "name": "2019 16 17 18 20 21 22 23 DODGE CHARGER FRONT RIGHT DOOR SPEAKER OEM 05091019AB",
+        "number": "05091019AB / 05091019 AB / 0 5091019 AB",
+        "oem": "2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022 / 2023",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "fsOrDryCjbH5RbXePrKlF",
+        "name": "2019 14 15 16 17 18 20 21 22 23 DODGE CHARGER DASH RIGHT SPEAKER OEM 05059062AB",
+        "number": "05059062AB / 05059062 AB",
+        "oem": "2014 / 2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "GDyMFydB2yd0tHIqYieFi",
+        "name": "2015 - 2023 DODGE CHARGER 3.6L SPEEDOMETER INSTRUMENT CLUSTER 58K OEM 68412297AB",
+        "number": "68412297AB / 68412297 AB",
+        "oem": "68412297AC / 68412297 AC",
+        "notes": ""
+    },
+    {
+        "id": "bQ_Z3ycIIXJyZBzUFOaAB",
+        "name": "2017 - 2023 DODGE CHARGER REAR SEAT RIGHT BOLSTER CUSHION COVER OEM 6RM701X9AA",
+        "number": "6RM701X9AA / 6RM701X9 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "AWgJueEwUATOMLIxCPUlE",
+        "name": "2017 - 2023 DODGE CHARGER REAR SEAT LEFT BOLSTER CUSHION COVER OEM 6RM711X9AA",
+        "number": "6RM711X9AA / 6RM711X9 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "EtzT_ZUjt5Uskg9mIRtN6",
+        "name": "2019 - 2023 DODGE CHARGER REAR RIGHT OUTER SEAT BELT RETRACTOR OEM 6KE12DX9AB",
+        "number": "6KE12DX9AB / 6KE12DX9 AB",
+        "oem": "6KE12DX9AC / 6KE12DX9 AC\t",
+        "notes": ""
+    },
+    {
+        "id": "6s-Q5Z0i84ZhItPNfLtvE",
+        "name": "2019 - 2023 DODGE CHARGER REAR LEFT OUTER SEAT BELT RETRACTOR OEM 6KE11DX9AB",
+        "number": "6KE11DX9AB / 6KE11DX9 AB",
+        "oem": "6KE11DX9AC / 6KE11DX9 AC\t",
+        "notes": ""
+    },
+    {
+        "id": "f7iBnAR5CVpR_4djtUWMx",
+        "name": "2018 - 2020 DODGE CHARGER DASH CENTER 7\" SCREEN DISPLAY MONITOR OEM 68399221AC",
+        "number": "68399221AC / 68399221 AC\t",
+        "oem": "68428468AC / 68428468 AC\t",
+        "notes": ""
+    },
+    {
+        "id": "hmVTaJTwQJYXMEZSNiPg_",
+        "name": "2006- 2023 DODGE CHARGER FRONT RIGHT UPPER RADIATOR MOUNT BRACKET OEM 04596474AD",
+        "number": "04596474AD / 04596474 AD",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "MFTSxD3Le4X_DvxOreild",
+        "name": "2006 - 2023 DODGE CHARGER FRONT LEFT UPPER RADIATOR MOUNT BRACKET OEM 04596474AD",
+        "number": "04596474AD / 04596474 AD",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "sOxZYsbddpR41neQeRs5V",
+        "name": "2011- 2023 DODGE CHARGER REAR CONSOLE DECK SHELF TRIM COVER PANEL OEM 1LM50DX9AO",
+        "number": "1LM50DX9AO / 1LM50DX9 AO\t",
+        "oem": "1LM50DX9AP / 1LM50DX9 AP\t",
+        "notes": ""
+    },
+    {
+        "id": "sOZ2lFL2WuOgLRPU47rK5",
+        "name": "2015- 2019 DODGE CHARGER REAR LEFT QUARTER TRUNK LOWER TRIM COVER OEM 68202776AD",
+        "number": "68202776AD / 68202776 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "X1vzB1wO0DtW0b2h7l9oZ",
+        "name": "2015 - 2023 DODGE CHARGER REAR BUMPER AID PARKING SENSOR OEM 5MK60TRMAC GRAY=PAR",
+        "number": "5MK60TRMAC / 5MK60TRM AC",
+        "oem": "5MK60TZZAC / 5MK60TZZ AC",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "DmLjGhJ3YreOIh5GnslQ3",
+        "name": "2019 - 2023 DODGE CHARGER TRUNK LID REAR VIEW PARKING AID CAMERA OEM 04672761AC",
+        "number": "04672761AC / 04672761 AC\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "W3yRtAN36x4iBz0ODB9BD",
+        "name": "2015 - 2023 DODGE CHARGER FRONT CENTER CONSOLE STORAGE TRAY MAT OEM 0199026AC",
+        "number": "0199026AC / 0199026 AC\t",
+        "oem": "68105184AB / 68105184 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "yYEvGqgQ0PzfOU_7lEHPn",
+        "name": "2015 - 2023 FORD TRANSIT-350 3.5L ENGINE LEFT UPPER MOUNT BRACKET OEM CK446061BA",
+        "number": "CK446061BA / CK446061 BA / CK44 6061 BA\t",
+        "oem": "CK4Z6038B / CK4Z6038 B / CK4Z 6038 B",
+        "notes": ""
+    },
+    {
+        "id": "g4OGszRx04T5Iz8Y_KPf9",
+        "name": "2015 - 2022 DODGE CHARGER 3.6L ENGINE FUSE RELAY BOX UPPER COVER OEM 7271381730",
+        "number": "7271381730 / 7271 3817 30\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "o7hKGPI2CB4cHsEqRjBcw",
+        "name": "2015-2023 DODGE CHARGER REAR CONSOLE BACK USB CHARGER PORT SWITCH OEM 68253158AA",
+        "number": "68253158AA / 68253158 AA\t",
+        "oem": "68253158AB / 68253158 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "jcGmFj-oc8R9bIcG1c2SZ",
+        "name": "2015 - 2023 DODGE CHARGER POWER DISTRIBUTION BOX CENTER BRACKET OEM 68244160AD",
+        "number": "68244160AD / 68244160 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "PFa6Ob1cePGztxV-Byf0R",
+        "name": "2015 - 2023 DODGE CHARGER FRONT CROSSMEMBER LEFT MOUNT BRACKET OEM 68249077AA",
+        "number": "68249077AA / 68249077 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mOKOTIodK1TJf12w9Cm0y",
+        "name": "2011 - 2023 DODGE CHARGER REAR TRUNK DECK LID LATCH LOCK ACTUATOR OEM 06499217AF",
+        "number": "06499217AF / 06499217 AF\t",
+        "oem": "04589217AF / 04589217 AF",
+        "notes": ""
+    },
+        {
         "id": "UvEwIsAa214dB8em-8iFA",
         "name": "2011 - 2023 DODGE CHARGER REAR RIGHT DOOR LATCH LOCK ACTUATOR OEM 04589914AE",
         "number": "04589914AE / 04589914 AE / 0 4589914 AE",
@@ -42495,7 +42663,7 @@ export function App() {
         },
         {
             "id": "omSiXRBVMSeWaRMQAOtUJ",
-            "name": "2017 - 2023 DODGE CHARGER 3.6L STARTER MOTOR ASSEMBLY 41K MILEAGE OEM 56029852AB",
+            "name": "2017 - 2023 DODGE CHARGER 3.6L ENGINE STARTER MOTOR 58K MILEAGE OEM 56029852AB",
             "number": "56029852AB / 56029852 AB",
             "oem": "",
             "notes": ""
@@ -42546,7 +42714,7 @@ export function App() {
             "id": "IN0tjVDovYBxXgzeufJjg",
             "name": "2012 - 2023 DODGE CHARGER 3.6L TRANSMISSION OIL COOLER LINE TUBE OEM 55111280AF",
             "number": "55111280AF / 55111280 AF",
-            "oem": "",
+            "oem": "55111280AG / 55111280 AG",
             "notes": ""
         },
         {
@@ -42565,7 +42733,7 @@ export function App() {
         },
         {
             "id": "Otbqx_VzyDWa-oV_4erH9",
-            "name": "2011 - 2023 DODGE CHARGER FRONT LEFT SIDE SEAT ADJUSTMENT SWITCH OEM 56049433AE",
+            "name": "2006 - 2023 DODGE CHARGER FRONT LEFT SIDE SEAT ADJUSTMENT SWITCH OEM 56049433AE",
             "number": "56049433AE / 56049433 AE",
             "oem": "56049433AF / 56049433 AF",
             "notes": ""
@@ -42586,7 +42754,7 @@ export function App() {
         },
         {
             "id": "jb7R2OGcV5FH6mq0PHFAw",
-            "name": "2012 - 2023 DODGE CHARGER AUTO TRANSMISSION MOUNT BRACKET SUPPORT OEM 05147200AD",
+            "name": "2012 - 2023 DODGE CHARGER 3.6L TRANSMISSION MOUNT BRACKET SUPPORT OEM 05147200AD",
             "number": "05147200AD / 05147200 AD",
             "oem": "",
             "notes": ""
@@ -42606,15 +42774,8 @@ export function App() {
             "notes": ""
         },
         {
-            "id": "kCpyVdgf2UUMTRw1rHBIm",
-            "name": "2015 - 2023 DODGE CHARGER LEFT SIDE RADIATOR AIR SEAL OEM 68212037AB",
-            "number": "68212037AB / 68212037 AB",
-            "oem": "",
-            "notes": ""
-        },
-        {
             "id": "DPbH9ZHYn3NcNXnC6BqH-",
-            "name": "2015 - 2023 DODGE CHARGER RIGHT SIDE RADIATOR AIR SEAL OEM 68212036AB",
+            "name": "2015 - 2023 DODGE CHARGER FRONT RIGHT SIDE RADIATOR AIR SEAL OEM 68212036AB",
             "number": "68212036AB / 68212036 AB\t",
             "oem": "",
             "notes": ""
@@ -70622,7 +70783,7 @@ export function App() {
         },
         {
             "id": "XsYsZ8buCfOjxoqkRC-NH",
-            "name": "2011 -2023 DODGE CHARGER FRONT LEFT SEAT LUMBAR ADJUSTMENT SWITCH OEM 56046232AB",
+            "name": "2011 -2020 DODGE CHARGER FRONT LEFT SEAT LUMBAR ADJUSTMENT SWITCH OEM 56046232AB",
             "number": "56046232AB / 56046232 AB\t",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT"
@@ -71352,14 +71513,14 @@ export function App() {
         },
         {
             "id": "Ybv0t-vLhZh4JBrb1iTc2",
-            "name": "2012 - 2023 DODGE CHARGER FRONT RIGHT SIDE SHOCK STRUT CAP COVER OEM 04782982AB",
+            "name": "2006 - 2023 DODGE CHARGER FRONT RIGHT SIDE SHOCK STRUT CAP COVER OEM 04782982AB",
             "number": "04782982AB / 04782982 AB\t",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT"
         },
         {
             "id": "RyTWPhKYR39c62Y7nEKoG",
-            "name": "2012 - 2023 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT CAP COVER OEM 04782982AB",
+            "name": "2006 - 2023 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT CAP COVER OEM 04782982AB",
             "number": "04782982AB / 04782982 AB\t",
             "oem": "",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT"
@@ -71417,7 +71578,7 @@ export function App() {
             "id": "TGbePy_mNUcY4EFoNQqnC",
             "name": "2011 - 2023 DODGE CHARGER 3.6L ENGINE INLET AIR INTAKE MANIFOLD OEM 05184693AE",
             "number": "05184693AE / 05184693 AE",
-            "oem": "",
+            "oem": "68621090AA / 68621090 AA",
             "notes": ""
         },
         {
