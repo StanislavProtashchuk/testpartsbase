@@ -227,7 +227,7 @@ export function App() {
     {
         "id": "XFTWDTh0A389dudS8cW8I",
         "name": "2021 18 19 20 22 23 TESLA MODEL 3 EXTERNAL LOUD WARNING SPEAKER OEM 129996500A",
-        "number": "129996500A / 129996500 A / 1299965 00 A\t",
+        "number": "129996500A / 129996500 A / 1299965 00 A",
         "oem": "",
         "notes": ""
     },
