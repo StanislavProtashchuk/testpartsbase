@@ -220,7 +220,7 @@ export function App() {
     {
         "id": "XW-uHFkMq2Gk0aMlqOGuO",
         "name": "2017-2023 TESLA MODEL 3 FRONT FRUNK CLOSEOUT TRIM COVER W/ SWITCH OEM 155557800A",
-        "number": "155557800A / 155557800 A / 1555578 00 A\t",
+        "number": "155557800A / 155557800 A / 1555578 00 A",
         "oem": "155557900B / 155557900 B / 1555579 00 B",
         "notes": ""
     },
