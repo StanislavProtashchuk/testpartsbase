@@ -1306,14 +1306,14 @@ export function App() {
         "id": "rYRVKEpadKWLZ2p3JQl7n",
         "name": "2017 - 2023 TESLA MODEL 3 DASH RIGHT LOWER AIR DUCT GRILLE OEM 1095418J",
         "number": "1095418J / 1095418 J / 10954 18 J\t",
-        "oem": "",
+        "oem": "2080546X / 2080546 X / 20805 46 X",
         "notes": ""
     },
     {
         "id": "P2sLDIO551hDitx3vhyK3",
         "name": "2017- 2023 TESLA MODEL 3 FRONT DASH LEFT LOWER AIR DUCT VENT GRILLE OEM 1095416J",
         "number": "1095416J / 1095416 J / 10954 16 J\t",
-        "oem": "",
+        "oem": "2080547X / 2080547 X / 20805 47 X",
         "notes": ""
     },
     {
@@ -1668,7 +1668,7 @@ export function App() {
     },
     {
         "id": "HOCnVd60fCEJLEGt0nQD-",
-        "name": "2017 - 2023 TESLA MODEL 3 REAR TRUNK LID LICANSE PLATE LIGHT LAMP OEM 144973000B",
+        "name": "2017 - 2023 TESLA MODEL 3 REAR TRUNK LID LICENSE PLATE LIGHT LAMP OEM 144973000B",
         "number": "144973000B / 144973000 B / 1449730 00 B\t",
         "oem": "",
         "notes": ""
@@ -1681,13 +1681,6 @@ export function App() {
         "notes": "FITS ANY SIDES, RIGHT AND LEFT."
     },
     {
-        "id": "zWbmzkzC2OuCJ7Wtrj0Ec",
-        "name": "2017 - 2023 TESLA MODEL 3 FRONT LEFT DOOR WINDOW INNER BELT SEAL OEM 152811410",
-        "number": "152811410",
-        "oem": "109049500E / 109049500 E / 1090495 00 E",
-        "notes": "1803118"
-    },
-    {
         "id": "JF7-sDd5JrYUg_gJ7lWw1",
         "name": "2017 - 2023 TESLA MODEL 3 RWD BATTERY NEGATIVE CABLE WIRE HARNESS OEM 158289100B",
         "number": "158289100B / 158289100 B / 1582891 00 B",
@@ -1696,7 +1689,7 @@ export function App() {
     },
     {
         "id": "wuOOpfpbj2yFTvhQK3Cuq",
-        "name": "2017-2023 TESLA MODEL 3 HVAC A/C HEATER AIR INTAKE TUBE BESONATOR OEM 158827500A",
+        "name": "2017-2023 TESLA MODEL 3 HVAC A/C HEATER AIR INTAKE TUBE RESONATOR OEM 158827500A",
         "number": "158827500A / 158827500 A / 1588275 00 A\t",
         "oem": "",
         "notes": ""
