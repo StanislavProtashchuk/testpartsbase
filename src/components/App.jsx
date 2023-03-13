@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useCallback, useMemo, useEffect } from 'react';
 import { nanoid } from "nanoid";
 import ContactForm from "./ContactForm";
 import Filter from './Filter';
@@ -7,6 +7,321 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "pH_P0sT6nGvBMgLckjt1l",
+        "name": "2016 - 2019 LEXUS RX350 INTERIOR FLOOR CARPET COVER LINER MAT OEM BLACK=EA24",
+        "number": "585100E310C3 / 585100E310 C3 / 58510 0E310 C3",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "dMKoiVsjjO-ogKxNkrR00",
+        "name": "2016 - 2022 LEXUS RX350 REAR RIGHT SEAT RECLINE HANDLE OEM 720530E020 BLACK=EA24",
+        "number": "720530E020C0 / 720530E020 C0 / 72053 0E020 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "A_odWTf1BPnp6brfC-uNM",
+        "name": "2016- 2019 LEXUS RX350 REAR LEFT QUARTER UPPER TRIM BOLSTER COVER OEM 625260E010",
+        "number": "625260E010C0 / 625260E010 C0 / 62526 0E010 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "9ijTr3sooexwXuEtZWEde",
+        "name": "2016-2019 LEXUS RX350 REAR RIGHT QUARTER UPPER TRIM BOLSTER COVER OEM 625250E030",
+        "number": "625250E030C0 / 625250E030 C0 / 62525 0E030 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "oGqUJ8K5GMJcVA1qxB8RR",
+        "name": "2017 - 2022 LEXUS RX350 BASE REAR LEFT SIDE LEATHER SEAT ASSEMBLY OEM BLACK=EA24",
+        "number": "710780E320C4 / 710780E320 C4 / 71078 0E320 C4\t",
+        "oem": "710760E320C3 / 710760E320 C3 / 71076 0E320 C3, 710180E100 / 71018 0E100, 791020E131 / 79102 0E131\t",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "6vcD_8aK5cS9XHIaUGAgx",
+        "name": "2016 - 2022 LEXUS RX350 REAR SEAT CENTER LEATHER ARMREST COVER OEM BLACK=EA24",
+        "number": "728300E300C5 / 728300E300 C5 / 72830 0E300 C5\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "49JPTikc49-mlRxG_lLx1",
+        "name": "2016 - 2022 LEXUS RX350 3.5L UPPER RADIATOR MOUNT BRACKET SUPPORT TIE BAR OEM",
+        "number": "532050E030 / 53205 0E030\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "my0ezNXg8G0BP6ftbqZAg",
+        "name": "2016 - 2022 LEXUS RX350 FRONT UPPER RADIATOR VERTICAL MOUNT BRACKET SUPPORT OEM",
+        "number": "530210E010 / 53021 0E010\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Twp_utG1s18rxFN_0TcBe",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT SEAT BELT SEATBELT RETRACTOR OEM BLACK=EA24",
+        "number": "733700E110C1 / 733700E110 C1 / 73370 0E110 C1",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "GaWVVlpwnzrrdJhpL2mBO",
+        "name": "2017 - 2022 LEXUS RX350 REAR RIGHT SEAT BELT SEATBELT BUCKLE OEM BLACK=EA24",
+        "number": "733800E171C0 / 733800E171 C0 / 73380 0E171 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "eViDv5LDtFfJgvy80x7_Z",
+        "name": "2016 - 2022 LEXUS RX350 REAR CENTER SEAT BELT SEATBELT RETRACTOR OEM BLACK=EA24",
+        "number": "733500E130C2 / 733500E130 C2 / 73350 0E130 C2",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "3MARJSw7xo7Wx36_JkjO4",
+        "name": "2016- 2022 LEXUS RX350 REAR TAILGATE UPPER SPOILER COVER OEM 760850E150 BLUE=8X5",
+        "number": "760850E150 / 76085 0E150",
+        "oem": "760850E916 / 76085 0E916\t",
+        "notes": ""
+    },
+    {
+        "id": "HIun3gXnPxjxjCGBKRKZb",
+        "name": "2016 - 2022 LEXUS RX350 LEFT SIDE ROCKER MOLDING COVER PANEL OEM 758600E030",
+        "number": "758600E030 / 75860 0E030",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "-03DL3g5AM11IxAfguoqq",
+        "name": "2016 - 2022 LEXUS RX350 RIGHT SIDE ROCKER MOLDING COVER PANEL OEM 758500E030",
+        "number": "758500E030 / 75850 0E030",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "6nk2NTGG6IhwmRwMyF4LN",
+        "name": "2016 - 2019 LEXUS RX350 REAR BUMPER LEFT SIDE REFLECTOR MARKER LIGHT LAMP OEM",
+        "number": "8192048050 / 81920 48050\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "6PccUu3QVVvkZSrlkMh5u",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT SIDE DOOR HINGE UPPER & LOWER OEM BLUE=8X5",
+        "number": "6874048010 / 68740 48010",
+        "oem": "6872048010 / 68720 48010",
+        "notes": ""
+    },
+    {
+        "id": "XPI5xSkhCTGf2JXBDsmoa",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT DRIVER SIDE DOOR WINDOW BLACK TINT GLASS OEM",
+        "number": "681040E070 / 68104 0E070\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4al_JDNfMHeTtd_NCVfSU",
+        "name": "2016-2022 LEXUS RX350 REAR RIGHT PASSENGER SIDE DOOR WINDOW BLACK TINT GLASS OEM",
+        "number": "681030E080 / 68103 0E080\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "d1T4Ss5XRnQ_QTAq6zfA9",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT DOOR WINDOW MOVABLE BLACK TINT GLASS OEM",
+        "number": "681010E102 / 68101 0E102\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "L9Xst_kmyr_LHWF2Giu70",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT SIDE DOOR WINDOW BELT MOLDING WEATHERSTRIP OEM",
+        "number": "757400E090 / 75740 0E090",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "WxnwQ9Rtg_r9p3flmd2Ke",
+        "name": "2016- 2022 LEXUS RX350 REAR RIGHT SIDE DOOR WINDOW BELT MOLDING WEATHERSTRIP OEM",
+        "number": "757300E090 / 75730 0E090",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0Uct8rwcsaU15LIBYmzCp",
+        "name": "2018 - 2019 LEXUS RX350 FRONT DASH CENTER CLIMATE CONTROL MODULE OEM 861400E300",
+        "number": "861400E300 / 86140 0E300",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dSnLYGnXhnUy0Ps4lzraU",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT DOOR CORNER APPLIQUE MOLDING OEM 674880E080",
+        "number": "674880E080 / 67488 0E080",
+        "oem": "674800E010 / 67480 0E010\t",
+        "notes": ""
+    },
+    {
+        "id": "lp3oGHddprD8GxjSun68s",
+        "name": "2016 - 2022 LEXUS RX350 REAR RIGHT DOOR CORNER APPLIQUE MOLDING OEM 674870E080",
+        "number": "674870E080 / 67487 0E080",
+        "oem": "674700E010 / 67470 0E010\t",
+        "notes": ""
+    },
+    {
+        "id": "GBC8raI7-UvqyAoyDFfl4",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT DOOR WINDOW BELT MOLDING WEATHERSTRIP OEM",
+        "number": "757100E090 / 75710 0E090",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CetyMolIGXwXWG_PFpaIG",
+        "name": "2016 - 2022 LEXUS RX350 REAR RIGHT DOOR B PILLAR APPLIQUE MOLDING COVER OEM",
+        "number": "757070E030 / 75707 0E030",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "21jVO64e7NiR3DAuzgghE",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT DRIVER SIDE DOOR LATCH LOCK ACTUATOR OEM",
+        "number": "690600E050 / 69060 0E050",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ab0rvdTuUAmPhZWY6rZea",
+        "name": "2016 - 2022 LEXUS RX350 REAR RIGHT PASSENGER SIDE DOOR LATCH LOCK ACTUATOR OEM",
+        "number": "690500E050 / 69050 0E050",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "K0zP7yUaNDZshJ8wDNk94",
+        "name": "2016 - 2022 LEXUS RX350 FWD 3.5L ENGINE WATER COOLER COOLING RADIATOR OEM",
+        "number": "164000P500 / 16400 0P500",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "O1SM920KhQSK-9uqk2OWE",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT DRIVER SIDE QUARTER WINDOW GLASS OEM",
+        "number": "627200E180 / 62720 0E180\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "c5JVfwwIdPbwzL9EYjRfr",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT SIDE QUARTER UPPER TRIM COVER OEM 624800E160",
+        "number": "624800E160 / 62480 0E160",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "geedUl7vmoMGwMfCink7r",
+        "name": "2016 - 2022 LEXUS RX350 REAR RIGHT SIDE QUARTER UPPER TRIM COVER OEM 624700E160",
+        "number": "624700E160 / 62470 0E160",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "QXKE_U3dw-YszMIyg86ps",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT QUARTER TRIM COVER OEM 625520E120 BLACK=EA24",
+        "number": "625520E120C0 / 625520E120 C0 / 62552 0E120 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Uu05miwJaO3zfUPuqnUpE",
+        "name": "2016 - 2022 LEXUS RX350 REAR LEFT QUARTER TRUNK LOWER TRIM COVER OEM BLACK=EA24",
+        "number": "647400E100C1 / 647400E100 C1 / 64740 0E100 C1",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "65pKvKi6vvFltJlhydxMq",
+        "name": "2016 - 2022 LEXUS RX350 POWER BRAKE BOOSTER MASTER CYLINDER RESERVOIR TANK OEM",
+        "number": "472200E101 / 47220 0E101\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "-oiOTrJB89A4lOig--o4w",
+        "name": "2016 - 2022 LEXUS RX350 FWD 3.5L POWER BRAKE MASTER CYLINDER BOOSTER OEM",
+        "number": "446100E140 / 44610 0E140",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "elmCS-KQarJfksXLOn7On",
+        "name": "2016 - 2019 LEXUS RX350 REAR BUMPER PARKING AID SENSOR OEM 8934148040 BLUE=8X5",
+        "number": "8934148040J0 / 8934148040 J0 / 89341 48040 J0",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "zq4hl_fzoWlrCctqOe_fw",
+        "name": "2016 - 2019 LEXUS RX350 FRONT BUMPER PARKING AID SENSOR OEM 8934148040 BLUE=8X5",
+        "number": "8934148040J0 / 8934148040 J0 / 89341 48040 J0",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "88HoK_8Bc_gm5Sxi_vg1r",
+        "name": "2016- 2022 LEXUS RX350 3.5L TRANSMISSION OIL COOLER INLET & OUTLET LINE HOSE OEM",
+        "number": "329300E130 / 32930 0E130\t",
+        "oem": "3290448200 / 32904 48200, 329300E140 / 32930 0E140, 3290548240 / 32905 48240",
+        "notes": ""
+    },
+    {
+        "id": "vb8Br9ypZPvdBRwmsgmjc",
+        "name": "2016- 2019 LEXUS RX350 REAR LEFT OR RIGHT BLIND SPOT RADAR SENSOR OEM 881620E060",
+        "number": "881620E060 / 88162 0E060\t",
+        "oem": "881620E061 / 88162 0E061",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "6Eq_lDvbcI9_HtSNJTBNd",
+        "name": "2016- 2019 LEXUS RX350 REAR RIGHT OR LEFT BLIND SPOT RADAR SENSOR OEM 881620E060",
+        "number": "881620E060 / 88162 0E060",
+        "oem": "881620E061 / 88162 0E061",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "sCE-YYTKT6ioWCLsSRo17",
+        "name": "2016 - 2019 LEXUS RX350 FRONT CRUISE CONTROL DISTANCE SENSOR OEM 8821006020",
+        "number": "8821006020 / 88210 06020",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dxuucLQ4TCkcx7g4FKAK5",
+        "name": "2016 - 2019 LEXUS RX350 REAR TAILGATE PARKING AID ASSIST CAMERA OEM 867B00E061",
+        "number": "867B00E061 / 867B0 0E061\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "uer8SmvxSFJ40QRto6UD9",
+        "name": "2018 - 20192 LEXUS RX350 FRONT WINDSHIELD LANE DEPARTURE CAMERA OEM 8646C0E032",
+        "number": "8646C0E032 / 8646C 0E032",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "UBE0-Q1F68ZdRNYB4Gc_G",
+        "name": "2016- 2019 LEXUS RX350 BASE FRONT BUMPER LEFT MOLDING COVER PANEL OEM 524380E010",
+        "number": "524380E010 / 52438 0E010\t",
+        "oem": "",
+        "notes": ""
+    },
         {
         "id": "J9doMM47pjyrRa3vGU5Vj",
         "name": "2019 17 18 20 21 22 LEXUS RX350 FRONT RIGHT OR LEFT DOOR SPEAKER OEM 861600E290",
@@ -79687,8 +80002,7 @@ export function App() {
 
     const [filter, setFilter] = useState(() => '');
 
-
-    function formSubmitHandler({ name, number, oem, notes }) {
+        const formSubmitHandler = useCallback(({ name, number, oem, notes }) => {
         if (contacts.map(contact => contact.name.toLowerCase()).includes(name.toLowerCase())) {
             return alert(`${name} is already in contacts`)
         };
@@ -79702,32 +80016,44 @@ export function App() {
         };
 
         setContacts(contacts => ([...contacts, contact]));
-    };
+    }, [contacts]);
 
-    function handleFilter(e) {
+    const handleFilter = useCallback((e) => {
         const { value } = e.currentTarget;
         setFilter(value);
-    };
+    }, []);
 
-    function filteredContacts() {
-    return contacts.filter(contact => {
-        const searchTerms = filter.toLowerCase().trim().split(' ');
-        return searchTerms.every(term => {
-            const contactInfo = `${contact.name.toLowerCase()} ${contact.number.toLowerCase()} ${contact.oem.toLowerCase()} ${contact.notes.toLowerCase()}`;
-            return contactInfo.includes(term);
+    const filteredContacts = useMemo(() => {
+        return contacts.filter(contact => {
+            const searchTerms = filter.toLowerCase().trim().split(' ');
+            return searchTerms.every(term => {
+                const contactInfo = `${contact.name.toLowerCase()} ${contact.number.toLowerCase()} ${contact.oem.toLowerCase()} ${contact.notes.toLowerCase()}`;
+                return contactInfo.includes(term);
+            });
         });
-    });
-};
+    }, [contacts, filter]);
 
-    function deleteContact(id) {
+    const deleteContact = useCallback((id) => {
         setContacts(contacts =>
             contacts.filter(contact => contact.id !== id))
-    };
+    }, []);
+
+    const handleStorageChange = useCallback((e) => {
+        const storedContacts = e.newValue;
+        setContacts(JSON.parse(storedContacts));
+    }, []);
 
     useEffect(() => {
         window.localStorage.setItem('contacts', JSON.stringify(contacts));
-    })
+    }, [contacts]);
 
+    useEffect(() => {
+        window.addEventListener('storage', handleStorageChange);
+
+        return () => {
+            window.removeEventListener('storage', handleStorageChange);
+        };
+    }, [handleStorageChange]);
 
     return (
         <div>
@@ -79735,7 +80061,9 @@ export function App() {
             <ContactForm onSubmit={formSubmitHandler} />
             <h2>Contacts</h2>
             <Filter value={filter} onChange={handleFilter} />
-            <ContactList filteredContacts={filteredContacts()} deleteContact={deleteContact} />
+            <ContactList filteredContacts={filteredContacts} deleteContact={deleteContact} />
         </div>
     );
 }
+
+export default App;
