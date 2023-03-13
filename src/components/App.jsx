@@ -7,6 +7,188 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "J9doMM47pjyrRa3vGU5Vj",
+        "name": "2019 17 18 20 21 22 LEXUS RX350 FRONT RIGHT OR LEFT DOOR SPEAKER OEM 861600E290",
+        "number": "861600E290 / 86160 0E290",
+        "oem": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022\t",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "9LN5O7DS7DrWR6SBISVjD",
+        "name": "2019 17 18 20 21 22 LEXUS RX350 FRONT LEFT OR RIGHT DOOR SPEAKER OEM 861600E200",
+        "number": "861600E200 / 86160 0E200\t",
+        "oem": "861600E290 / 86160 0E290\t",
+        "notes": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022"
+    },
+    {
+        "id": "Af5w2RqIykVv9ZQP3OXVq",
+        "name": "2019 16 17 18 20 21 22 LEXUS RX350 DASH LEFT OR RIGHT SPEAKER OEM 861600E280",
+        "number": "861600E280 / 86160 0E280\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "bM_f-dt4F4FRzGnzNNv8x",
+        "name": "2019 16 17 18 20 21 22 LEXUS RX350 DASH RIGHT OR LEFT SPEAKER OEM 861600E280",
+        "number": "861600E280 / 86160 0E280",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "3NU3kaeOKOQBbS39JbEQu",
+        "name": "2019 17 18 20 21 2022 LEXUS RX350 REAR RIGHT DOOR TWEETER SPEAKER OEM 861500E040",
+        "number": "861500E040 / 86150 0E040",
+        "oem": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "AQQ0KKhzObfMA0VLzSboH",
+        "name": "2016-2019LEXUS RX350 FRONT RIGHT UNDER ENGINE SPLASH SHIEL GUARD OEM 514410E120",
+        "number": "514410E120 / 51441 0E120\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "iwrIRxcRI4pU0-s07A-qj",
+        "name": "2016- 2019LEXUS RX350 FRONT LEFT UNDER ENGINE SPLASH SHIEL GUARD OEM 514430E030",
+        "number": "514430E030 / 51443 0E030\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "eAxN005SdWQEO7doh6DXj",
+        "name": "2019 16 17 18 20 21 22 LEXUS RX350 FRONT DASH CENTER SPEAKER OEM 861600E270",
+        "number": "861600E270 / 86160 0E270",
+        "oem": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022",
+        "notes": ""
+    },
+    {
+        "id": "_Ioy4_zdnR6DIW2TtsZ1Q",
+        "name": "2016 - 2022 LEXUS RX350 FRONT UNDER ENGINE REARWARD SPLASH SHIELD OEM 514420E050",
+        "number": "514420E050 / 51442 0E050\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "x56KQYhUezGb5ohllWPOb",
+        "name": "2016-2022 LEXUS RX350 FRONT LEFT DOOR SILL SCUFF PLATE OEM 679200E040 BLACK=EA24",
+        "number": "679200E040C0 / 679200E040 C0 / 67920 0E040 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "C0yu_xnKm5AhuIpm8dTc6",
+        "name": "2016- 2019 LEXUS RX350 REAR LEFT DOOR SILL SCUFF PLATE OEM 679400E030 BLACK=EA24",
+        "number": "679400E030C0 / 679400E030 C0 / 67940 0E030 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "DGUhZO8psLvp-DYGbrEdQ",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT DOOR SILL PLATE OEM 679100E040 BLACK=EA24",
+        "number": "679100E040C0 / 679100E040 C0 / 67910 0E040 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "zr9yUHIkDUoyzR3BeLUMo",
+        "name": "2018 - 2019 LEXUS RX350 BASE SPEEDOMETER INSTRUMENT CLUSTER 52K OEM 838000EB30",
+        "number": "838000EB30 / 83800 0EB30",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "HuCgOIO6akl5r8UoPg0sV",
+        "name": "2016-2022 LEXUS RX350 REAR RIGHT SEAT TRACK TRIM COVER OEM 721570E140 BLACK=EA24",
+        "number": "721570E140C0 / 721570E140 C0 / 72157 0E140 C0",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CCzXE4MEpQgjemAPuoQb3",
+        "name": "2016- 2022 LEXUS RX350 FRONT RIGHT SEAT TRACK TRIM COVER SET OF 4 OEM BLACK=EA24",
+        "number": "721230E150C0 / 721230E150 C0 / 72123 0E150 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "SBBh6fBL1uYdqnEt2NyJh",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT SEAT INNER COVER OEM 718610E080 BLACK=EA24",
+        "number": "718610E080C0 / 718610E080 C0 / 71861 0E080 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "K0kvW_HCDSXvO5wa6WRZw",
+        "name": "2016-2022 LEXUS RX350 FRONT LEFT SEAT INNER TRIM COVER OEM 718620R060 BLACK=EA24",
+        "number": "718620R060C0 / 718620R060 C0 / 71862 0R060 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Hb_CCfMzEp4eusoyVkDfg",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT SEAT OUTER COVER OEM 718110E180 BLACK=EA24",
+        "number": "718110E180C0 / 718110E180 C0 / 71811 0E180 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "v1c3ZoaMrHt_qR_Cfvz8U",
+        "name": "2016 - 2022 LEXUS RX350 FRONT LEFT SEAT OUTER COVER OEM 718120E210 BLACK=EA24",
+        "number": "718120E210C0 / 718120E210 C0 / 71812 0E210 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "wTbt8SrOtFgc5Vhn1xcml",
+        "name": "2016-2022 LEXUS RX350 FRONT LEFT SEAT LOWER TRIM COVER OEM 718680E110 BLACK=EA24",
+        "number": "718680E110C0 / 718680E110 C0 / 71868 0E110 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "iIQYjoBru2gvD-ev198jK",
+        "name": "2016 - 2022 LEXUS RX350 FRONT RIGHT SEAT TRACK LOWER TRIM COVER OEM BLACK=EA24",
+        "number": "718670E090C0 / 718670E090 C0 / 71867 0E090 C0\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "S1qOQwDjWhQcwmAOD28Vp",
+        "name": "2016-2022 LEXUS RX350 FRONT RIGHT SEAT BACK TRIM COVER OEM 71771X1T09 BLACK=EA24",
+        "number": "71771X1T09 / 71771 X1T09",
+        "oem": "717050E040C1 / 717050E040 C1 / 71705 0E040 C1\t",
+        "notes": ""
+    },
+    {
+        "id": "LqnZcB3xcz5b6Hv9x-MWl",
+        "name": "2016- 2022 LEXUS RX350 FRONT LEFT SEAT BACK TRIM COVER OEM 71771X1T09 BLACK=EA24",
+        "number": "71771X1T09 / 71771 X1T09",
+        "oem": "717050E040C1 / 717050E040 C1 / 71705 0E040 C1\t",
+        "notes": ""
+    },
+    {
+        "id": "ow_AYRADjApriQ0JLJc3t",
+        "name": "2016 - 2022 LEXUS RX350 REAR SUSPENSION RIGHT STEERING SPINDLE KNUCKLE & HUB OEM",
+        "number": "423040E080 / 42304 0E080\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "J5XKNEFiSdsaAL9m2s7SF",
+        "name": "2016 - 2022 LEXUS RX350 REAR SUSPENSION LEFT STEERING SPINDLE KNUCKLE & HUB OEM",
+        "number": "423050E080 / 42305 0E080\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "WvErMcdzj7rrjZrkUnyqZ",
+        "name": "2016 - 2019 LEXUS RX350 INTERIOR FLOOR CARPET COVER LINER MAT SET OF 4 OEM",
+        "number": "PT2064816121 / PT20648161 21 / PT206 48161 21",
+        "oem": "",
+        "notes": ""
+    },
             {
         "id": "FkmFb3z30F0HXPLn75wj7",
         "name": "2016 - 2022 LEXUS RX350 REAR TAILGATE BACK GLASS WIPER ARM MOTOR OEM 8513048080",
@@ -107,10 +289,10 @@ export function App() {
     },
     {
         "id": "vK5VXsrELi2d8MBp26rdX",
-        "name": "2019 16 17 18 20 21 2022 LEXUS RX350 REAR LEFT SIDE DOOR SPEAKER OEM 861600E320",
+        "name": "2019 17 18 20 21 2022 LEXUS RX350 REAR RIGHT OR LEFT DOOR SPEAKER OEM 861600E320",
         "number": "861600E320 / 86160 0E320\t",
         "oem": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022",
-        "notes": ""
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
     },
     {
         "id": "SwWrtFkGE4NafES-RhiDT",
@@ -683,7 +865,7 @@ export function App() {
         "id": "86SJTcPA8D388A7Rt-Kg4",
         "name": "2015 - 2023 FORD TRANSIT-250 REAR RIGHT FORWARD DOOR WIRE OEM LK4T19l540DC",
         "number": "LK4T19l540DC / LK4T19l540 DC / LK4T 19l540 DC\t",
-        "oem": "",
+        "oem": "LK4Z19L540D / LK4Z19L540 D / LK4Z 19L540 D",
         "notes": ""
     },
             {
@@ -76324,10 +76506,10 @@ export function App() {
         },
         {
             "id": "92Tz7ajEPBuRGAxVz-gkf",
-            "name": "2020 FORD TRANSIT-150 3.5L ENGINE REAR DRIVE SHAFT DRIVESHAFT OEM LK414K145RA",
+            "name": "2020 - 2023 FORD TRANSIT-150 3.5L REAR DRIVE SHAFT DRIVESHAFT OEM LK414K145RAF",
             "number": "LK414K145RA / LK414K145 RA / LK41 4K145 RA\t",
-            "oem": "LK4Z3B403C / LK4Z3B403 C / LK4Z 3B403 C",
-            "notes": ""
+            "oem": "LK4Z4R602AY / LK4Z4R602 AY / LK4Z 4R602 AY",
+            "notes": "REAR WHEEL DRIVE, 130\" WHEELBASE ONLY."
         },
         {
             "id": "leKCVvygd2rMtCb2BNX7A",
@@ -79528,8 +79710,14 @@ export function App() {
     };
 
     function filteredContacts() {
-        return contacts.filter(contact => contact.name.toLowerCase().includes(filter.toLowerCase()));
-    };
+    return contacts.filter(contact => {
+        const searchTerms = filter.toLowerCase().trim().split(' ');
+        return searchTerms.every(term => {
+            const contactInfo = `${contact.name.toLowerCase()} ${contact.number.toLowerCase()} ${contact.oem.toLowerCase()} ${contact.notes.toLowerCase()}`;
+            return contactInfo.includes(term);
+        });
+    });
+};
 
     function deleteContact(id) {
         setContacts(contacts =>
