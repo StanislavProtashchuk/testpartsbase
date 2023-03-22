@@ -8,6 +8,517 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "wxdiI4D0Coh9H8c34BEuE",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT LEFT BAG CRASH IMPACT SENSOR OEM 56054085AA",
+        "number": "56054085AA / 56054085 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "EALv7ZpG10kZ4k1tBrO7t",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT BAG CRASH IMPACT SENSOR OEM 56054085AA",
+        "number": "56054085AA / 56054085 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "WjzavO6PXEIxp7taaTKKu",
+        "name": "2020 - 2021 DODGE CHALLENGER FRONT LEFT SIDE DOOR CONTROL MODULE OEM 68503655AA",
+        "number": "68503655AA / 68503655 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0fXIBr8848JDJGo37MGcq",
+        "name": "2020 - 2021 DODGE CHALLENGER FRONT RIGHT SIDE DOOR CONTROL MODULE OEM 68503654AA",
+        "number": "68503654AA / 68503654 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0kzMeDXqO5oEmzr1fnffd",
+        "name": "2020 DODGE CHALLENGER RWD 3.6L BCM BODY CONTROL MODULE UNIT OEM 68424593AB",
+        "number": "68424593AB / 68424593 AB\t",
+        "oem": "68424593AC / 68424593 AC",
+        "notes": ""
+    },
+    {
+        "id": "1_uyGd-Z5wh45vdS_OGFQ",
+        "name": "2015 - 2023 DODGE CHALLENGER KEYLESS PASSIVE ENTRY ANTENNA MODULE OEM 68067753AA",
+        "number": "68067753AA / 68067753 AA\t",
+        "oem": "68051315AB / 68051315 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "2MRueg7bBfh0cFxM0hPch",
+        "name": "2011 - 2023 DODGE CHALLENGER YAW RATE STABILITY CONTROL SENSOR OEM 56029549AD",
+        "number": "56029549AD / 56029549 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0f7_YPMDNZPuTOUWF_HYU",
+        "name": "2020 - 2023 DODGE CHALLENGER 3.6L EVAPORATOR FUEL VAPOR CANISTER OEM 68401344AB",
+        "number": "68401344AB / 68401344 AB",
+        "oem": "68401344AF / 68401344 AF\t",
+        "notes": ""
+    },
+    {
+        "id": "AHz_hrHTVOC00RwT53hNZ",
+        "name": "2015- 2023 DODGE CHALLENGER EVAPORATOR VAPOR EMISSION PURGE VALVE OEM 04627694AB",
+        "number": "04627694AB / 04627694 AB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "67CsMWVf6J-2mwJnpkftO",
+        "name": "2015 - 2023 DODGE CHALLENGER REAR WINDSHIELD BACK WINDOW HEATED GLASS OEM",
+        "number": "68270305AA / 68270305 AA\t",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "uwHyJyBfLhbAMMqTrJ5Sf",
+        "name": "2011 - 2023 DODGE CHALLENGER REAR LEFT DRIVER SIDE PARKING BRAKE CABLE OEM",
+        "number": "4779973AD / 4779973 AD",
+        "oem": "68066095AE / 68066095 AE, 68066189AF / 68066189 AF",
+        "notes": ""
+    },
+    {
+        "id": "Ev6RFNcNUIIJKBEG-qpHa",
+        "name": "2015 - 2023 DODGE CHALLENGER EMERGENCY NON ADJUSTABLE PARKING BRAKE PEDAL OEM",
+        "number": "4779688AL / 4779688 AL",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "d3ZGbIFzFeGjiFp9vh86k",
+        "name": "2014 - 2023 DODGE CHALLENGER HVAC A/C HEATER AIR CONDITION BLOWER FAN MOTOR OEM",
+        "number": "68238029AA / 68238029 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "73Bv3tvZmy8tgzfRZvhaT",
+        "name": "2017 - 2023 DODGE CHALLENGER BATTERY NEGATIVE CABLE W/ SENSOR OEM 56029777AC",
+        "number": "56029777AC / 56029777 AC",
+        "oem": "68306895AA / 68306895 AA\t",
+        "notes": ""
+    },
+    {
+        "id": "UJJrzY3raZShvB_DNYKen",
+        "name": "2012 - 2023 DODGE CHALLENGER BATTERY GROUND CABLE WIRE HARNESS OEM 68060322AG",
+        "number": "68060322AG / 68060322 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Ba8s_glwTqHfZwXifxFgM",
+        "name": "2011 - 2023 DODGE CHALLENGER BATTERY POSITIVE PLUS POLE CABLE OEM 68207017AD",
+        "number": "68207017AD / 68207017 AD\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "zFhFPGNbFSCV3ya-o8MVe",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT BUMPER RIGHT MOUNT BRACKET OEM 68174978AA",
+        "number": "68174978AA / 68174978 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4tSUwpJM-WgBgojSTgUwX",
+        "name": "2008 - 2023 DODGE CHALLENGER REAR BUMPER LEFT SIDE MOUNT BRACKET OEM 68024341AF",
+        "number": "68024341AF / 68024341 AF\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "GHutTdPtIspIlwLifrFMO",
+        "name": "2008 - 2023 DODGE CHALLENGER REAR BUMPER LEFT SIDE MOUNT BRACKET OEM 68026645AF",
+        "number": "68026645AF / 68026645 AF\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "WMyNVQnVYu-uoY7V-kP-w",
+        "name": "2008 - 2023 DODGE CHALLENGER REAR BUMPER RIGHT SIDE MOUNT BRACKET OEM 68024340AF",
+        "number": "68024340AF / 68024340 AF\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "lDrlqxKbAxz1_lowMd4Yy",
+        "name": "2008 - 2023 DODGE CHALLENGER REAR BUMPER RIGHT SIDE MOUNT BRACKET OEM 68026644AF",
+        "number": "68026644AF / 68026644 AF\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "2fBnR2RBN2JVrD8sFq5-J",
+        "name": "2008 - 2023 DODGE CHALLENGER FRONT BUMPER RIGHT MOUNT BRACKET OEM 68024342AD",
+        "number": "68024342AD / 68024342 AD\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Ui7txa7NwiEgbqsueb4PH",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT DOOR CRASH IMPACT SENSOR OEM 56054084AB",
+        "number": "56054084AB / 56054084 AB\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "_Y7mUD151vgqEPQVRfmnq",
+        "name": "2020 - 2023 DODGE CHALLENGER 3.6L MAKE UP AIR INTAKE HOSE LINE OEM 68413347AA",
+        "number": "68413347AA / 68413347 AA",
+        "oem": "68413347AB / 68413347 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "_p2L6gAtvjiaew6NWWLiY",
+        "name": "2011 - 2021 DODGE CHALLENGER 3.6L POWER BRAKE BOOSTER VACUUM HOSE OEM 04581553AF",
+        "number": "04581553AF / 04581553 AF",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "2IUSqkFjxwWCC1NoDjavZ",
+        "name": "2015-2023 DODGE CHALLENGER FRONT LEFT OR RIGHT ROOF INTERIOR GRAB BAR HANDLE OEM",
+        "number": "5NT63DX9AA / 5NT63DX9 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "9MBcY-BkempjBcnF32-vM",
+        "name": "2015-2023 DODGE CHALLENGER FRONT RIGHT OR LEFT ROOF INTERIOR GRAB BAR HANDLE OEM",
+        "number": "5NT63DX9AA / 5NT63DX9 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "LpOyINCC_9kCimxPpgstY",
+        "name": "2015-2023 DODGE CHALLENGER REAR RIGHT QUARTER SPLASH SHIELD GUARD OEM 68175058AD",
+        "number": "68175058AD / 68175058 AD\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "T0ACGvZd6zHHuGSs5a8X2",
+        "name": "2016-2023 DODGE CHALLENGER FRONT RIGHT FENDER SPLASH SHIELD GUARD OEM 68175060AG",
+        "number": "68175060AG / 68175060 AG",
+        "oem": "68175060AH / 68175060 AH",
+        "notes": ""
+    },
+    {
+        "id": "-VE2nDabdrsNZ2cnfsRh8",
+        "name": "2014- 2023 DODGE CHALLENGER DASH A/C HEATER CORE VENT HOUSING BOX OEM 68430171AB",
+        "number": "68430171AB / 68430171 AB\t",
+        "oem": "68238032AA / 68238032 AA",
+        "notes": ""
+    },
+    {
+        "id": "Z3q0zVyYqO2GYwZfnTfNe",
+        "name": "2008-2023 DODGE CHALLENGER REAR LEFT TRUNK LID SHOCK LIFT SUPPORT OEM 04589645AB",
+        "number": "04589645AB / 04589645 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "qyMrI5BH8tNTO0s7dU3iy",
+        "name": "2008 - 2023 DODGE CHALLENGER REAR RIGHT TRUNK LID SHOCK SUPPORT OEM 04589645AB",
+        "number": "04589645AB / 04589645 AB",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "qXEi-v2kzRNVSguBmKdo2",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT SEAT CLOTCH HEADREST OEM BLACK=L8X9",
+        "number": "5XG92LA8AA / 5XG92LA8 AA\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "pL5tC0hMtCce4Ezs_yuaM",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT LEFT SEAT CLOTCH HEADREST OEM BLACK=L8X9",
+        "number": "5XG92LA8AA / 5XG92LA8 AA",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "IsJuCuu7zvVS0wqGWpsBi",
+        "name": "2015 - 2023 DODGE CHALLENGER HOOD LATCH RELEASE CABLE W/ HANDLE OEM 68185112AB",
+        "number": "68185112AB / 68185112 AB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "UCK9DIDD4EjCZAFXKINXF",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L HVAC A/C HEATER SUPPLY HOSE LINE TUBE PIPE OEM",
+        "number": "55038163AI / 55038163 AI",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "F7Sjts0_oIAXcnvq3r9Er",
+        "name": "2014 - 2023 DODGE CHALLENGER 3.6L HVAC A/C HEATER RETURN HOSE LINE TUBE PIPE OEM",
+        "number": "68195675AB / 68195675 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "yuaiwhmSaVnOoDC7Yatvz",
+        "name": "2011-2023 DODGE CHALLENGER 3.6L RADIATOR WATER COOLANT INLET HOSE OEM 55038160AE",
+        "number": "55038160AE / 55038160 AE",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "iVphSonTKHQw1h5XA3nZ0",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT LEFT LOW NOTE TONE HORN SIGNAL OEM 68302643AC",
+        "number": "68302643AC / 68302643 AC\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Dujz4afBoPlQjfOupGk8y",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L RADIATOR COOLANT OUTLET HOSE OEM 55038161AD",
+        "number": "55038161AD / 55038161 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "8XQzNS5hLisvDvI6IWCk3",
+        "name": "2015-2023 DODGE CHALLENGER FRONT RIGHT HIGH NOTE TONE HORN SIGNAL OEM 68302644AC",
+        "number": "68302644AC / 68302644 AC\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "BAwivQc7Qmc-L3ner7NPJ",
+        "name": "2017 - 2021 DODGE CHALLENGER ROOF INTERIOR HEADLINER TRIM COVER OEM BLACK=L8X9",
+        "number": "6KA86DX9AH / 6KA86DX9 AH\t",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "UlxQJiJKFEfFSPJc_35eu",
+        "name": "2008 - 2023 DODGE CHALLENGER FRONT HOOD BONNET RELEASE LATCH LOCK ACTUATOR OEM",
+        "number": "4816182AB / 4816182 AB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "jdMflSWOTKQzet06eMieG",
+        "name": "2015 - 2023 DODGE CHALLENGER REAR DECK SHELF TRAY PANEL SILENCER OEM 68207351AC",
+        "number": "68207351AC / 68207351 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mqWTgfKHJtMoFthSdBLx4",
+        "name": "2017 - 2023 DODGE CHALLENGER DASH HVAC A/C HEATER SWITCH CONTROL OEM 68293606AE",
+        "number": "68293606AE / 68293606 AE",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "877GqiNQCEz9xcp1IOZKQ",
+        "name": "2009- 2023 DODGE CHALLENGER REAR INTERIOR TRUNK FLOOR CARGO TRIM COVER LINER OEM",
+        "number": "55315183AB / 55315183 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mpVU2oGzG0dFlP8meYvh0",
+        "name": "2009 - 2023 DODGE CHALLENGER REAR TRUNK FLOOR CARGO COVER LINER OEM 04662030AH",
+        "number": "04662030AH / 04662030 AH",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "se7LcIgjl3yYSehxtj6UK",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT DASH RIGHT GLOVE BOX STORAGE COMPARTMENT OEM",
+        "number": "1QF13DX9AP / 1QF13DX9 AP",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4NY2dqeUlNMI-WLznfs2t",
+        "name": "2020-2023 DODGE CHALLENGER FUEL GAS TANK RESERVOIR BOTTLE STORAGE OEM 68399795AD",
+        "number": "68399795AD / 68399795 AD\t",
+        "oem": "68494592AB / 68494592 AB",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "ZSbl6sQxrNi1SJP7GdZtb",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT SEAT LOWER CUSHION COVER OEM BLACK=L8X9",
+        "number": "5XG86LA8AA / 5XG86LA8 AA\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dyk_BApe2RRC14NNQ83V5",
+        "name": "2014- 2020 DODGE CHALLENGER FRONT RIGHT BODY FRAME HORN APRON RAIL OEM GREEN=PFQ",
+        "number": "68043926AD / 68043926 AD",
+        "oem": "4780930AD / 4780930 AD, 68444164AA / 68444164 AA",
+        "notes": "WILL CUT OUT EXACTLY AS YOU NEED. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "cpCQMVetkowhsj8fkvleN",
+        "name": "2014 - 2020 DODGE CHALLENGER FRONT LEFT BODY FRAME HORN APRON RAIL OEM GREEN=PFQ",
+        "number": "68043927AD / 68043927 AD",
+        "oem": "4780931AD / 4780931 AD, 68444165AA / 68444165 AA",
+        "notes": "WILL CUT OUT EXACTLY AS YOU NEED. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "zBKv2sDnywxg1MCMsDS_w",
+        "name": "2020 - 2023 DODGE CHALLENGER LEFT SIDE FUEL GAS PUMP SENDING UNIT OEM 68405632AA",
+        "number": "68405632AA / 68405632 AA\t",
+        "oem": "68494735AA / 68494735 AA\t",
+        "notes": ""
+    },
+    {
+        "id": "5qcU2gl5iK0enzysAK5NE",
+        "name": "2020 - 2023 DODGE CHALLENGER RIGHT FUEL GAS PUMP SENDING UNIT OEM 68405631AB",
+        "number": "68405631AB / 68405631 AB\t",
+        "oem": "68494734AC / 68494734 AC, 68494734AB / 68494734 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "JT6Twa1x8v46S5Z3o7ktC",
+        "name": "2015 - 2023 DODGE CHALLENGER CONSOLE TRANSMISSION SHIFTER LEVER OEM 04670717AB",
+        "number": "04670717AB / 04670717 AB\t",
+        "oem": "04670717AF / 04670717 AF\t",
+        "notes": ""
+    },
+    {
+        "id": "-Ouxp4Mo3SV9N2-WpUrkp",
+        "name": "2020 - 2023 DODGE CHALLENGER 3.6L EMISSION FUEL PURGE TUBE HOSE OEM 68410860AB",
+        "number": "68410860AB / 68410860 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "q0Fl5TvMldWlD3hLRMkyT",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT BUMPER IMPACT ENERGY ABSORBER OEM 68174977AA",
+        "number": "68174977AA / 68174977 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "65OFmHJQr80eYcxeDATTe",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT EXTERIOR DOOR SHELL PANEL OEM GREEN=PFQ",
+        "number": "68259664AC / 68259664 AC",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "bxdiGWNQFMnlUEhhN9HjS",
+        "name": "2008- 2023 DODGE CHALLENGER FRONT LEFT DOOR WINDOW BELT MOLDING WEATHERSTRIP OEM",
+        "number": "55399123AG / 55399123 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "XwxczVQ1Hums-bRjEHrCJ",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT LEFT DRIVER SIDE DOOR LATCH LOCK ACTUATOR OEM",
+        "number": "68174641AG / 68174641 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "pQg3E7EkvwlS3T8al71LB",
+        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT SIDE DOOR LATCH LOCK ACTUATOR OEM",
+        "number": "68174640AG / 68174640 AG",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "UF0J8xXOCsn-mYyROGg0N",
+        "name": "2015 - 2023 DODGE CHALLENGER 3.6L REAR BUMPER LEFT EXHAUST TAILPIPE TIP END OEM",
+        "number": "68260099AB / 68260099 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "fUnOXXzGDuq7QxJvu6gOc",
+        "name": "2015 - 2023 DODGE CHALLENGER 3.6L REAR BUMPER RIGHT EXHAUST TAILPIPE TIP END OEM",
+        "number": "68260098AB / 68260098 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0C-6fYi7A_GADJ-h9hI0V",
+        "name": "2015- 2023 DODGE CHALLENGER 3.6L REAR LEFT EXHAUST MUFFLER & PIPE OEM 68164449AA",
+        "number": "68164449AA / 68164449 AA",
+        "oem": "68260151AA / 68260151 AA",
+        "notes": ""
+    },
+    {
+        "id": "PWHrFVIlXtLhuJT2tGAmr",
+        "name": "2015 - 2023 DODGE CHALLENGER 3.6L EXHAUST SYSTEM MUFFLER & RESONATOR W/ PIPE OEM",
+        "number": "68260150AA / 68260150 AA\t",
+        "oem": "",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "jb9TbmGclQRf_pjQXcVOY",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L FRONT RIGHT ENGINE FRAME MOUNT BRACKET OEM",
+        "number": "4726022AB / 4726022 AB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Dbt5jJCcex6d5WKU5FGZu",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L FRONT LEFT ENGINE FRAME MOUNT OEM 04726023AB",
+        "number": "04726023AB / 04726023 AB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "iU5Ra4hWVVnSstIHq3eb8",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L FRONT RIGHT ENGINE FRAME MOUNT CUSHION OEM",
+        "number": "68277081AA / 68277081 AA\t",
+        "oem": "68277082AA / 68277082 AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "seFIj3l7B_yksbXtJE0b4",
+        "name": "2011 - 2023 DODGE CHALLENGER 3.6L FRONT LEFT SIDE ENGINE FRAME MOUNT CUSHION OEM",
+        "number": "68277081AA / 68277081 AA",
+        "oem": "68277082AA / 68277082 AA",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "bsWbJk6DWsK1z7JP4EcVl",
+        "name": "2008 - 2023 DODGE CHALLENGER EMERGENCY PARK PARKING BRAKE PEDAL OEM 04779478AI",
+        "number": "04779478AI / 04779478 AI",
+        "oem": "4779478AB / 4779478 AB",
+        "notes": ""
+    },
+    {
+        "id": "49hrgGnrB9BA8XATO4bjL",
+        "name": "2020 DODGE CHALLENGER 3.6L ENGINE WIRE WIRING HARNESS W/ FUSE BOX OEM 68428800AC",
+        "number": "68428800AC / 68428800 AC",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "t6X0HB70scFz34Bp6kqyN",
+        "name": "2020 - 2023 DODGE CHALLENGER 3.6L ENGINE CONTROL MODULE UNIT ECU OEM 68434924AA",
+        "number": "68434924AA / 68434924 AA",
+        "oem": "68434924AC / 68434924 AC",
+        "notes": ""
+    },
+    {
+        "id": "KC_GutSyEkgCU1kaCj_H8",
+        "name": "2017-2023 DODGE CHALLENGER FRONT LEFT DOOR WINDOW REGULATOR MOTOR OEM 68370045AA",
+        "number": "68370045AA / 68370045 AA\t",
+        "oem": "68376201AA / 68376201 AA\t",
+        "notes": ""
+    },
+        {
         "id": "maHwy3Uq2P5vRtLlvQNnV",
         "name": "2016 - 2021 CHEVROLET MALIBU FRONT RIGHT HIGH NOTE TONE HORN SIGNAL OEM 84124743",
         "number": "84124743",
@@ -156,16 +667,16 @@ export function App() {
     },
     {
         "id": "dMQ5Mb8ehL7MIxxIQnwWr",
-        "name": "2015 - 2023 DODGE CHALLENGER FRONT RIGHT BODY PART A PILLAR FRAME OEM GREEN=PFQ",
-        "number": "68260428AI / 68260428 AI\t",
-        "oem": "",
+        "name": "2019 - 2023 DODGE CHALLENGER FRONT RIGHT BODY PART A PILLAR FRAME OEM GREEN=PFQ",
+        "number": "68440574AB / 68440574 AB",
+        "oem": "68260428AI / 68260428 AI, 68440582AB / 68440582 AB",
         "notes": "WILL CUT OUT EXACTLY AS YOU NEED. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
     },
     {
         "id": "d0EIeCbt-o_ciAhZ0BkTb",
-        "name": "2015 - 2023 DODGE CHALLENGER FRONT LEFT BODY PART A PILLAR FRAME OEM GREEN=PFQ",
-        "number": "68260429AI / 68260429 AI\t",
-        "oem": "",
+        "name": "2019 - 2023 DODGE CHALLENGER FRONT LEFT BODY PART A PILLAR FRAME OEM GREEN=PFQ",
+        "number": "68440575AB / 68440575 AB",
+        "oem": "68260429AI / 68260429 AI, 68440583AB / 68440583 AB",
         "notes": "WILL CUT OUT EXACTLY AS YOU NEED. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
     },
     {
@@ -758,16 +1269,16 @@ export function App() {
     },
     {
         "id": "wlCT38Ik3-bF0WNOJRThe",
-        "name": "2016 - 2023 CHEVROLET MALIBU REAR RIGHT BRAKE CABLE WIRE HARNESS OEM 48043108",
+        "name": "2016 - 2023 CHEVROLET MALIBU REAR RIGHT SIDE PARKING BRAKE CABLE OEM 48043108",
         "number": "48043108",
-        "oem": "",
+        "oem": "84444804",
         "notes": ""
     },
     {
         "id": "ew5ZO8fBdXQZ0TCbxN8a-",
-        "name": "2016 - 2023 CHEVROLET MALIBU REAR LEFT BRAKE CABLE WIRE HARNESS OEM 48053138",
+        "name": "2016 - 2023 CHEVROLET MALIBU REAR LEFT SIDE PARKING BRAKE CABLE OEM 48053138",
         "number": "48053138",
-        "oem": "",
+        "oem": "84444805",
         "notes": ""
     },
     {
@@ -1850,7 +2361,7 @@ export function App() {
     },
     {
         "id": "DK-uFb_qrXQEyAtjFTMzK",
-        "name": "2019 20 21 22 23 CHEVROLET MALIBU LT WHEEL RIM ALLOY 177X7.5J ET45 OEM 23396365",
+        "name": "2019 20 21 22 23 CHEVROLET MALIBU LT WHEEL RIM ALLOY 17X7.5J ET45 OEM 23396365",
         "number": "23396365",
         "oem": "23389657",
         "notes": "2019 / 2020 / 2021 / 2022 / 2023\t"
@@ -22788,7 +23299,7 @@ export function App() {
     },
     {
         "id": "qGUXGWo7tJc75Yn4mu-pb",
-        "name": "2008 -2022 DODGE CHALLENGER GAS PEDAL ACCELERATOR THROTTLE SENSOR OEM 04861714AF",
+        "name": "2008 -2023 DODGE CHALLENGER GAS PEDAL ACCELERATOR THROTTLE SENSOR OEM 04861714AF",
         "number": "04861714AF / 04861714 AF\t",
         "oem": "04861714AH / 04861714 AH",
         "notes": ""
@@ -51010,13 +51521,6 @@ export function App() {
             "name": "2011 - 2023 DODGE CHARGER FRONT LEFT SIDE SHOCK STRUT ABSORBER OEM 68072065AF",
             "number": "68072065AF / 68072065 AF\t",
             "oem": "68544313AA / 68544313 AA",
-            "notes": ""
-        },
-        {
-            "id": "wuhY3-esDiJhm-XIeJzEY",
-            "name": "2011 - 2023 DODGE CHARGER FRONT RIGHT DOOR WINDOW GLASS REGULATOR OEM 56054084AB",
-            "number": "56054084AB / 56054084 AB\t",
-            "oem": "68103996AC / 68103996 AC",
             "notes": ""
         },
         {
@@ -79836,7 +80340,7 @@ export function App() {
         },
         {
             "id": "EQUJm19Azb1MWMv98jSt6",
-            "name": "2011 - 2023 DODGE CHARGER EMERGENCY PARK PARKING BRAKE PEDAL OEM 04779478AI",
+            "name": "2008 - 2023 DODGE CHARGER EMERGENCY PARK PARKING BRAKE PEDAL OEM 04779478AI",
             "number": "04779478AI / 04779478 AI",
             "oem": "4779478AB / 4779478 AB",
             "notes": ""
