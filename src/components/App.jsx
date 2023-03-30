@@ -8,6 +8,223 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "FXymjZFIqygQSHLhCjJt6",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT DOOR WINDOW GLASS RUN CHANNEL WEATHERSTRIP OEM",
+        "number": "FT4Z5821597H / FT4Z5821597 H / FT4Z 5821597 H\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "5FkKWMEw_YFk71-BVMw4Z",
+        "name": "2021 - 2023 FORD EDGE TELEMATICS COMMUNICATION CONTROL MODULE OEM NU5T14H074AA",
+        "number": "NU5T14H074AA / NU5T14H074 AA / NU5T 14H074 AA\t",
+        "oem": "N2DZ14F546B / N2DZ14F546 B / N2DZ 14F546 B\t",
+        "notes": ""
+    },
+    {
+        "id": "0Z1-VVbd9o8lGgVwwH1mm",
+        "name": "2015- 2023 FORD EDGE REAR RIGHT DOOR REARWARD APPLIQUE MOLDING OEM FT4BR254A42AS",
+        "number": "FT4BR254A42AS / FT4BR254A42 AS / FT4B R254A42 AS",
+        "oem": "FT4Z58255A34F / FT4Z58255A34 F / FT4Z 58255A34 F",
+        "notes": ""
+    },
+    {
+        "id": "rC8O8Gat8-EcWSK39wWA3",
+        "name": "2015- 2023 FORD EDGE REAR RIGHT DOOR B PILLAR APPLIQUE MOLDING OEM FT4BR254A40AP",
+        "number": "FT4BR254A40AP / FT4BR254A40 AP / FT4B R254A40 AP",
+        "oem": "FT4Z58255A34E / FT4Z58255A34 E / FT4Z 58255A34 E",
+        "notes": ""
+    },
+    {
+        "id": "G7EVHyZ2tESg_-cMnt1bb",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT DOOR TRIM CORNER COVER PANEL OEM FT4B17D699AE",
+        "number": "FT4B17D699AE / FT4B17D699 AE / FT4B 17D699 AE",
+        "oem": "FT4Z17K709AB / FT4Z17K709 AB / FT4Z 17K709 AB\t",
+        "notes": ""
+    },
+    {
+        "id": "JawPKLEvgGdNLE4Tja2Sq",
+        "name": "2019 - 2023 FORD EDGE REAR LEFT SIDE OUTER TAILLIGHT LIGHT LAMP OEM KT4B13405BK",
+        "number": "KT4B13405BK / KT4B13405 BK / KT4B 13405 BK",
+        "oem": "KT4Z13405D / KT4Z13405 D / KT4Z 13405 D\t",
+        "notes": ""
+    },
+    {
+        "id": "Q0MFaDWaIc26lusZPhv23",
+        "name": "2019 - 2023 FORD EDGE FRONT LEFT DOOR REAR VIEW MIRROR OEM KT4B17683DB GRAY=M7",
+        "number": "KT4B17683DB / KT4B17683 DB / KT4B 17683 DB\t",
+        "oem": "KT4Z17683CA / KT4Z17683 CA / KT4Z 17683 CA",
+        "notes": ""
+    },
+    {
+        "id": "31vI6NYiu_ptCMjAiuHKZ",
+        "name": "2019 - 2023 FORD EDGE FRONT RIGHT DOOR EXTERIOR REAR VIEW MIRROR OEM GRAY=M7",
+        "number": "KT4Z17682EB / KT4Z17682 EB / KT4Z 17682 EB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "QsS3-hMrXcvDh9ObO4lC1",
+        "name": "2019 - 2023 FORD EDGE REAR LEFT SIDE INNER TAILLIGHT LIGHT LAMP OEM KT4B13A603B",
+        "number": "KT4B13A603B / KT4B13A603 B / KT4B 13A603 B",
+        "oem": "KT4Z13405F / KT4Z13405 F / KT4Z 13405 F\t",
+        "notes": ""
+    },
+    {
+        "id": "BhhEuRMGEMh5vKoyXCdZx",
+        "name": "2020 - 2023 FORD EDGE ABS ANTI LOCK BRAKE PUMP CONTROL MODULE OEM M2GC2B373DA",
+        "number": "M2GC2B373DA / M2GC2B373 DA / M2GC 2B373 DA\t",
+        "oem": "L2GZ2C219A / L2GZ2C219 A / L2GZ 2C219 A, K2GZ2C286B / K2GZ2C286 B / K2GZ 2C286 B",
+        "notes": ""
+    },
+    {
+        "id": "nGoPTOFe3yc8UjBFNMiU7",
+        "name": "2019 - 2023 FORD EDGE 2.0L ENGINE AIR INTAKE INLET MANIFOLD OEM K2GE9424BC",
+        "number": "K2GE9424BC / K2GE9424 BC / K2GE 9424 BC",
+        "oem": "K2GZ9424A / K2GZ9424 A / K2GZ 9424 A",
+        "notes": ""
+    },
+    {
+        "id": "GHbUQdrua_t4poa6g-Btd",
+        "name": "2019 - 2023 FORD EDGE FWD 2.0L ENGINE MAIN WIRE WIRING HARNESS OEM KU5T12C508EK",
+        "number": "KU5T12C508EK / KU5T12C508 EK / KU5T 12C508 EK\t",
+        "oem": "K2GZ12A581B / K2GZ12A581 B / K2GZ 12A581 B",
+        "notes": ""
+    },
+    {
+        "id": "5iyEU-ZyFY59hrOGT4y8W",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT STEERING SPINDLE KNUCKLE & HUB OEM F2GC3K171A",
+        "number": "F2GC3K171A / F2GC3K171 A / F2GC 3K171 A\t",
+        "oem": "F2GZ3K186A / F2GZ3K186 A / F2GZ 3K186 A, K2GZ1104A / K2GZ1104 A / K2GZ 1104 A\t",
+        "notes": ""
+    },
+    {
+        "id": "TQ-prtZDMUV8mgEwje3Y_",
+        "name": "2015 - 2023 FORD EDGE FRONT RIGHT STEERING SPINDLE KNUCKLE & HUB OEM F2GC3K170A",
+        "number": "F2GC3K170A / F2GC3K170 A / F2GC 3K170 A\t",
+        "oem": "K2GZ1104A / K2GZ1104 A / K2GZ 1104 A, F2GZ3K185A / F2GZ3K185 A / F2GZ 3K185 A\t",
+        "notes": ""
+    },
+    {
+        "id": "m1dBrOny1kKBUrj7Y4-zN",
+        "name": "2015 - 2023 FORD EDGE REAR RIGHT QUARTER TRUNK LOWER TRIM COVER OEM FT4BR31012A",
+        "number": "FT4BR31012A / FT4BR31012 A / FT4B R31012 A",
+        "oem": "FT4Z5831012BA / FT4Z5831012 BA / FT4Z 5831012 BA\t",
+        "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "pm2F7-eR1JvHChWISD39E",
+        "name": "2019- 2023 FORD EDGE 2.0L ENGINE MOTOR CONTROL MODULE UNIT ECU OEM K2GA12A650CFA",
+        "number": "K2GA12A650CFA / K2GA12A650 CFA / K2GA 12A650 CFA\t",
+        "oem": "K2GZ12A650BANP / K2GZ12A650 BANP / K2GZ 12A650 BANP",
+        "notes": ""
+    },
+    {
+        "id": "tosCFOJyThHAhHrntavb6",
+        "name": "2017 - 2023 FORD EDGE REAR SEAT RIGHT OR LEFT HEADREST HEAD REST OEM BEIGE=LC",
+        "number": "FT4Z58611A08DK / FT4Z58611A08 DK / FT4Z 58611A08 DK\t",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "OLwYZ-d8zMsPfHUro30Jh",
+        "name": "2017 - 2023 FORD EDGE REAR SEAT LEFT OR RIGHT HEADREST HEAD REST OEM BEIGE=LC",
+        "number": "FT4Z58611A08DK / FT4Z58611A08 DK / FT4Z 58611A08 DK\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "IW-uvMqeTwWFlFXoPv6pu",
+        "name": "2015 - 2023 FORD EDGE TITANIUM REAR RIGHT DOOR HANDLE OEM EM2BR224N02AC GRAY=M7",
+        "number": "EM2BR224N02AC / EM2BR224N02 AC / EM2B R224N02 AC\t",
+        "oem": "ES7Z5426684Y / ES7Z5426684 Y / ES7Z 5426684 Y, JS7Z5422404BAPTM / JS7Z5422404 BAPTM / JS7Z 5422404 BAPTM\t",
+        "notes": ""
+    },
+    {
+        "id": "McyzFn2OiRa7H0F1oTzBw",
+        "name": "2019 - 2023 FORD EDGE FWD 2.0L FRONT LEFT SHOCK STRUT ABSORBER OEM K2GC18K001ANC",
+        "number": "K2GC18K001ANC / K2GC18K001 ANC / K2GC 18K001 ANC\t",
+        "oem": "K2GZ18124AU / K2GZ18124 AU / K2GZ 18124 AU\t",
+        "notes": "2.0L FRONT WHEEL DRIVE ONLY."
+    },
+    {
+        "id": "XUrzwC2xZ26Uh9nrr6EUD",
+        "name": "2015 - 2023 FORD EDGE TITANIUM FRONT RIGHT SIDE EXTERIOR DOOR HANDLE OEM GRAY=M7",
+        "number": "ES7Z5426684Y / ES7Z5426684 Y / ES7Z 5426684 Y",
+        "oem": "JS7Z5422404BAPTM / JS7Z5422404 BAPTM / JS7Z 5422404 BAPTM",
+        "notes": ""
+    },
+    {
+        "id": "iwt37SKiZAj0OKrcbIMOD",
+        "name": "2015 - 2023 FORD EDGE TITANIUM FRONT LEFT SIDE EXTERIOR DOOR HANDLE OEM GRAY=M7",
+        "number": "ES7Z5426685AA / ES7Z5426685 AA / ES7Z 5426685 AA\t",
+        "oem": "JS7Z5422405BAPTM / JS7Z5422405 BAPTM / JS7Z 5422405 BAPTM\t",
+        "notes": ""
+    },
+    {
+        "id": "OHvjElYbaldkfZR_1cjVs",
+        "name": "2015 - 2023 FORD EDGE TITANIUM REAR LEFT SIDE EXTERIOR DOOR HANDLE OEM GRAY=M7",
+        "number": "ES7Z5426685AA / ES7Z5426685 AA / ES7Z 5426685 AA\t",
+        "oem": "JS7Z5422405BAPTM / JS7Z5422405 BAPTM / JS7Z 5422405 BAPTM\t",
+        "notes": ""
+    },
+    {
+        "id": "ij-_Kmvn9OivK_C7vGsZs",
+        "name": "2015 - 2023 FORD EDGE FRONT RIGHT PASSENGER SIDE DOOR WINDOW GLASS REGULATOR OEM",
+        "number": "FT4Z5823208H / FT4Z5823208 H / FT4Z 5823208 H\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "tzPiVF3DZa9_AT9HpMEPI",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT DRIVER SIDE DOOR WINDOW GLASS REGULATOR OEM",
+        "number": "FT4Z5823209H / FT4Z5823209 H / FT4Z 5823209 H\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "78Tls0n9Ib9xHTJ4HrRls",
+        "name": "2015 - 2023 FORD EDGE FWD 2.0L ENGINE COOLING FAN MOTOR UNIT OEM",
+        "number": "F2GZ8C607A / F2GZ8C607 A / F2GZ 8C607 A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Ogsy6bFmGRwCJFSDd4kWR",
+        "name": "2015 - 2023 FORD EDGE REAR LEFT DRIVER SIDE DOOR WINDOW GLASS REGULATOR OEM",
+        "number": "FT4Z5827009C / FT4Z5827009 C / FT4Z 5827009 C\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "CmdQwg-yYvmrNfBWyWDLF",
+        "name": "2015 - 2023 FORD EDGE 2.0L POWER BRAKE BOOSTER MASTER CYLINDER W/ RESERVOIR OEM",
+        "number": "F2GZ2005E / F2GZ2005 E / F2GZ 2005 E\t",
+        "oem": "J2GZ2140A / J2GZ2140 A / J2GZ 2140 A",
+        "notes": ""
+    },
+    {
+        "id": "2KmG-PXijr2DYJ-RxO6Sg",
+        "name": "2015 - 2023 FORD EDGE FWD FRONT RIGHT SIDE DISC BRAKE CALIPER OEM M2GC2B294AA",
+        "number": "M2GC2B294AA / M2GC2B294 AA / M2GC 2B294 AA",
+        "oem": "E1GZ2B120A / E1GZ2B120 A / E1GZ 2B120 A\t",
+        "notes": ""
+    },
+    {
+        "id": "OmEYZB5F0H0eiLkNzAlMH",
+        "name": "2015 - 2023 FORD EDGE FWD FRONT LEFT SIDE DISC BRAKE CALIPER OEM M2GC2B302AA",
+        "number": "M2GC2B302AA / M2GC2B302 AA / M2GC 2B302 AA",
+        "oem": "E1GZ2B121A / E1GZ2B121 A / E1GZ 2B121 A\t",
+        "notes": ""
+    },
+    {
+        "id": "8M0AMMb_ltuYldvsC5Evy",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT ROOF HEADLINER SUN VISOR SUNVISOR OEM BEIGE=LC",
+        "number": "FT4Z5804105ED / FT4Z5804105 ED / FT4Z 5804105 ED",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "8q-LQ1O8sK7GI5EDmh5H8",
         "name": "2015 - 2023 FORD EDGE FRONT LEFT INTERIOR CARPET COVER LINER OEM MT4BR13001AB",
         "number": "MT4BR13001AB / MT4BR13001 AB / MT4B R13001 AB",
@@ -53,7 +270,7 @@ export function App() {
         "id": "Uz6ZEnxX9QFonh866x4sM",
         "name": "2015 - 2023 FORD EDGE REAR TAILGATE SPOILER COVER PANEL OEM FT4BAU51MD GRAY=M7",
         "number": "FT4BAU51MD / FT4BAU51 MD / FT4B AU51 MD",
-        "oem": "",
+        "oem": "FT4Z5844210AD / FT4Z5844210 AD / FT4Z 5844210 AD",
         "notes": ""
     },
     {
@@ -48002,7 +48219,7 @@ export function App() {
         },
         {
             "id": "XfnWMVxtd6_LE-UTve2SC",
-            "name": "2019 - 2023 FORD EDGE 2.0L ENGINE AIR INTAKE MANIFOLD OEM K2GE9424BB",
+            "name": "2019 - 2023 FORD EDGE 2.0L ENGINE AIR INTAKE INLET MANIFOLD OEM K2GE9424BB",
             "number": "K2GE9424BB / K2GE9424 BB / K2GE 9424 BB",
             "oem": "K2GZ9424A / K2GZ9424 A / K2GZ 9424 A\t",
             "notes": ""
@@ -48226,7 +48443,7 @@ export function App() {
         },
         {
             "id": "PJKzFLxP7Q4N17rErAs1s",
-            "name": "2015- 2023 FORD EDGE REAR LEFT DOOR REARWARD APPLIQUE MOULDING OEM FT4BR254A43AS",
+            "name": "2015- 2023 FORD EDGE REAR LEFT DOOR REARWARD APPLIQUE MOLDING OEM FT4BR254A43AS",
             "number": "FT4BR254A43AS / FT4BR254A43 AS / FT4B R254A43 AS",
             "oem": "FT4Z58255A35G / FT4Z58255A35 G / FT4Z 58255A35 G",
             "notes": ""
@@ -48737,10 +48954,10 @@ export function App() {
         },
         {
             "id": "NFJyWF6I35CjAZkipurdq",
-            "name": "2019 - 2023 FORD EDGE FWD 2.0L FRONT RIGHT SHOCK STRUT ABSORBER OEM K2GC18045AN",
-            "number": "K2GC18045AN / K2GC18045 AN / K2GC 18045 AN\t",
-            "oem": "K2GZ18124J / K2GZ18124 J / K2GZ 18124 J",
-            "notes": ""
+            "name": "2019 - 2023 FORD EDGE FWD 2.0L FRONT RIGHT SHOCK STRUT ABSORBER OEM K2GC18045ANC",
+            "number": "K2GC18045ANC / K2GC18045 ANC / K2GC 18045 ANC\t",
+            "oem": "K2GZ18124J / K2GZ18124 J / K2GZ 18124 J, K2GZ18124AP / K2GZ18124 AP / K2GZ 18124 AP",
+            "notes": "2.0L FRONT WHEEL DRIVE ONLY."
         },
         {
             "id": "5UCfxslWR_qU8KViD7iKp",
@@ -48758,7 +48975,7 @@ export function App() {
         },
         {
             "id": "fbVcgQCQKPtYvNHFXJIZB",
-            "name": "2019 - 2023 FORD EDGE 2.0L ENGINE MOTOR STARTER 19K MILEAGE OEM K2GT11000BC",
+            "name": "2019 - 2023 FORD EDGE 2.0L ENGINE 12V STARTER MOTOR 32K MILEAGE OEM K2GT11000BC",
             "number": "K2GT11000BC / K2GT11000 BC / K2GT 11000 BC",
             "oem": "K2GZ11002H / K2GZ11002 H / K2GZ 11002 H",
             "notes": ""
@@ -49139,20 +49356,6 @@ export function App() {
             "name": "2015 - 2023 FORD EDGE FRONT WINDSHIELD LEFT SIDE WIPER ARM OEM FT4B17C495AD",
             "number": "FT4B17C495AD / FT4B17C495 AD / FT4B 17C495 AD\t",
             "oem": "FT4Z17527A / FT4Z17527 A / FT4Z 17527 A",
-            "notes": ""
-        },
-        {
-            "id": "qQDzo5iOHhflY9-7Gx4sd",
-            "name": "2015 - 2023 FORD EDGE FWD 2.0L FRONT RIGHT SIDE KNUCKLE & HUB OEM F2GC3K170A",
-            "number": "F2GC3K170A / F2GC3K170 A / F2GC 3K170 A\t",
-            "oem": "K2GZ1104A / K2GZ1104 A / K2GZ 1104 A, F2GZ3K185A / F2GZ3K185 A /",
-            "notes": ""
-        },
-        {
-            "id": "zsguWF_ZhJpmWpg-uMxJu",
-            "name": "2015 - 2023 FORD EDGE FWD 2.0L FRONT LEFT SIDE KNUCKLE & HUB OEM F2GC3K171A",
-            "number": "F2GC3K171A / F2GC3K171 A / F2GC 3K171 A\t",
-            "oem": "F2GZ3K186A / F2GZ3K186 A / F2GZ 3K186 A, K2GZ1104A / K2GZ1104 A /",
             "notes": ""
         },
         {
@@ -53898,7 +54101,7 @@ export function App() {
         },
         {
             "id": "7ExqhfwaJjCRH_2XX-33S",
-            "name": "2015 - 2021 FORD EDGE REAR LEFT DRIVER SIDE QUARTER WINDOW GLASS OEM FT4BR29701A",
+            "name": "2015 - 2023 FORD EDGE REAR LEFT DRIVER SIDE QUARTER WINDOW GLASS OEM FT4BR29701A",
             "number": "FT4BR29701A / FT4BR29701 A / FT4B R29701 A\t",
             "oem": "FT4Z5829711A / FT4Z5829711 A / FT4Z 5829711 A",
             "notes": ""
