@@ -8,6 +8,104 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "mr6KPOcCh_p5wUSJD8lLz",
+        "name": "2015 - 2023 FORD EDGE REAR RIGHT PASSENGER SIDE DOOR WINDOW GLASS REGULATOR OEM",
+        "number": "FT4Z5827008C / FT4Z5827008 C / FT4Z 5827008 C\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "imDVGZI1T8UXAiDL0gyDX",
+        "name": "2019 - 2023 FORD EDGE 2.0L ALTERNATOR GENERATOR 12V 32K MILEAGE OEM K2GT10300BC",
+        "number": "K2GT10300BC / K2GT10300 BC / K2GT 10300 BC",
+        "oem": "K2GZ10346A / K2GZ10346 A / K2GZ 10346 A\t",
+        "notes": ""
+    },
+    {
+        "id": "hfwEWoV5rrzRVkpaXwiW9",
+        "name": "2019 - 2023 FORD EDGE FRONT LEFT SIDE DOOR WIRE WIRING HARNESS OEM M2GT14631ABB",
+        "number": "M2GT14631ABB / M2GT14631 ABB / M2GT 14631 ABB",
+        "oem": "M2GZ14631B / M2GZ14631 B / M2GZ 14631 B",
+        "notes": ""
+    },
+    {
+        "id": "HPpCbjwKpcDrbEi4PXLk1",
+        "name": "2018 - 2023 FORD EDGE TITANIUM FUSE BOX POWER RELAY CONVERTER OEM K2GT14D068GC",
+        "number": "K2GT14D068GC / K2GT14D068 GC / K2GT 14D068 GC\t",
+        "oem": "F2GZ14A068N / F2GZ14A068 N / F2GZ 14A068 N",
+        "notes": ""
+    },
+    {
+        "id": "ozEsZwLNCRpTtTPHOpWgH",
+        "name": "2019 - 2023 FORD EDGE FRONT RIGHT OR LEFT HEADLIGHT BALLAST MODULE OEM L90155434",
+        "number": "L90155434 / L901 55434",
+        "oem": "KT4Z13C788A / KT4Z13C788 A / KT4Z 13C788 A",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "18Tur98CzFFdx28Z_p5qW",
+        "name": "2015 - 2023 FORD EDGE FRONT DASH PANEL LEFT INNER AIR VENT GRILLE TRIM COVER OEM",
+        "number": "EM2Z19893BL / EM2Z19893 BL / EM2Z 19893 BL\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mXxMkS-eoEl2o14EsmHPV",
+        "name": "2016 - 2023 FORD EDGE 2.0L RADIATOR WATER COOLANT TANK RESERVOIR OEM F2G38A080BA",
+        "number": "F2G38A080BA / F2G38A080 BA / F2G3 8A080 BA\t",
+        "oem": "F2GZ8A080B / F2GZ8A080 B / F2GZ 8A080 B",
+        "notes": ""
+    },
+    {
+        "id": "vLy2pxTRwfRMeSlZTHyUr",
+        "name": "2015 - 2023 FORD EDGE REAR RIGHT TRUNK FOAM SOUND INSULATOR TRAY STORAGE OEM",
+        "number": "FT4Z5811168A / FT4Z5811168 A / FT4Z 5811168 A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "W75mYkQa6TdmYX8lTp6qe",
+        "name": "2019 - 2023 FORD EDGE REAR LEFT TRUNK FOAM TRAY SOUND INSULATOR OEM MT4BR11169AB",
+        "number": "MT4BR11169AB / MT4BR11169 AB / MT4B R11169 AB\t",
+        "oem": "KT4Z5811169A / KT4Z5811169 A / KT4Z 5811169 A\t",
+        "notes": ""
+    },
+    {
+        "id": "KNEWe-IkkdYQGAxD52A84",
+        "name": "2020 - 2023 FORD EDGE FRONT LEFT A PILLAR TRIM COVER OEM FT4BR03199AJ BEIGE=LC",
+        "number": "FT4BR03199AJ / FT4BR03199 AJ / FT4B R03199 AJ",
+        "oem": "GT4Z5803599AD / GT4Z5803599 AD / GT4Z 5803599 AD",
+        "notes": ""
+    },
+    {
+        "id": "cSc0Nb_34CMGZjzeVP8sx",
+        "name": "2015 - 2023 FORD EDGE LEFT TRUNK ANTI PINCH POSITION SENSOR OEM GT4BR406A77AA",
+        "number": "GT4BR406A77AA / GT4BR406A77 AA / GT4B R406A77 AA",
+        "oem": "FT4Z58406A77B / FT4Z58406A77 B / FT4Z 58406A77 B",
+        "notes": ""
+    },
+    {
+        "id": "rMkqcuRsqMzP40HaLBJZC",
+        "name": "2015 - 2023 FORD EDGE RIGHT TRUNK ANTI PINCH POSITION SENSOR OEM GT4BR406A76AA",
+        "number": "GT4BR406A76AA / GT4BR406A76 AA / GT4B R406A76 AA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "NgQenLR4nv5mJmCNguciU",
+        "name": "2015 - 2023 FORD EDGE FRONT RIGHT SIDE DOOR WINDOW GLASS REGULATOR MOTOR OEM",
+        "number": "FT4Z7823394A / FT4Z7823394 A / FT4Z 7823394 A\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "JhbS_CxjnoZDXBPPzxTJT",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT SIDE DOOR WINDOW GLASS REGULATOR MOTOR OEM",
+        "number": "FT4Z7823395A / FT4Z7823395 A / FT4Z 7823395 A\t",
+        "oem": "",
+        "notes": ""
+    },
+        {
         "id": "FXymjZFIqygQSHLhCjJt6",
         "name": "2015 - 2023 FORD EDGE FRONT LEFT DOOR WINDOW GLASS RUN CHANNEL WEATHERSTRIP OEM",
         "number": "FT4Z5821597H / FT4Z5821597 H / FT4Z 5821597 H\t",
@@ -54143,7 +54241,7 @@ export function App() {
         },
         {
             "id": "BNQ6M0Ov9KmZxOKU5DNFm",
-            "name": "2019 - 2021 FORD EDGE FRONT LEFT OR RIGHT HEADLIGHT BALLAST MODULE OEM L90155434",
+            "name": "2019 - 2023 FORD EDGE FRONT LEFT OR RIGHT HEADLIGHT BALLAST MODULE OEM L90155434",
             "number": "L90155434 / L901 55434",
             "oem": "KT4Z13C788A / KT4Z13C788 A / KT4Z 13C788 A",
             "notes": "FITS ANY SIDES, RIGHT AND LEFT."
