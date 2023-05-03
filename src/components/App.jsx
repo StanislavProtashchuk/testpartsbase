@@ -28866,7 +28866,7 @@ export function App() {
         "id": "1mHZ8BCt60EGjXRpMAscM",
         "name": "2020 -2022 FORD ESCAPE FWD 1.5L FRONT RIGHT AXLE SHAFT HALFSHAFT OEM LX673B436GA",
         "number": "LX673B436GA / LX673B436 GA / LX67 3B436 GA",
-        "oem": "LX6Z3B436B / LX6Z3B436 B / LX6Z 3B436 B",
+        "oem": "LX6Z3B436L / LX6Z3B436 L / LX6Z 3B436 L",
         "notes": ""
     },
     {
@@ -40813,7 +40813,7 @@ export function App() {
     },
     {
         "id": "xAlTqDzHiattIL9jv5Di_",
-        "name": "2018 - 2023 LINCOLN NAVIGATOR FRONT DIFFERENTIAL MOUNT BRACKET OEM JL147F123AB",
+        "name": "2018 - 2023 LINCOLN NAVIGATOR TRANSFER CASE BACK MOUNT BRACKET OEM JL147F123AB",
         "number": "JL147F123AB / JL147F123 AB / JL14 7F123 AB\t",
         "oem": "",
         "notes": ""
