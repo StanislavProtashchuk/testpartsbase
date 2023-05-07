@@ -7,6 +7,377 @@ import ContactList from './ContactList';
 export function App() {
 
     const [contacts, setContacts] = useState([
+        {
+        "id": "1m_jvHIBzx87Fm77yhnBn",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER BATTERY TRAY HOLDER MOUNT BRACKET STORAGE OEM",
+        "number": "60003161",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "r8RyFyyT7D6tI9vmoTxCj",
+        "name": "2021- 2023 CHEVROLET TRAILBLAZER 1.3L ENGINE FRONT SPLASH SHIELD GUARD COVER OEM",
+        "number": "12697665",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "JDNLiDhcHkuwos44i07zo",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FUEL FILLER HOUSING DOOR COVER OEM WHITE=GAZ",
+        "number": "42755437",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "g0Bja-CUO8660h5RP8LQ2",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT OR RIGHT SIDE BRAKE DISC ROTOR OEM",
+        "number": "13507431",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "kl406OOpmQ95A89IwdaQL",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER REAR LEFT SEAT BELT SEATBELT BUCKLE OEM 60007097",
+        "number": "60007097",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "maaC85qIp_pp8BI1HH3Ao",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER THROTTLE ACCELERATOR GAS PEDAL OEM 42795022",
+        "number": "42795022",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "lYI0N0irO5O4yXbrE6yIg",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER AWD 1.3L TRANSFER CASE MOUNT OEM 84113051",
+        "number": "84113051",
+        "oem": "",
+        "notes": "ALL WHEEL DRIVE ONLY."
+    },
+    {
+        "id": "Y2AbaJYxh8yTtfzh0vbyb",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT HOOD BONNET LATCH LOCK ACTUATOR OEM",
+        "number": "42752889",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "1FH32s0F5YH70pgZ8EPKV",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LIFTGATE WIRE WIRING HARNESS OEM 42771207",
+        "number": "42771207",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "x-J0XKI5hZWTNr-Ik9QQ_",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT RIGHT SIDE SEAT BELT BUCKLE OEM 60007105",
+        "number": "60007105",
+        "oem": "42798700",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "sdGXfSUd8pFV3Rp_zvqTk",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER REAR RIGHT OR LEFT BRAKE DISC ROTOR OEM 13507431",
+        "number": "13507431",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "R5UBUcJYHNOP6JJS_kpUn",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT RIGHT SIDE BRAKE DISC ROTOR OEM 13517843",
+        "number": "13517843",
+        "oem": "13537160",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "G-BPzmoEorXiK7-k9X9O9",
+        "name": "2021- 2023 CHEVROLET TRAILBLAZER REAR LEFT DOOR WIRE WIRING HARNESS OEM 42789236",
+        "number": "42789236",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "YxpLJrBtTxNOVWQsA3LCk",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER ROOF HEADLINER INTERIOR GRAB HANDLE SET OF 4 OEM",
+        "number": "42687352",
+        "oem": "42687355, 26250037, 42687357\t",
+        "notes": ""
+    },
+    {
+        "id": "RUyfW6DZjLoJOcd0nyQx7",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER REAR RIGHT DOOR WIRE WIRING HARNESS OEM 42789237",
+        "number": "42789237",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Wp41lOm-yIFbnwQ0vsGtl",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER FRONT LEFT DOOR WINDOW GLASS MOTOR OEM 42748833",
+        "number": "42748833",
+        "oem": "42654619",
+        "notes": ""
+    },
+    {
+        "id": "GS8pCH7JHoZC6tZ2kmn--",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER DASH LEFT VENT GRILLE TRIM COVER OEM 42578266",
+        "number": "42578266",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "hHdVi0fSPPXbKlL0rDwVp",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR RIGHT DOOR HINGE SET OF 2 OEM WHITE=GAZ",
+        "number": "13590932",
+        "oem": "13581569",
+        "notes": ""
+    },
+    {
+        "id": "o8xWTTsAT-SKxIenKKb0c",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT QUARTER FLARE MOLDING OEM BHR37965",
+        "number": "BHR37965",
+        "oem": "42810380",
+        "notes": ""
+    },
+    {
+        "id": "5yirihE0z7d0RBtnAX2ye",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT WINDSHIELD LEFT SIDE WIPER ARM OEM",
+        "number": "42709512",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "HXgga2mSGm-fVl8g9tiiD",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR RIGHT OR LEFT COIL SPRING OEM 42743545",
+        "number": "42743545",
+        "oem": "",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "a21DPqtf3dACzbRS0GPeW",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER CENTER CONSOLE RIGHT TRIM COVER OEM 42749833",
+        "number": "42749833",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "eaQopnah9-rOpGwKnjnM4",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L ENGINE AIR INTAKE DUCT HOSE OEM 60006445",
+        "number": "60006445",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "TSedi7kKnM-_M2AyGgXf6",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT RIGHT SEAT HEATER MODULE OEM 13550919",
+        "number": "13550919",
+        "oem": "13534721",
+        "notes": ""
+    },
+    {
+        "id": "DS2LOoqtvG42VXMARAWoC",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L BATTERY POSITIVE TERMINAL OEM 42757805",
+        "number": "42757805",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "wsxemSyjaWIrxE-huaiMo",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER AWD 1.3L TRANSMISSION MOUNT BRACKET OEM 60005916",
+        "number": "60005916",
+        "oem": "",
+        "notes": "ALL WHEEL DRIVE ONLY."
+    },
+    {
+        "id": "y6JLuuQx6D_neLiGRkarR",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L INTERCOOLER AIR INLET HOSE OEM 60003643",
+        "number": "60003643",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "0aeIaJS_awehdxOrQT0G2",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER AWD TRANSMISSION OIL COOLER LINE OEM 24042531",
+        "number": "24042531",
+        "oem": "24298411",
+        "notes": "ALL WHEEL DRIVE ONLY."
+    },
+    {
+        "id": "PO358Swms8ry04FvfB7Pf",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER CENTER CONSOLE BACK TRIM COVER OEM 42715154",
+        "number": "42715154",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Y2SA0cfeAM-ZTmZ6qW4AA",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER KEYLESS ENTRY RECEIVER MODULE OEM 13540045",
+        "number": "13540045",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Y6y_vkfB8UD5doCyDAui2",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L WATER COOLANT PUMP CROSS OVER LINE OEM",
+        "number": "12703636",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "ynir9QmFMlc_2fQM3Czek",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER COLLISION ALLERT DISPLAY MONITOR OEM 84856592",
+        "number": "84856592",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "cDbOJKXRmsG_czFHQ5Nwd",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER POWER BRAKE BOOSTER FLUID RESERVOIR TANK OEM",
+        "number": "60003248",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "IVVdgsE7FRnJaGQ0tzID8",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT AIR INTAKE INLET BUFFLE OEM 60002343",
+        "number": "60002343",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "FXr_JkN4nHYnpwrVK3q-3",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT BUMPER MOUNT BRACKET SUPPORT OEM",
+        "number": "42747854",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "2d9Z6oBwde0xXqj7h6Fs_",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER TAILGATE RIGHT SHOCK LIFT SUPPORT OEM 42726523",
+        "number": "42726523",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "uLByIrqTv2n_57MgaKN5d",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER TAILGATE LEFT SHOCK LIFT SUPPORT OEM 42726522",
+        "number": "42726522",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4YPxAJac2RmdyCZ-NExno",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT BUMPER RIGHT MOUNT BRACKET OEM 42769519",
+        "number": "42769519",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "4QEX2fA-aMSUIaS5XwpeJ",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR BUMPER LEFT MOUNT BRACKET SUPPORT OEM",
+        "number": "42766413",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "gUNMPt2mulEHZN9bAGqb0",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR BUMPER LEFT UPPER TAILLIGHT BRACKET OEM",
+        "number": "42752444",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "uTtYgGEZz7qnrU9NE_Zbk",
+        "name": "2021- 2023 CHEVROLET TRAILBLAZER REAR BUMPER LEFT TAILLIGHT BRACKET OEM 42752445",
+        "number": "42752445",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "G9vA9BfpN1AR25h8gaR4b",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR RIGHT LOWER CONTROL ARM LINK OEM 42533093",
+        "number": "42533093",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "hjKZO-n-a0jvrGb2MzyCM",
+        "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT DOOR SEAL RUBBER WEATHERSTRIP OEM",
+        "number": "42697579",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "wfcuXdPpUqlzZXmPUUSLe",
+        "name": "2021-2023 CHEVROLET TRAILBLAZER FRONT FLOOR CARPET RETAINER BRACKET OEM 84220298",
+        "number": "84220298",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "hBbWdqtjqcVS4_m_fuGJI",
+        "name": "2018 - 2021 MAZDA 6 FWD 2.5L STEERING COLUMN ASSEMBLY 10K MILEAGE OEM GBEF3210XB",
+        "number": "GBEF3210XB / GBEF 32 10XB\t",
+        "oem": "GBEF32150A / GBEF 32 150A",
+        "notes": ""
+    },
+    {
+        "id": "pm_bfnirTwPi6nzxyF8h-",
+        "name": "2018 - 2021 MAZDA 6 FWD 2.5L ENGINE EMISSION WIRE WIRING HARNESS OEM KC9E67020B",
+        "number": "KC9E67020B / KC9E 67 020B\t",
+        "oem": "GBFN67020B / GBFN 67 020B",
+        "notes": ""
+    },
+    {
+        "id": "PPyztLntRUz8nZl-C3SJF",
+        "name": "2014 - 2016 MASERATI GHIBLI LEFT DOOR REAR VIEW MIRROR OEM 242476001 SILVER=GRI",
+        "number": "242476001",
+        "oem": "670048057",
+        "notes": ""
+    },
+    {
+        "id": "rkwSrOcDgqTojjhEtvQQw",
+        "name": "2014 - 2021 MASERATI GHIBLI REAR LEFT DOOR WINDOW GLASS REGULATOR MOTOR OEM",
+        "number": "670102274",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "PH-IkQ4MqNrdpnkDoqtg1",
+        "name": "2014 - 2021 MASERATI GHIBLI FRONT LEFT SIDE UPPER CONTROL ARM OEM 06700041850",
+        "number": "06700041850 / 6700041850 / 670004185\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "cLL636XlPL4FMmT4gS9Py",
+        "name": "2014-2021 MASERATI GHIBLI 3.0L FUEL VAPOR CANISTER SOLENOID VALVE OEM 0280142414",
+        "number": "0280142414 / 280142414\t",
+        "oem": "670007319",
+        "notes": ""
+    },
+    {
+        "id": "8BCzdg9cQVm5YDzuP7C6a",
+        "name": "2014- 2021 MASERATI GHIBLI REAR BUMPER RIGHT MOUNT BRACKET SUPPORT OEM 670004465",
+        "number": "670004465",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "DW4mu_5zwp2yh7qT5SzwX",
+        "name": "2013 - 2016 MASERATI QUATTROPORTE REAR SUSPENSION RIGHT CONTROL ARM SET OF 5 OEM",
+        "number": "670006273",
+        "oem": "670002808, 670036580, 670007252, 670007251",
+        "notes": "FITS ANY SIDES, RIGHT AND LEFT"
+    },
+    {
+        "id": "KOQra6yQnmZG-T9kKvf-z",
+        "name": "2013 - 2022 MASERATI QUATTROPORTE AWD 3.0L REAR LEFT AXLE SHAFT OEM 06700054540",
+        "number": "06700054540 / 6700054540 / 670005454",
+        "oem": "670104207",
+        "notes": ""
+    },
             {
         "id": "nbXE38oD5ITo-Zp_UWXou",
         "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT LEFT DOOR WINDOW REGULATOR OEM 42817546",
@@ -88332,7 +88703,7 @@ export function App() {
         },
         {
             "id": "MxDY5LbfcI_eWCgVneSAT",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER AC A/C AIR CONDITIONER LINE HOSE OEM 60006693",
+            "name": "2021- 2023 CHEVROLET TRAILBLAZER 1.3L HVAC A/C EVAPORATOR LINE HOSE OEM 60006693",
             "number": "60006693",
             "oem": "",
             "notes": ""
@@ -90319,13 +90690,6 @@ export function App() {
             "notes": ""
         },
         {
-            "id": "72fb8jzgBDxhTTENyNep6",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER CENTER CONSOLE RIGHT TRIM COVER OEM 42749832",
-            "number": "42749832",
-            "oem": "42749833",
-            "notes": ""
-        },
-        {
             "id": "a8VYKm6brPRvPEsPbKDjl",
             "name": "2021- 2023 CHEVROLET TRAILBLAZER FRONT CENTER CONSOLE ACCESORY TRAY OEM 42747853",
             "number": "42747853",
@@ -90782,7 +91146,7 @@ export function App() {
         },
         {
             "id": "tXqhU_V87Ne_F4Zkml9rx",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER STEERING GEAR INTERMEDIATE SHAFT OEM 60006375",
+            "name": "2021- 2023 CHEVROLET TRAILBLAZER STEERING COLUMN INTERMEDIATE SHAFT OEM 60006375",
             "number": "60006375",
             "oem": "60003276",
             "notes": ""
@@ -91391,7 +91755,7 @@ export function App() {
         },
         {
             "id": "yCVtiuD1dkoWVruIZUCPL",
-            "name": "2021-2023 CHEVROLET TRAILBLAZER FRONT LEFT SEAT SWITCH COVER PANEL OEM 84167862",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT LEFT SEAT SWITCH TRIM COVER OEM 84167862",
             "number": "84167862",
             "oem": "",
             "notes": ""
@@ -91831,20 +92195,6 @@ export function App() {
             "notes": ""
         },
         {
-            "id": "eqW9TQRRj4xbZ7rp_77Dc",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR RIGHT LIFTGATE HATCH STRUT OEM 42726523",
-            "number": "42726523",
-            "oem": "42726522",
-            "notes": "FITS ANY SIDES, RIGHT AND LEFT"
-        },
-        {
-            "id": "FWqAmYpPqhuScCzMkyJjQ",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT LIFTGATE HATCH STRUT OEM 42726522",
-            "number": "42726522",
-            "oem": "42726523",
-            "notes": "FITS ANY SIDES, RIGHT AND LEFT"
-        },
-        {
             "id": "QhbL5rYanIh0l7exuK4uZ",
             "name": "2021 - 2023 CHEVROLET TRAILBLAZERFRONT LOW PITCH NOTE TONE HORN OEM 42583655",
             "number": "42583655",
@@ -91860,7 +92210,7 @@ export function App() {
         },
         {
             "id": "Z3BisJZQgKJ2pVynM1ovh",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR TAILGATE UPPER COVER TRIM OEM 42722442",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR TAILGATE UPPER TRIM COVER OEM 42722442",
             "number": "42722442",
             "oem": "42722444",
             "notes": ""
@@ -91951,7 +92301,7 @@ export function App() {
         },
         {
             "id": "vTmJyUiYRH0Lg2SXqd3rN",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT BUMPER RIGHT TURN SIGNAL OEM 42716024",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER FRONT BUMPER RIGHT MARKER LAMP OEM 42716024",
             "number": "42716024",
             "oem": "",
             "notes": ""
@@ -92049,7 +92399,7 @@ export function App() {
         },
         {
             "id": "-8g21x6i6JoL6yg8zDJUO",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER 1.3L ENGINE MOTOR TIMING COVER OEM 12703934",
+            "name": "2021- 2023 CHEVROLET TRAILBLAZER 1.3L ENGINE MOTOR APPEARANCE COVER OEM 12703934",
             "number": "12703934",
             "oem": "",
             "notes": ""
@@ -92126,7 +92476,7 @@ export function App() {
         },
         {
             "id": "WFWsdUPZRschQ4cyGOvdZ",
-            "name": "2021-2022 CHEVROLET TRAILBLAZER DASHBOARD CENTER LOWER COVER PANEL OEM 42727360",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER DASHBOARD CENTER LOWER TRIM COVER OEM 42727360",
             "number": "42727360",
             "oem": "",
             "notes": ""
@@ -92182,7 +92532,7 @@ export function App() {
         },
         {
             "id": "_odg9xkCeH9I6RF4W6khT",
-            "name": "2021-2022 CHEVROLET TRAILBLAZER STEERING COLUMN TURN SIGNAL SWITCH OEM 42750983",
+            "name": "2021- 2023 CHEVROLET TRAILBLAZER STEERING COLUMN TURN SIGNAL SWITCH OEM 42750983",
             "number": "42750983",
             "oem": "",
             "notes": ""
@@ -92357,7 +92707,7 @@ export function App() {
         },
         {
             "id": "PBRpl4DY4T3B8spezrt1g",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER RIGHT LOWER B PILLAR TRIM COVER OEM 42484868",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER RIGHT B PILLAR LOWER TRIM COVER OEM 42484868",
             "number": "42484868",
             "oem": "42786351",
             "notes": ""
@@ -92371,7 +92721,7 @@ export function App() {
         },
         {
             "id": "SXGV-GRubDiPAtxg0q1fZ",
-            "name": "2021 - 2023 CHEVROLET TRAILBLAZER RIGHT UPPER B PILLAR TRIM COVER OEM 42725305",
+            "name": "2021 - 2023 CHEVROLET TRAILBLAZER RIGHT B PILLAR UPPER TRIM COVER OEM 42725305",
             "number": "42725305",
             "oem": "42763407",
             "notes": ""
@@ -92601,13 +92951,6 @@ export function App() {
             "notes": ""
         },
         {
-            "id": "nH5l6SKgReU_iXfCCS519",
-            "name": "2021 CHEVROLET TRAILBLAZER CENTER CONSOLE RIGHT TRIM COVER PANEL OEM 42749832",
-            "number": "42749832",
-            "oem": "",
-            "notes": ""
-        },
-        {
             "id": "6zrzDRt5ZwndjuDtfpVT-",
             "name": "2021-2023 CHEVROLET TRAILBLAZER DASH RIGHT PASSENGER AIR BAG MODULE OEM 60005873",
             "number": "60005873",
@@ -92633,14 +92976,14 @@ export function App() {
             "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR RIGHT ABS WHEEL SPEED SENSOR OEM 60002341",
             "number": "60002341",
             "oem": "",
-            "notes": ""
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "p46h0dofj1LlDlZdzD3b8",
             "name": "2021 - 2023 CHEVROLET TRAILBLAZER REAR LEFT ABS WHEEL SPEED SENSOR OEM 60002341",
             "number": "60002341",
             "oem": "",
-            "notes": ""
+            "notes": "FITS ANY SIDES, RIGHT AND LEFT."
         },
         {
             "id": "9U09IXvoMIIEi2ZlBIC2q",
