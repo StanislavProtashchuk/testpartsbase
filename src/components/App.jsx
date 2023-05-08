@@ -8,6 +8,272 @@ export function App() {
 
     const [contacts, setContacts] = useState([
         {
+        "id": "cMP5rMnXE5o4RSPk6I0Cb",
+        "name": "2015 - 2023 FORD EDGE FRONT DASH RIGHT AIR BAG AIRBAG MODULE OEM FT4BR044A74AK",
+        "number": "FT4BR044A74AK / FT4BR044A74 AK / FT4B R044A74 AK",
+        "oem": "FT4Z58044A74A / FT4Z58044A74 A / FT4Z 58044A74 A\t",
+        "notes": ""
+    },
+    {
+        "id": "Rz4GNKczGMA_reyrF6peT",
+        "name": "2015 - 2023 FORD EDGE REAR BUMPER REINFORCEMENT IMPACT BEEM BAR OEM",
+        "number": "FT4Z17906A / FT4Z17906 A / FT4Z 17906 A",
+        "oem": "",
+        "notes": "W/O TRAILER HITCH ONLY."
+    },
+    {
+        "id": "vgYySrHs5cynivfYCZHpQ",
+        "name": "2015- 2023 FORD EDGE REAR BUMPER REINFORCEMENT ENERGY IMPACT BAR OEM FT4B17970AC",
+        "number": "FT4B17970AC / FT4B17970 AC / FT4B 17970 AC",
+        "oem": "FT4Z17906A / FT4Z17906 A / FT4Z 17906 A",
+        "notes": "W/O TRAILER HITCH ONLY."
+    },
+    {
+        "id": "7HF-zxc9hfsLEwHKSn65-",
+        "name": "2020 21 FORD EDGE SPARE WHEEL STEEL 17x4B ET37.5 TIRE MAXXIS T155/70D17 110M OEM",
+        "number": "EM2Z1015A / EM2Z1015 A / EM2Z 1015 A\t",
+        "oem": "",
+        "notes": "2015 / 2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022 / 2023"
+    },
+    {
+        "id": "gx4bVsE4WiJ1keSiQ7vzV",
+        "name": "2015 - 2023 FORD EDGE REAR ROOF SHARK FIN ANTENNA OEM JD9T19K351AA BLACK=UM",
+        "number": "JD9T19K351AA / JD9T19K351 AA / JD9T 19K351 AA",
+        "oem": "JJ7Z18936AAPTM / JJ7Z18936 AAPTM / JJ7Z 18936 AAPTM\t",
+        "notes": ""
+    },
+    {
+        "id": "zJPW3xpVAEltnJqsZtWfB",
+        "name": "2015 - 2023 FORD EDGE FRONT RIGHT HOOD BONNET HINGE OEM FT4BR16800A BLACK=UM",
+        "number": "FT4BR16800A / FT4BR16800 A / FT4B R16800 A",
+        "oem": "FT4Z16796A / FT4Z16796 A / FT4Z 16796 A",
+        "notes": ""
+    },
+    {
+        "id": "-VMn3S09aYGheYDFW-CZD",
+        "name": "2015 - 2023 FORD EDGE FWD REAR LEFT LOWER CONTROL ARM TOE LINK OEM E1GC5K898AX",
+        "number": "E1GC5K898AX / E1GC5K898 AX / E1GC 5K898 AX\t",
+        "oem": "E1GZ5K898C / E1GZ5K898 C / E1GZ 5K898 C\t",
+        "notes": "FRONT WHEEL DRIVE ONLY. FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "xnJsjQCrELiDlVXgEvSsp",
+        "name": "2015 - 2023 FORD EDGE FWD REAR RIGHT LOWER CONTROL ARM LINK OEM E1GC5A972AX",
+        "number": "E1GC5A972AX / E1GC5A972 AX / E1GC 5A972 AX\t",
+        "oem": "E1GZ5A972A / E1GZ5A972 A / E1GZ 5A972 A\t",
+        "notes": "FRONT WHEEL DRIVE ONLY. FITS ANY SIDES, RIGHT AND LEFT."
+    },
+    {
+        "id": "3vCeTgmwXjFXvxfuDWn1C",
+        "name": "2015 - 2023 FORD EDGE FWD REAR SUSPENSION LEFT UPPER CONTROL ARM OEM E1GC5501AX",
+        "number": "E1GC5501AX / E1GC5501 AX / E1GC 5501 AX\t",
+        "oem": "E1GZ5500B / E1GZ5500 B / E1GZ 5500 B\t",
+        "notes": "FRONT WHEEL DRIVE ONLY."
+    },
+    {
+        "id": "HdpeyS_fU_j380-qkHtSy",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT HOOD BONNET HINGE OEM FT4BR16801A BLACK=UM",
+        "number": "FT4BR16801A / FT4BR16801 A / FT4B R16801 A",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "I1bSbyiQaq82Y6CuHWXDD",
+        "name": "2019 - 2023 FORD EDGE REAR RIGHT SIDE OUTER TAILLIGHT LIGHT LAMP OEM KT4B13404B",
+        "number": "KT4B13404B / KT4B13404 B / KT4B 13404 B",
+        "oem": "KT4Z13404D / KT4Z13404 D / KT4Z 13404 D\t",
+        "notes": ""
+    },
+    {
+        "id": "5sCkNVfE6N4fWzAhbY6LD",
+        "name": "2019 - 2023 FORD EDGE FWD 2.0L STEERING GEAR RACK & PINION OEM L2GC3D070AA",
+        "number": "L2GC3D070AA / L2GC3D070 AA / L2GC 3D070 AA\t",
+        "oem": "M2GZ3504D / M2GZ3504 D / M2GZ 3504 D, M2GZ3504F / M2GZ3504 F / M2GZ 3504 F",
+        "notes": ""
+    },
+    {
+        "id": "hqhzLdxElMi4DEbTdeYH3",
+        "name": "2015 - 2023 FORD EDGE 2.0L FRONT SUBFRAME CRADLE CROSSMEMBER UNDERCARRIAGE OEM",
+        "number": "K2GZ5C145C / K2GZ5C145 C / K2GZ 5C145 C\t",
+        "oem": "",
+        "notes": "2.0L ENGINE ONLY. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+    },
+    {
+        "id": "n6DIGjVSbWd5OTr7lX60I",
+        "name": "2019 2020 2021 2022 FORD EDGE TITANIUM WHEEL RIM ALLOY 19X8J OEM KT4C1007C1B",
+        "number": "KT4C1007C1B / KT4C1007C1 B / KT4C 1007C1 B",
+        "oem": "KT4Z1007C / KT4Z1007 C / KT4Z 1007 C",
+        "notes": ""
+    },
+    {
+        "id": "lvarCOE6B3vsMC562002v",
+        "name": "2015 - 2023 FORD EDGE REAR TAILGATE LIFTGATE SPOILER COVER PANEL OEM BLACK=UM",
+        "number": "FT4Z5844210AD / FT4Z5844210 AD / FT4Z 5844210 AD",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "mTfbiPsSUyZ0ApiL6juba",
+        "name": "2016 - 2021 HONDA CIVIC 2.0L ENGINE INLET AIR INTAKE MANIFOLD OEM 5BAC057289579",
+        "number": "5BAC057289579 / 5BAC057 289579\t",
+        "oem": "171005BAA01 / 17100 5BA A01",
+        "notes": ""
+    },
+    {
+        "id": "2TOXWxN4z2UhVCyUCaeZK",
+        "name": "2019 - 2023 FORD EDGE FWD 2.0L ENGINE MAIN WIRE WIRING HARNESS OEM KU5T12C508EF",
+        "number": "KU5T12C508EF / KU5T12C508 EF / KU5T 12C508 EF\t",
+        "oem": "K2GZ12A581B / K2GZ12A581 B / K2GZ 12A581 B",
+        "notes": ""
+    },
+    {
+        "id": "SWd-Brgd68HPgWehTFLa3",
+        "name": "2015 - 2023 FORD EDGE 2.0L ENGINE RADIATOR WATER COOLER COOLING OEM F2G38005CF",
+        "number": "F2G38005CF / F2G38005 CF / F2G3 8005 CF\t",
+        "oem": "F2GZ8005G / F2GZ8005 G / F2GZ 8005 G",
+        "notes": ""
+    },
+    {
+        "id": "qg67_Hww3vpu9LsPCPx_s",
+        "name": "2015 - 2023 FORD EDGE REAR SEAT LEATHER ARMREST COVER OEM FT4BR67112BK BEIGE=LC",
+        "number": "FT4BR67112BK / FT4BR67112 BK / FT4B R67112 BK\t",
+        "oem": "FT4Z5867112BG / FT4Z5867112 BG / FT4Z 5867112 BG",
+        "notes": ""
+    },
+    {
+        "id": "Jqtw29xX39Blc--DwkFhe",
+        "name": "2015- 2023 FORD EDGE FWD 2.0L REAR RIGHT SIDE STEERING SPINDLE KNUCKLE & HUB OEM",
+        "number": "E1GZ5B758B / E1GZ5B758 B / E1GZ 5B758 B\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "lTLl3lyYwJbzbG2etMJrI",
+        "name": "2015-2023 FORD EDGE FRONT FWD 2.0L RIGHT SIDE STEERING SPINDLE KNUCKLE & HUB OEM",
+        "number": "F2GZ3K185A / F2GZ3K185 A / F2GZ 3K185 A\t",
+        "oem": "K2GZ1104A / K2GZ1104 A / K2GZ 1104 A",
+        "notes": ""
+    },
+    {
+        "id": "jeqQcnKa5mqxRJrF5PdGe",
+        "name": "2015 - 2023 FORD EDGE FWD 2.0L FRONT LEFT STEERING SPINDLE KNUCKLE & HUB OEM",
+        "number": "F2GZ3K186A / F2GZ3K186 A / F2GZ 3K186 A",
+        "oem": "K2GZ1104A / K2GZ1104 A / K2GZ 1104 A",
+        "notes": ""
+    },
+    {
+        "id": "5F32-AJQFMQqsvuAhzIf2",
+        "name": "2015 - 2023 FORD EDGE FRONT LEFT UNDER BODY SPLASH SHIELD GUARD DEFLECTOR OEM",
+        "number": "K2GZ5811782D / K2GZ5811782 D / K2GZ 5811782 D\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "KBCqqLSJn58dEUfb2gS50",
+        "name": "2019 - 2023 FORD EDGE REAR TAILGATE LEFT SHOCK LIFT CYLINDER OEM KT4BR402A55BB",
+        "number": "KT4BR402A55BB / KT4BR402A55 BB / KT4B R402A55 BB",
+        "oem": "KT4Z58406A10A / KT4Z58406A10 A / KT4Z 58406A10 A",
+        "notes": ""
+    },
+    {
+        "id": "1_2dBlHB_e-sedfkDb5I_",
+        "name": "2019 - 2023 FORD EDGE FRONT BUMPER SPLASH SHIELD MUD FLAP COVER OEM KT4BR8B384AC",
+        "number": "KT4BR8B384AC / KT4BR8B384 AC / KT4B R8B384 AC\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "HqYBEoKNWCQBfWkWC6RML",
+        "name": "2015 - 2023 FORD EDGE 2.0L ENGINE SLASH SHIELD MUD FLAP COVER OEM FT4B6P013AD",
+        "number": "FT4B6P013AD / FT4B6P013 AD / FT4B 6P013 AD",
+        "oem": "FT4Z6P013B / FT4Z6P013 B / FT4Z 6P013 B",
+        "notes": "2.0L ENGINE ONLY."
+    },
+    {
+        "id": "7CCfD-TDddUAsP9F8CHE7",
+        "name": "2019 - 2023 FORD EDGE FRONT BUMPER PARK SENSOR WIRING HARNESS OEM L2GT15K867GA",
+        "number": "L2GT15K867GA / L2GT15K867 GA / L2GT 15K867 GA\t",
+        "oem": "L2GZ15K867A / L2GZ15K867 A / L2GZ 15K867 A",
+        "notes": ""
+    },
+    {
+        "id": "MFkmw5oKwyPagDnU-H0_L",
+        "name": "2019 - 2023 FORD EDGE REAR CENTER SEAT BELT SEATBELT RETRACTOR OEM FT4BR611B64AH",
+        "number": "FT4BR611B64AH / FT4BR611B64 AH / FT4B R611B64 AH",
+        "oem": "FT4Z58611B64AR / FT4Z58611B64 AR / FT4Z 58611B64 AR",
+        "notes": ""
+    },
+    {
+        "id": "rHnUVK6jsvOprsQkE1vBP",
+        "name": "2015- 2023 FORD EDGE FWD 2.0L FRONT STABILIZER SWAY BAR W/ LINKS OEM F2GC5494ANC",
+        "number": "F2GC5494ANC / F2GC5494 ANC / F2GC 5494 ANC",
+        "oem": "F2GZ5482A / F2GZ5482 A / F2GZ 5482 A, DG9Z5K484A / DG9Z5K484 A / DG9Z 5K484 A",
+        "notes": "2.0L ENGINE ONLY."
+    },
+    {
+        "id": "1yWYZOYM7Hp1PqwI7tNkR",
+        "name": "2015 - 2023 FORD EDGE FRONT WINDSHIELD WASHER FLUID RESERVOIR TANK BOTTLE OEM",
+        "number": "GT4Z17618H / GT4Z17618 H / GT4Z 17618 H\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "xHV5YEv3r8w0Zif-NWPZT",
+        "name": "2019 - 2023 FORD EDGE RADIATOR CORE SUPPORT UPPER SIGHT SHIELD OEM KT4BR16613AA",
+        "number": "KT4BR16613AA / KT4BR16613 AA / KT4B R16613 AA",
+        "oem": "KT4Z16A238A / KT4Z16A238 A / KT4Z 16A238 A",
+        "notes": ""
+    },
+    {
+        "id": "rC6j99871SKdFNe2PVdjh",
+        "name": "2015 - 2023 FORD EDGE REAR RIGHT SIDE DOOR WIRE WIRING HARNESS OEM L2GT14632ADB",
+        "number": "L2GT14632ADB / L2GT14632 ADB / L2GT 14632 ADB\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "AmYJnwNasnB9WpVEQF8Y0",
+        "name": "2019 - 2023 FORD EDGE FRONT RIGHT SIDE DOOR WIRE WIRING HARNESS OEM L2GT14630ACA",
+        "number": "L2GT14630ACA / L2GT14630 ACA / L2GT 14630 ACA",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "Svd5erjtRcxd3MsuIJCCa",
+        "name": "2019-2023 FORD EDGE REAR BUMPER PARK SENSOR WIRE WIRING HARNESS OEM K2GT15K868CD",
+        "number": "K2GT15K868CD / K2GT15K868 CD / K2GT 15K868 CD\t",
+        "oem": "K2GZ15K868C / K2GZ15K868 C / K2GZ 15K868 C",
+        "notes": ""
+    },
+    {
+        "id": "rsZq2fjBicfrX0OSEaIYU",
+        "name": "2019 - 2023 FORD EDGE FRONT LEFT SIDE DOOR WIRE WIRING HARNESS OEM L2GT14631ABB",
+        "number": "L2GT14631ABB / L2GT14631 ABB / L2GT 14631 ABB",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "QXbsb-JWtNHpHoeq1YcVf",
+        "name": "2015 - 2023 FORD EDGE DASH PANEL RIGHT OUTER AIR VENT GRILLE TRIM OEM KM2B19893B",
+        "number": "KM2B19893B / KM2B19893 B / KM2B 19893 B",
+        "oem": "EM2Z19893BG / EM2Z19893 BG / EM2Z 19893 BG",
+        "notes": ""
+    },
+    {
+        "id": "b8zPe7mdf1CC5QqbIZ6aC",
+        "name": "2015 - 2023 FORD EDGE DASH PANEL RIGHT SIDE INNER AIR VENT GRILLE TRIM COVER OEM",
+        "number": "EM2Z19893BH / EM2Z19893 BH / EM2Z 19893 BH\t",
+        "oem": "",
+        "notes": ""
+    },
+    {
+        "id": "dZGYaEtEbwHHfxZ6r4rlz",
+        "name": "2015- 2023 FORD EDGE DASH PANEL LEFT OUTER AIR VENT GRILLE TRIM OEM KM2B19C696BL",
+        "number": "KM2B19C696BL / KM2B19C696 BL / KM2B 19C696 BL",
+        "oem": "EM2Z19893BN / EM2Z19893 BN / EM2Z 19893 BN",
+        "notes": ""
+    },
+        {
         "id": "1m_jvHIBzx87Fm77yhnBn",
         "name": "2021 - 2023 CHEVROLET TRAILBLAZER BATTERY TRAY HOLDER MOUNT BRACKET STORAGE OEM",
         "number": "60003161",
@@ -13155,7 +13421,7 @@ export function App() {
     },
     {
         "id": "3kiy5zEGojposfVP6C4Xl",
-        "name": "2020 - 2023 FORD EDGE REAR LEFT UPPER SEAT CUSHION LEATHER COVER OEM BEIGE=LC",
+        "name": "2020 - 2023 FORD EDGE REAR LEFT SEAT UPPER CUSHION LEATHER COVER OEM BEIGE=LC",
         "number": "FT4Z5866601EL / FT4Z5866601 EL / FT4Z 5866601 EL\t",
         "oem": "",
         "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
@@ -13172,13 +13438,6 @@ export function App() {
         "name": "2015 - 2023 FORD EDGE FRONT RIGHT UNDER BODY SPLASH SHIELD GUARD DEFLECTOR OEM",
         "number": "K2GZ5811782C / K2GZ5811782 C / K2GZ 5811782 C\t",
         "oem": "",
-        "notes": ""
-    },
-    {
-        "id": "yzznugUBsAU0O-3DWGA5M",
-        "name": "2015 - 2023 FORD EDGE REAR BUMPER REINFORCEMENT IMPACT BEEM BAR OEM",
-        "number": "FT4Z17906A / FT4Z17906 A / FT4Z 17906 A",
-        "oem": "FT4Z17906E / FT4Z17906 E / FT4Z 17906 E\t",
         "notes": ""
     },
     {
@@ -59271,13 +59530,6 @@ export function App() {
             "notes": ""
         },
         {
-            "id": "nzAh7Fr63rloQCRX5UjpT",
-            "name": "2015- 2023 FORD EDGE REAR BUMPER REINFORCEMENT ENERGY IMPACT BAR OEM FT4B17970AC",
-            "number": "FT4B17970AC / FT4B17970 AC / FT4B 17970 AC",
-            "oem": "FT4Z17906A / FT4Z17906 A / FT4Z 17906 A",
-            "notes": ""
-        },
-        {
             "id": "ejpHn7c99CekwImbKGqrx",
             "name": "2015- 2023 FORD EDGE REAR BUMPER LEFT BLIND SPOT MODULE BRACKET OEM FT4T14D189AX",
             "number": "FT4T14D189AX / FT4T14D189 AX / FT4T 14D189 AX",
@@ -59373,13 +59625,6 @@ export function App() {
             "name": "2015 - 2023 FORD EDGE FRONT LEFT MIDDLE A PILLAR TRIM COVER OEM GT4BR026A23AA",
             "number": "GT4BR026A23AA / GT4BR026A23 AA / GT4B R026A23 AA\t",
             "oem": "GT4Z5802345AB / GT4Z5802345 AB / GT4Z 5802345 AB",
-            "notes": ""
-        },
-        {
-            "id": "_ydywUVv7RveRgWfU-qvM",
-            "name": "2019 - 2023 FORD EDGE REAR ANTENNA SHARK FIN OEM JD9T19K351AA SILVER=JS",
-            "number": "JD9T19K351AA / JD9T19K351 AA / JD9T 19K351 AA",
-            "oem": "JJ7Z18936AAPTM / JJ7Z18936 AAPTM / JJ7Z 18936 AAPTM",
             "notes": ""
         },
         {
@@ -59699,7 +59944,7 @@ export function App() {
         },
         {
             "id": "HFRteyGiKHmgUWG_w1P4A",
-            "name": "2019-2023 FORD EDGE 2.0L BATTERY POSITIVE NEGATIVE WIRE HARNESS OEM K2GT14A280BJ",
+            "name": "2015-2023 FORD EDGE 2.0L ALTERNATOR STARTER WIRE WIRING HARNESS OEM K2GT14A280BJ",
             "number": "K2GT14A280BJ / K2GT14A280 BJ / K2GT 14A280 BJ",
             "oem": "K2GZ14300B / K2GZ14300 B / K2GZ 14300 B\t",
             "notes": ""
@@ -60609,14 +60854,14 @@ export function App() {
         },
         {
             "id": "k1xBMPAiqp_VIEkUF-6ji",
-            "name": "2020 16 17 18 19 20 21 22 FORD EDGE TITANIUM RADIO RECEIVER OEM LT4T18D818СС",
-            "number": "LT4T18D818СС / LT4T18D818 СС / LT4T 18D818 СС",
+            "name": "2020 16 17 18 19 20 21 22 23 FORD EDGE TITANIUM RADIO RECEIVER OEM LT4T18D818CC",
+            "number": "LT4T18D818CC / LT4T18D818 CC / LT4T 18D818 CC",
             "oem": "FT4Z18C869Q / FT4Z18C869 Q / FT4Z 18C869 Q\t",
-            "notes": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022\t"
+            "notes": "2016 / 2017 / 2018 / 2019 / 2020 / 2021 / 2022 / 2023"
         },
         {
             "id": "h7AS4gzL_K-1-YJA4OwAd",
-            "name": "2019 - 2023 FORD EDGE DASH RADIO & CLIMATE CONTROL MODULE UNIT OEM LT4T18E245FB",
+            "name": "2019 - 2020 FORD EDGE DASH RADIO & CLIMATE CONTROL MODULE UNIT OEM LT4T18E245FB",
             "number": "LT4T18E245FB / LT4T18E245 FB / LT4T 18E245 FB\t",
             "oem": "KT4Z18842BB / KT4Z18842 BB / KT4Z 18842 BB\t",
             "notes": ""
@@ -60696,7 +60941,7 @@ export function App() {
             "name": "2015 - 2023 FORD EDGE FWD 2.0L POWER BRAKE BOOSTER W/ RESERVOIR OEM F2GC2B195BG",
             "number": "F2GC2B195BG / F2GC2B195 BG / F2GC 2B195 BG\t",
             "oem": "F2GZ2005F / F2GZ2005 F / F2GZ 2005 F, J2GZ2K478A / J2GZ2K478 A / J2GZ 2K478 A",
-            "notes": ""
+            "notes": "2.0L ENGINE ONLY."
         },
         {
             "id": "QNUm2vTvv0AoCntDifNGk",
@@ -60997,7 +61242,7 @@ export function App() {
             "name": "2015 - 2023 FORD EDGE 2.0L ENGINE SLASH SHIELD MUD FLAP COVER OEM FT4B6P013BD",
             "number": "FT4B6P013BD / FT4B6P013 BD / FT4B 6P013 BD",
             "oem": "FT4Z6P013B / FT4Z6P013 B / FT4Z 6P013 B",
-            "notes": ""
+            "notes": "2.0L ENGINE ONLY."
         },
         {
             "id": "r8UtugJuWbAT5OgcAmBD9",
@@ -61123,7 +61368,7 @@ export function App() {
             "name": "2019 - 2023 FORD EDGE FWD 2.0L AUTOMATIC TRANSMISSION 19K MILEAGE OEM K2GP7000RC",
             "number": "K2GP7000RC / K2GP7000 RC / K2GP 7000 RC\t",
             "oem": "K2GZ7000F / K2GZ7000 F / K2GZ 7000 F",
-            "notes": "COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
+            "notes": "FRONT WHEEL DRIVE ONLY. COMMERCIAL ADDRESS REQUIRED FOR SHIPPING."
         },
         {
             "id": "E4zzNVBU-018lYpGPJztd",
@@ -61204,16 +61449,16 @@ export function App() {
         },
         {
             "id": "G7zQ7whonUCyaZsLHfxj2",
-            "name": "2015 - 2023 FORD EDGE FWD REAR STABILIZER SWAY BAR W/ LINKS OEM F2GC5A772AN",
-            "number": "F2GC5A772AN / F2GC5A772AN / F2GC5A772AN",
+            "name": "2015 - 2023 FORD EDGE FWD 2.0L REAR STABILIZER SWAY BAR W/ LINK OEM F2GC5A772ANC",
+            "number": "F2GC5A772ANC / F2GC5A772 ANC / F2GC 5A772 ANC",
             "oem": "F2GZ5A772B / F2GZ5A772 B / F2GZ 5A772 B, F2GZ5C486A / F2GZ5C486 A / F2GZ 5C486 A",
-            "notes": ""
+            "notes": "2.0L ENGINE ONLY."
         },
         {
             "id": "uCVvX1IqbVkimIq6zktIH",
             "name": "2019 - 2023 FORD EDGE FWD 2.0L STEERING GEAR RACK & PINION OEM L2GC3D070AB",
             "number": "L2GC3D070AB / L2GC3D070 AB / L2GC 3D070 AB",
-            "oem": "M2GZ3504D / M2GZ3504 D / M2GZ 3504 D",
+            "oem": "M2GZ3504D / M2GZ3504 D / M2GZ 3504 D, M2GZ3504F / M2GZ3504 F / M2GZ 3504 F",
             "notes": ""
         },
         {
@@ -61228,7 +61473,7 @@ export function App() {
             "name": "2015 - 2023 FORD EDGE FWD 2.0L FRONT STABILIZER SWAY BAR W/ LINKS OEM F2GC5494AN",
             "number": "F2GC5494AN / F2GC5494 AN / F2GC 5494 AN",
             "oem": "F2GZ5482A / F2GZ5482 A / F2GZ 5482 A, DG9Z5K484A / DG9Z5K484 A / DG9Z 5K484 A",
-            "notes": ""
+            "notes": "2.0L ENGINE ONLY."
         },
         {
             "id": "L8nCZwP8mQirXbsLhRSuv",
@@ -61463,8 +61708,8 @@ export function App() {
         },
         {
             "id": "DsABnjGf3YHwiCyT-U6xp",
-            "name": "2020 - 2023 FORD EDGE 2.0L FWD ENGINE BAY WIRE WIRING HARNESS OEM K2GT12A581NB",
-            "number": "K2GT12A581NB / K2GT12A581 NB / K2GT 12A581 NB\t",
+            "name": "2020 - 2023 FORD EDGE FWD 2.0L ENGINE BAY WIRE WIRING HARNESS OEM K2GT12A581NBK",
+            "number": "K2GT12A581NBK / K2GT12A581 NBK / K2GT 12A581 NBK\t",
             "oem": "KU5Z12A581L / KU5Z12A581 L / KU5Z 12A581 L",
             "notes": ""
         },
