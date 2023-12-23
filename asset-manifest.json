@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/testpartsbase/static/css/main.06033140.css",
-    "main.js": "/testpartsbase/static/js/main.f2ea516e.js",
+    "main.js": "/testpartsbase/static/js/main.315d764e.js",
     "index.html": "/testpartsbase/index.html",
     "main.06033140.css.map": "/testpartsbase/static/css/main.06033140.css.map",
-    "main.f2ea516e.js.map": "/testpartsbase/static/js/main.f2ea516e.js.map"
+    "main.315d764e.js.map": "/testpartsbase/static/js/main.315d764e.js.map"
   },
   "entrypoints": [
     "static/css/main.06033140.css",
-    "static/js/main.f2ea516e.js"
+    "static/js/main.315d764e.js"
   ]
 }
